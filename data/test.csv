@@ -1,0 +1,1013 @@
+respondent_id,age,gender,field_of_study,sleep_hours,physical_activity_hrs_per_week,caffeine_intake_mg_per_day,academic_stress_level_1_10,resting_heart_rate_bpm,diet_quality_1_10,pre_exam_anxiety_level_1_10,screen_time_hrs_per_day,social_media_hrs_per_day,screen_time_before_bed_minutes,notifications_per_day,uses_productivity_app,favorite_content_type,study_hours_per_week,procrastination_level_1_10,frequently_procrastinates,class_attendance_percent,late_assignments_per_semester,gpa,family_academic_achievement_history,takes_extra_tutoring,major_life_event_this_semester
+STU-01859,29,Other,Visual Communication Design,6.6,1.7,149.0,1,70,3,2,16.0,6.7,31,0,Yes,Gaming,2.3,6,No,,4,2.05,No,Yes,Yes
+STU-02183,40,Male,Law,7.2,4.9,421.0,9,86,2,5,5.4,0.4,41,38,No,News,0.0,3,No,79.2,0,2.54,No,Yes,No
+STU-04089,59,Other,Computer Science,6.4,5.9,332.0,7,84,4,4,3.6,2.1,62,112,Yes,Social Media/Trends,4.5,6,Yes,88.5,6,3.27,No,Yes,No
+STU-04072,24,Male,Information Systems,9.1,1.6,359.0,3,91,1,2,8.9,2.9,22,75,No,News,6.8,9,Yes,77.3,9,2.24,Yes,Yes,Yes
+STU-04352,32,Other,Sports Science,7.6,3.4,112.0,9,72,9,5,3.6,0.0,36,112,Yes,Social Media/Trends,0.0,5,Yes,65.0,4,2.23,No,Yes,Yes
+STU-02085,59,Male,Computer Science,5.5,1.3,203.0,4,87,4,2,12.5,5.1,29,38,No,Education,4.5,10,Yes,78.4,0,2.01,No,No,Yes
+STU-01987,53,Other,Biology/Science,7.2,2.1,560.0,6,78,2,5,7.2,0.4,24,112,No,Entertainment,0.0,6,Yes,83.1,2,2.3,No,No,No
+STU-01328,61,Female,Education,4.4,4.1,,7,94,7,6,15.1,5.1,44,0,Yes,Education,0.0,10,Yes,66.3,4,1.73,No,Yes,Yes
+STU-01221,34,Other,Education,7.7,3.9,113.0,9,85,8,4,1.9,1.3,70,38,No,Education,0.0,6,No,74.4,2,2.32,No,No,Yes
+STU-04576,37,Female,Biology/Science,6.1,3.8,259.0,7,107,8,3,13.4,0.0,63,112,Yes,Gaming,2.3,2,No,91.6,4,2.43,No,Yes,Yes
+STU-00061,55,Other,Nursing,4.9,0.9,233.0,4,119,1,3,16.0,0.0,0,0,Yes,Gaming,0.0,3,No,82.0,0,2.06,No,No,Yes
+STU-00034,18,Other,Information Systems,7.3,2.5,348.0,9,117,3,5,9.8,0.0,70,38,Yes,News,2.3,7,Yes,77.0,3,2.14,Yes,Yes,No
+STU-03045,36,Female,Electrical Engineering,6.9,5.0,572.0,9,83,9,4,15.1,2.9,43,75,No,Gaming,2.3,3,No,86.2,6,2.34,No,No,Yes
+STU-02108,38,MALE,Electrical Engineering,6.3,1.1,380.0,10,65,7,7,1.9,4.6,20,0,Yes,Entertainment,20.5,4,No,75.4,6,3.27,Yes,No,No
+STU-03647,27,Male,Electrical Engineering,7.2,5.8,508.0,8,118,2,4,9.8,2.9,0,38,No,News,2.3,2,No,93.1,2,2.5,Yes,No,Yes
+STU-04455,54,Other,Medicine,6.1,4.9,433.0,9,96,5,5,10.7,0.0,22,75,Yes,Gaming,4.5,10,Yes,60.3,4,2.56,Yes,Yes,Yes
+STU-00677,56,Male,Fine Arts,6.3,5.6,284.0,6,103,1,3,7.2,,30,112,Yes,Social Media/Trends,9.1,7,No,,3,2.71,Yes,No,Yes
+STU-00191,35,Female,Other Program,4.1,0.9,355.0,9,94,1,8,16.0,2.5,16,150,No,Entertainment,15.9,9,Yes,,4,2.05,No,Yes,Yes
+STU-01570,50,Other,Law,7.6,3.3,519.0,5,100,9,2,16.0,5.1,36,150,Yes,Social Media/Trends,11.4,5,No,,2,2.41,Yes,No,Yes
+STU-00494,31,Male,Law,7.5,4.5,400.0,6,77,9,5,11.6,0.0,0,112,Yes,Education,4.5,5,No,81.4,4,2.24,No,Yes,Yes
+STU-03315,39,MALE,Visual Communication Design,8.2,0.8,148.0,10,95,8,5,15.1,,28,112,Yes,Entertainment,6.8,6,No,89.0,4,2.75,Yes,No,Yes
+STU-02756,30,Female,Information Systems,4.7,2.6,160.0,2,117,9,5,5.4,0.4,33,0,No,News,2.3,2,No,91.5,5,2.92,No,No,Yes
+STU-00755,34,Male,Medicine,6.9,2.9,413.0,3,88,5,3,14.2,4.2,94,112,No,Education,6.8,10,Yes,77.6,1,1.85,Yes,No,Yes
+STU-04410,39,Other,Medicine,5.6,1.7,402.0,4,95,4,2,15.1,6.7,20,75,Yes,Social Media/Trends,0.0,8,No,97.8,4,2.11,No,No,No
+STU-03585,46,Other,Law,6.2,4.5,425.0,4,70,10,2,10.7,0.0,33,38,No,Gaming,4.5,5,Yes,83.7,4,2.44,No,Yes,No
+STU-02874,21,Other,Medicine,7.2,2.7,262.0,5,71,8,2,6.3,0.0,13,112,No,Gaming,0.0,3,No,66.2,5,2.58,No,No,No
+STU-02314,42,Female,Culinary Arts,7.0,4.6,235.0,1,106,5,1,12.5,7.6,36,0,Yes,Gaming,9.1,10,Yes,74.7,11,2.34,No,Yes,No
+STU-02930,21,Male,Biology/Science,7.1,4.3,500.0,10,79,10,5,14.2,0.8,10,38,No,News,0.0,8,Yes,47.5,2,2.09,No,No,Yes
+STU-03642,60,Female,Other Program,7.4,3.9,51.0,3,88,1,1,3.6,8.0,29,150,Yes,Entertainment,6.8,9,No,65.4,6,2.75,No,Yes,Yes
+STU-04210,61,Male,Visual Communication Design,4.7,3.8,269.0,6,87,1,5,14.2,8.0,43,75,Yes,Social Media/Trends,0.0,4,Yes,76.8,4,1.77,No,Yes,Yes
+STU-04888,28,female,Sports Science,5.7,3.9,165.0,4,110,8,3,7.2,7.2,14,38,No,News,9.1,7,Yes,76.2,3,2.37,Yes,Yes,Yes
+STU-02345,18,Female,Culinary Arts,7.6,1.7,307.0,4,68,4,1,15.1,5.1,36,75,Yes,News,6.8,10,Yes,88.5,5,2.12,Yes,Yes,Yes
+STU-04254,31,Other,Computer Science,5.9,3.2,354.0,5,83,9,2,2.8,6.7,77,75,Yes,Gaming,6.8,7,Yes,84.6,4,2.69,Yes,No,Yes
+STU-00023,58,Male,Information Systems,6.0,0.4,139.0,2,79,3,2,14.2,8.0,80,150,No,,4.5,5,No,84.3,3,2.59,Yes,Yes,Yes
+STU-01954,36,Female,Biology/Science,6.6,6.1,385.0,4,81,3,4,12.5,0.4,83,150,No,News,,5,Yes,69.1,2,2.5,Yes,Yes,No
+STU-00530,26,Male,Computer Science,7.8,3.8,382.0,6,75,5,5,1.0,2.9,44,75,No,Gaming,11.4,1,No,70.5,0,3.06,Yes,Yes,Yes
+STU-02914,47,Female,Culinary Arts,6.8,3.2,341.0,3,109,4,4,7.2,,65,38,No,Entertainment,2.3,4,Yes,82.7,5,2.51,No,No,No
+STU-04710,57,Male,Education,7.9,5.0,250.0,7,102,6,4,10.7,,53,150,No,Entertainment,2.3,5,No,77.8,9,1.98,No,No,No
+STU-04555,36,Other,Culinary Arts,7.5,1.3,278.0,5,101,5,2,11.6,0.0,8,0,Yes,Social Media/Trends,6.8,6,Yes,75.8,0,2.29,Yes,Yes,No
+STU-02496,64 yrs,Male,Fine Arts,6.1,4.0,106.0,3,72,6,3,6.3,3.8,44,75,No,News,2.3,2,No,79.6,4,2.21,No,Yes,No
+STU-02190,59,Female,Sports Science,6.9,2.7,299.0,10,114,3,4,8.1,4.6,42,150,No,Education,6.8,5,No,68.9,0,2.36,Yes,No,No
+STU-00072,56,Other,Education,6.1,1.1,205.0,1,66,8,2,1.9,4.6,45,75,Yes,Entertainment,4.5,3,No,86.3,1,2.56,No,No,Yes
+STU-03053,50,Other,Information Systems,6.0,5.7,392.0,6,84,2,5,3.6,6.7,2,150,Yes,,0.0,8,Yes,72.4,7,2.18,No,Yes,Yes
+STU-04808,29,Female,Electrical Engineering,7.7,2.9,381.0,1,86,3,1,13.4,1.3,17,38,No,Gaming,0.0,8,Yes,69.3,8,2.14,No,No,No
+STU-04660,49,Female,Electrical Engineering,7.7,3.0,550.0,10,103,3,6,11.6,1.3,32,150,,News,2.3,4,No,68.0,0,2.53,No,Yes,Yes
+STU-01008,39,Female,Nursing,6.2,3.7,257.0,6,95,9,3,5.4,2.1,0,150,Yes,Social Media/Trends,11.4,7,No,76.1,6,2.35,Yes,Yes,No
+STU-05059,26,Female,Other Program,7.3,0.5,20.0,1,108,3,1,7.2,8.0,32,-5,,Education,9.1,9,No,63.3,5,1.91,Yes,No,No
+STU-02134,21,Male,Sports Science,8.1,5.2,97.0,9,100,7,5,1.9,1.7,3,150,,News,4.5,9,No,73.8,6,2.12,Yes,Yes,No
+STU-03859,57,Other,Other Program,6.6,3.3,239.0,9,114,6,5,11.6,3.8,65,150,Yes,News,2.3,3,No,,6,2.35,No,No,Yes
+STU-02463,26,Male,Computer Science,6.1,3.0,383.0,6,119,9,5,10.7,4.2,18,38,No,Entertainment,9.1,3,No,,3,2.22,No,No,Yes
+STU-04163,38,Female,Information Systems,6.7,1.2,248.0,6,72,4,4,13.4,2.1,79,38,No,News,11.4,7,No,83.9,4,2.25,Yes,Yes,Yes
+STU-04654,21,Other,Fine Arts,6.7,2.8,127.0,4,114,3,3,13.4,0.4,46,75,No,News,2.3,9,Yes,73.7,6,2.18,No,Yes,Yes
+STU-00304,37,Female,Computer Science,5.9,2.8,333.0,2,112,5,1,1.9,1.7,69,75,Yes,News,2.3,4,No,86.9,4,3.21,Yes,Yes,Yes
+STU-04345,30,Male,Visual Communication Design,7.2,2.3,,7,92,1,4,9.8,0.8,29,0,No,Gaming,4.5,3,No,90.8,3,2.24,No,Yes,Yes
+STU-04875,23,Other,Computer Science,8.4,1.4,158.0,2,77,6,1,7.2,4.2,52,0,No,Education,0.0,6,No,58.0,5,2.29,Yes,No,No
+STU-04228,48,Male,Medicine,6.6,1.1,358.0,1,100,5,2,10.7,1.3,62,38,No,Social Media/Trends,2.3,4,No,93.8,3,2.75,No,Yes,Yes
+STU-02823,31,Female,Information Systems,6.1,2.0,383.0,8,69,9,3,4.5,0.8,67,112,Yes,News,2.3,7,Yes,100.0,4,2.59,No,Yes,Yes
+STU-02869,44,Other,Culinary Arts,6.9,3.9,306.0,2,84,7,3,2.8,6.3,6,75,No,Social Media/Trends,0.0,6,No,77.5,5,2.24,No,No,No
+STU-04233,21,Male,Education,6.9,4.8,85.0,10,81,9,5,11.6,6.3,11,0,Yes,News,9.1,4,No,97.4,4,2.56,Yes,No,No
+STU-01907,24,Male,Nursing,8.7,2.4,304.0,6,115,2,5,14.2,0.0,31,38,Yes,Gaming,9.1,6,Yes,80.9,8,1.88,Yes,Yes,No
+STU-01978,29,Female,Computer Science,7.3,5.8,281.0,9,99,9,4,2.8,,75,0,Yes,Education,2.3,6,Yes,69.5,3,2.58,No,Yes,No
+STU-03273,20,Other,Computer Science,9.1,3.7,321.0,10,67,8,5,10.7,3.8,33,38,No,Entertainment,2.3,9,Yes,75.2,0,2.1,Yes,Yes,No
+STU-02764,36,Male,Law,7.2,5.1,388.0,4,83,5,1,1.0,4.2,77,112,Yes,Education,2.3,7,No,82.2,7,2.67,No,Yes,Yes
+STU-01114,23,Other,Law,4.5,0.5,522.0,8,92,2,10,15.1,4.6,25,150,Yes,Education,9.1,9,Yes,59.0,5,2.14,No,Yes,Yes
+STU-02095,18,male,Sports Science,6.5,2.6,234.0,10,118,10,6,1.0,3.8,21,75,No,Gaming,11.4,9,Yes,97.3,7,2.36,Yes,No,Yes
+STU-03117,30,Other,Medicine,7.3,0.8,445.0,7,90,9,5,13.4,3.4,32,75,Yes,Social Media/Trends,4.5,3,No,78.5,3,2.13,No,Yes,No
+STU-01586,44,Female,Visual Communication Design,5.9,3.4,101.0,5,78,5,3,1.9,1.3,24,150,No,News,4.5,3,No,84.1,2,2.51,Yes,No,No
+STU-01121,47,Female,Culinary Arts,4.9,3.3,153.0,7,82,2,5,14.2,2.1,60,75,No,Entertainment,6.8,7,Yes,80.1,8,2.49,Yes,No,Yes
+STU-01146,45,Female,Computer Science,3.8,1.3,390.0,8,111,4,10,9.8,3.4,49,75,Yes,News,18.2,5,No,66.8,5,2.64,Yes,Yes,Yes
+STU-00389,33,Male,Electrical Engineering,8.4,1.1,389.0,3,97,5,2,9.8,7.6,63,38,Yes,Entertainment,0.0,10,Yes,83.4,6,1.89,No,No,Yes
+STU-00632,63,Other,Medicine,6.3,3.6,417.0,8,98,6,4,8.1,6.3,63,112,Yes,Entertainment,2.3,4,No,,2,2.35,No,No,No
+STU-03281,46,FEMALE,Visual Communication Design,7.1,3.1,155.0,10,114,6,5,3.0,0.0,0,112,Yes,Social Media/Trends,0.0,3,No,95.9,4,2.86,No,Yes,Yes
+STU-03049,43,Female,Biology/Science,8.6,2.9,587.0,7,71,10,4,6.3,3.8,51,150,Yes,Gaming,6.8,5,No,69.2,4,2.36,Yes,No,No
+STU-03756,32,Male,Information Systems,8.3,3.9,360.0,7,63,1,2,16.0,2.5,59,75,Yes,Social Media/Trends,,7,No,76.2,6,2.21,No,Yes,No
+STU-01662,26,Male,Sports Science,7.6,1.3,,2,81,2,3,2.8,7.2,7,0,Yes,Entertainment,2.3,7,Yes,82.2,6,2.83,No,Yes,Yes
+STU-03100,25,Other,Visual Communication Design,7.5,2.6,54.0,2,107,4,1,5.4,1.3,58,75,No,Entertainment,4.5,4,No,73.5,2,2.69,No,Yes,No
+STU-01187,33,Other,Nursing,7.2,3.8,280.0,5,72,10,3,8.1,1.7,0,75,No,Social Media/Trends,9.1,3,No,67.7,7,2.66,Yes,No,No
+STU-01149,35,Male,Sports Science,8.0,5.2,168.0,8,87,8,3,9.8,4.6,72,38,Yes,News,0.0,6,Yes,65.1,4,2.37,No,No,No
+STU-00235,56,Other,Law,6.2,3.8,520.0,1,68,1,1,2.8,5.5,4,38,No,News,4.5,6,No,92.4,5,2.58,Yes,Yes,No
+STU-03199,24,Other,Nursing,9.2,3.9,359.0,5,67,1,1,7.2,6.7,57,38,No,News,0.0,6,Yes,80.7,5,2.24,No,Yes,No
+STU-00244,50,Male,Culinary Arts,5.6,1.5,324.0,8,68,3,4,8.1,8.0,13,112,No,Gaming,4.5,9,Yes,72.5,7,1.89,No,No,No
+STU-03865,27,Other,Nursing,7.6,0.5,363.0,3,89,4,4,3.6,3.4,54,0,Yes,,9.1,4,Yes,100.0,0,2.37,Yes,Yes,Yes
+STU-01544,49,Male,Law,7.0,4.5,536.0,7,116,2,3,7.2,8.0,22,38,Yes,Gaming,9.1,2,No,79.7,4,2.84,No,No,No
+STU-01714,28,Male,Nursing,4.3,0.4,571.0,10,116,2,10,8.9,3.8,35,75,No,Social Media/Trends,18.2,7,No,66.1,5,2.58,Yes,Yes,Yes
+STU-00269,37,Male,Computer Science,3.4,2.2,362.0,10,96,2,8,8.9,3.4,28,150,Yes,Entertainment,13.6,7,Yes,92.4,6,2.57,No,Yes,No
+STU-00361,37,Female,Biology/Science,6.5,3.7,523.0,3,100,10,2,7.2,7.2,19,112,No,Entertainment,4.5,3,No,68.6,5,2.72,No,Yes,No
+STU-02443,36,Other,Fine Arts,6.4,0.6,168.0,9,105,5,6,1.9,8.0,44,150,Yes,Gaming,2.3,9,Yes,84.5,2,2.08,No,Yes,Yes
+STU-03573,25,Female,Other Program,7.8,5.5,109.0,5,118,7,3,15.1,7.2,13,0,No,Education,9.1,6,Yes,79.4,3,2.46,Yes,No,Yes
+STU-00860,41,Female,Other Program,8.7,7.9,68.0,4,81,10,2,15.1,5.5,71,150,Yes,News,2.3,6,No,75.8,2,2.51,Yes,No,No
+STU-00582,40,Male,Electrical Engineering,5.8,1.3,429.0,7,80,6,5,12.5,5.1,21,150,No,Gaming,2.3,2,No,79.9,3,2.29,No,Yes,No
+STU-03147,50,Male,Education,6.6,2.7,35.0,10,113,5,4,8.9,1.7,60,75,No,Entertainment,13.6,6,Yes,88.5,3,2.24,Yes,Yes,Yes
+STU-03717,24,Other,Culinary Arts,5.6,6.5,399.0,1,97,3,1,1.0,5.9,26,75,No,Gaming,0.0,3,No,83.7,8,2.47,No,No,Yes
+STU-03558,28,Male,Nursing,6.5,2.6,167.0,10,72,3,5,16.0,5.5,28,-5,Yes,Gaming,4.5,4,No,68.8,2,1.92,No,No,No
+STU-03509,64,Other,Biology/Science,7.2,0.6,475.0,5,101,3,4,13.4,7.6,0,112,No,News,9.1,8,Yes,95.6,5,2.37,No,No,No
+STU-04627,36,Female,Biology/Science,5.5,1.1,562.0,5,70,4,4,1.9,,39,0,No,Education,6.8,5,No,76.7,9,2.63,Yes,Yes,No
+STU-03544,60,Male,Fine Arts,6.3,0.9,256.0,5,116,4,3,8.9,7.6,33,112,Yes,Gaming,2.3,3,No,86.5,3,2.3,Yes,Yes,No
+STU-00753,27,Other,Biology/Science,6.0,1.2,473.0,6,62,7,5,1.0,7.6,12,75,Yes,Education,6.8,3,No,65.8,5,2.32,Yes,Yes,No
+STU-04248,61,Male,Sports Science,4.6,4.0,247.0,2,101,3,2,12.5,1.3,84,112,Yes,News,2.3,2,No,,0,2.24,No,No,Yes
+STU-02536,56,female,Sports Science,6.8,4.4,240.0,5,98,4,5,3.6,8.0,33,0,No,News,2.3,1,No,76.1,7,2.63,No,No,Yes
+STU-02852,40,Female,Medicine,6.1,1.8,250.0,1,110,8,1,5.4,4.2,29,150,No,Social Media/Trends,13.6,5,No,87.4,6,2.96,Yes,No,No
+STU-03732,43,Other,Visual Communication Design,6.6,2.2,173.0,2,96,3,2,1.0,3.8,50,38,Yes,Gaming,15.9,9,Yes,100.0,7,2.65,Yes,No,No
+STU-00228,28,Female,Medicine,8.4,0.6,251.0,6,98,8,2,4.5,4.2,38,38,Yes,Gaming,6.8,7,No,64.2,5,2.29,Yes,No,No
+STU-01384,39,female,Visual Communication Design,5.4,1.7,516.0,8,108,1,8,11.6,2.1,53,150,Yes,Education,11.4,7,Yes,91.6,3,2.22,Yes,No,No
+STU-03776,35,Female,Education,6.8,2.3,97.0,8,109,3,3,1.0,4.2,25,38,No,Gaming,11.4,5,Yes,86.0,2,2.83,Yes,Yes,Yes
+STU-02722,54,FEMALE,Culinary Arts,6.1,1.7,365.0,4,115,3,2,11.6,3.4,31,75,No,News,4.5,9,Yes,69.3,3,2.14,Yes,Yes,Yes
+STU-00221,34,FEMALE,Electrical Engineering,7.3,0.9,285.0,5,90,2,2,1.9,5.1,37,38,Yes,Social Media/Trends,4.5,8,No,83.1,7,2.63,No,Yes,Yes
+STU-03462,24,Male,Sports Science,4.3,0.1,364.0,9,96,2,8,12.5,,55,112,No,Entertainment,,2,No,88.8,1,2.69,Yes,No,Yes
+STU-04766,40,Other,Nursing,5.8,1.8,482.0,8,116,3,8,8.1,7.2,38,112,Yes,Entertainment,13.6,9,Yes,79.5,9,2.1,Yes,No,Yes
+STU-03684,28,Male,Other Program,7.3,3.2,209.0,9,66,9,6,7.2,0.4,2,0,No,Social Media/Trends,0.0,7,No,76.0,2,2.24,No,Yes,No
+STU-04707,51,FEMALE,Other Program,7.6,0.6,282.0,5,89,4,3,2.8,4.6,7,38,Yes,,0.0,5,No,73.4,3,2.91,No,Yes,Yes
+STU-00347,30,Other,Medicine,5.2,2.0,304.0,3,116,4,4,6.3,6.7,40,0,No,Social Media/Trends,9.1,2,No,71.0,0,2.61,Yes,Yes,No
+STU-00368,63,Male,Information Systems,5.7,3.2,228.0,5,84,8,3,12.5,1.3,29,38,Yes,News,0.0,4,Yes,81.0,5,2.56,No,Yes,No
+STU-03417,34,Male,Other Program,9.0,1.4,114.0,1,103,8,1,9.8,6.3,17,38,Yes,Social Media/Trends,6.8,7,No,94.1,7,2.03,No,No,No
+STU-00610,59,Male,Nursing,7.0,3.4,245.0,1,95,1,1,6.3,5.1,63,150,No,Gaming,2.3,7,Yes,,2,2.56,No,Yes,Yes
+STU-00666,50,Male,Nursing,7.0,2.5,131.0,2,70,2,1,8.1,4.2,66,75,Yes,Gaming,2.3,10,Yes,91.0,1,2.26,No,No,No
+STU-00636,32,Female,Sports Science,7.8,1.2,173.0,7,80,5,3,7.2,2.1,5,0,No,News,13.6,9,Yes,69.9,3,2.09,Yes,No,No
+STU-02643,52,Other,Fine Arts,7.1,3.3,171.0,9,78,4,5,16.0,4.2,24,0,Yes,Education,9.1,3,No,77.9,1,2.22,Yes,Yes,No
+STU-02088,33,Female,Information Systems,4.1,0.3,337.0,8,107,4,9,12.5,2.1,76,112,No,News,18.2,10,Yes,79.7,6,1.92,Yes,Yes,Yes
+STU-04533,28,Other,Electrical Engineering,5.1,1.1,457.0,8,95,4,9,8.1,7.6,17,112,No,News,9.1,1,No,71.5,4,2.44,No,No,No
+STU-04055,29 yrs,Male,Sports Science,6.5,3.5,293.0,7,83,9,5,14.2,4.2,23,38,No,Gaming,9.1,4,No,74.4,1,2.46,Yes,Yes,Yes
+STU-02010,55,Other,Law,6.3,4.0,369.0,3,89,3,5,8.9,5.9,85,150,Yes,Education,2.3,4,Yes,89.0,1,2.6,Yes,No,Yes
+STU-01261,43,Female,Electrical Engineering,6.7,2.9,539.0,6,110,9,4,13.4,7.2,74,75,No,Social Media/Trends,0.0,10,No,67.8,4,1.87,No,Yes,Yes
+STU-02276,50,Other,Electrical Engineering,5.8,4.4,458.0,8,113,9,3,9.8,4.6,53,0,Yes,News,4.5,7,No,81.1,5,2.46,Yes,No,Yes
+STU-02678,40,Male,Biology/Science,7.6,3.2,332.0,3,64,7,1,10.7,8.0,51,112,No,News,0.0,7,No,75.7,4,2.22,Yes,Yes,Yes
+STU-01504,25,FEMALE,Medicine,5.3,1.1,404.0,8,104,2,10,11.6,6.7,69,112,No,Gaming,15.9,5,Yes,76.0,5,2.62,Yes,No,Yes
+STU-02865,37,Other,Culinary Arts,5.7,2.3,,7,98,2,4,7.2,0.0,56,150,No,Entertainment,11.4,8,Yes,78.3,4,2.53,Yes,No,No
+STU-02055,21,Female,Law,7.2,1.7,500.0,5,81,7,4,8.1,3.4,3,0,No,Social Media/Trends,11.4,3,No,90.2,2,2.98,Yes,Yes,Yes
+STU-02888,34,Other,Culinary Arts,6.1,6.7,189.0,7,102,5,4,8.1,4.6,40,0,No,Education,2.3,7,No,60.1,6,1.81,Yes,No,No
+STU-00571,51,Female,Culinary Arts,6.4,4.8,107.0,4,87,9,4,14.2,1.3,1,38,No,,0.0,8,Yes,,6,1.77,Yes,No,No
+STU-01697,46,Male,Sports Science,5.8,1.2,,1,74,7,1,9.8,3.4,47,150,No,Social Media/Trends,2.3,6,No,70.5,5,2.16,No,Yes,Yes
+STU-04144,19,Male,Fine Arts,7.5,4.3,269.0,1,105,8,2,15.1,,15,38,No,Gaming,9.1,4,No,86.1,0,2.02,Yes,No,Yes
+STU-02707,25,Female,Education,5.1,0.6,358.0,9,108,4,10,9.8,5.9,23,112,Yes,Education,11.4,1,No,69.3,3,2.67,No,No,No
+STU-01473,58,Other,Medicine,7.6,2.4,419.0,7,65,2,3,9.8,5.9,20,0,Yes,Social Media/Trends,2.3,5,No,81.1,5,2.22,No,No,No
+STU-02155,34,Male,Visual Communication Design,6.0,4.3,247.0,3,93,10,3,12.5,3.8,54,38,No,Gaming,6.8,2,No,87.7,1,2.44,Yes,No,Yes
+STU-04116,42,Male,Fine Arts,7.3,2.7,127.0,10,110,5,4,15.1,,58,112,No,Gaming,0.0,6,No,76.8,3,2.26,No,Yes,No
+STU-00680,18,Other,Fine Arts,8.3,0.5,234.0,4,104,7,1,1.0,5.5,56,112,No,News,0.0,6,Yes,92.8,6,2.53,No,Yes,No
+STU-04681,39,Female,Biology/Science,6.8,2.7,264.0,1,97,9,4,4.5,5.1,7,38,No,Education,2.3,10,Yes,72.8,5,1.76,Yes,Yes,No
+STU-04180,41,MALE,Electrical Engineering,7.6,1.6,423.0,8,95,2,6,10.7,1.3,0,112,No,Social Media/Trends,0.0,6,No,78.6,1,2.6,No,Yes,No
+STU-03319,58,Female,Fine Arts,7.5,3.6,,8,76,3,5,14.2,0.8,18,112,Yes,Education,2.3,1,No,81.6,4,2.27,No,Yes,No
+STU-03478,53,Male,Medicine,6.3,2.3,511.0,7,105,8,5,5.4,4.2,28,75,No,Entertainment,15.9,1,No,91.7,3,3.03,Yes,No,No
+STU-02201,46,Female,Medicine,5.9,2.6,265.0,9,106,2,7,1.9,5.9,2,150,Yes,Entertainment,6.8,4,Yes,90.1,2,2.89,No,No,No
+STU-03492,45,Male,Law,6.9,5.6,333.0,7,86,10,6,8.1,6.7,16,0,No,Gaming,0.0,7,No,96.8,4,2.53,No,No,No
+STU-04631,57,Male,Culinary Arts,6.8,2.6,374.0,3,99,6,3,13.4,3.4,31,112,Yes,Education,11.4,2,No,85.3,3,2.45,Yes,Yes,No
+STU-00241,52,Male,Other Program,5.1,0.7,142.0,4,63,9,3,11.6,8.0,1,150,Yes,Social Media/Trends,2.3,7,Yes,,2,2.05,No,Yes,Yes
+STU-04358,32,Male,Information Systems,6.5,5.6,302.0,5,88,2,2,14.2,6.7,44,75,Yes,News,2.3,5,No,80.8,2,2.16,Yes,Yes,No
+STU-02380,42,Female,Information Systems,5.1,5.5,382.0,10,75,10,5,12.5,4.2,14,0,No,Gaming,9.1,7,Yes,80.3,3,2.56,Yes,No,Yes
+STU-03908,31,Female,Information Systems,7.0,2.2,391.0,9,84,1,4,4.5,3.8,40,112,No,Gaming,0.0,5,No,61.3,7,2.2,No,Yes,No
+STU-04066,52,Other,Law,6.8,1.7,546.0,9,111,9,5,8.1,7.6,10,150,No,,11.4,4,No,89.4,4,2.52,Yes,Yes,No
+STU-02761,59,Female,Education,5.0,7.4,168.0,3,69,6,4,4.5,4.6,1,112,Yes,Entertainment,2.3,8,Yes,84.1,5,2.5,Yes,Yes,No
+STU-04111,38,Other,Other Program,5.6,6.2,81.0,7,81,9,5,5.4,3.8,66,150,No,Entertainment,0.0,5,Yes,82.3,3,2.0,Yes,No,Yes
+STU-00266,36,Other,Nursing,7.3,3.4,143.0,6,75,1,2,13.4,7.6,0,112,Yes,Education,0.0,1,No,81.8,1,2.57,No,No,Yes
+STU-02185,31,Other,Nursing,6.8,5.6,202.0,1,81,4,2,3.6,3.8,4,0,No,Gaming,2.3,4,No,93.4,2,2.96,No,No,Yes
+STU-02672,27,Male,Information Systems,8.7,3.4,344.0,1,98,8,2,16.0,,77,112,No,Gaming,4.5,6,Yes,69.7,4,2.27,Yes,No,Yes
+STU-02216,41,Male,Sports Science,7.5,3.6,149.0,10,102,8,3,9.8,4.2,23,38,Yes,Gaming,2.3,7,No,73.2,4,2.08,Yes,Yes,No
+STU-04270,59,Female,Electrical Engineering,6.1,2.1,348.0,1,98,4,1,1.0,4.6,0,38,No,Education,9.1,4,No,73.4,3,3.13,Yes,No,Yes
+STU-03038,46,Male,Other Program,6.7,0.1,3.0,8,93,9,5,2.8,6.3,51,112,No,Gaming,2.3,7,No,79.1,5,2.28,No,Yes,Yes
+STU-00138,40,Female,Visual Communication Design,7.4,4.5,208.0,9,110,2,5,13.4,6.3,78,112,No,Gaming,9.1,3,No,71.9,1,2.77,Yes,No,Yes
+STU-02433,39,MALE,Fine Arts,9.0,6.3,260.0,3,89,1,2,5.4,3.4,54,0,No,Entertainment,13.6,7,No,75.9,0,2.53,Yes,No,Yes
+STU-01793,35,Male,Culinary Arts,5.5,6.0,191.0,5,64,9,3,12.5,7.6,28,112,No,Education,0.0,5,Yes,92.0,5,2.38,No,No,Yes
+STU-00567,63,Male,Information Systems,8.6,2.2,133.0,5,84,8,2,14.2,2.5,31,38,No,Gaming,2.3,5,No,78.2,2,2.3,No,Yes,Yes
+STU-00878,35,Male,Nursing,4.3,1.8,459.0,9,91,4,8,12.5,4.2,33,150,No,Social Media/Trends,9.1,3,No,67.2,3,2.3,Yes,Yes,Yes
+STU-04634,33,Other,Nursing,4.9,1.6,495.0,10,103,4,9,10.7,5.5,13,150,No,Education,11.4,5,Yes,66.4,4,2.52,Yes,Yes,No
+STU-04308,31,Other,Visual Communication Design,5.9,6.1,261.0,9,63,6,5,4.5,1.7,60,112,No,Social Media/Trends,4.5,5,No,61.5,3,2.61,No,No,No
+STU-01726,58,Other,Information Systems,4.8,3.4,121.0,2,61,10,2,7.2,0.8,1,38,No,Entertainment,2.3,6,Yes,,4,2.54,Yes,No,No
+STU-02151,34,Other,Visual Communication Design,6.8,2.8,213.0,8,91,8,3,10.7,8.0,14,38,Yes,Education,2.3,9,No,65.5,6,2.47,No,No,Yes
+STU-05014,40,Other,Medicine,9.2,4.0,570.0,10,70,6,5,2.8,0.8,46,75,,Education,9.1,3,No,79.3,6,2.39,Yes,Yes,No
+STU-01210,44,Other,Fine Arts,5.8,6.0,284.0,10,93,2,6,8.1,5.9,53,112,No,Education,2.3,9,Yes,85.3,3,2.25,No,Yes,Yes
+STU-01537,34,Male,Nursing,9.1,3.4,296.0,1,119,1,1,8.9,0.8,70,112,No,Social Media/Trends,2.3,6,No,76.1,4,2.44,No,No,Yes
+STU-01430,45,Female,Computer Science,5.9,4.4,259.0,6,104,9,4,15.1,3.4,44,38,No,Education,4.5,7,Yes,83.9,3,1.97,Yes,Yes,No
+STU-00705,48,Male,Computer Science,8.2,0.0,225.0,6,94,2,2,13.4,1.7,47,112,Yes,News,13.6,1,No,87.8,4,2.45,Yes,No,No
+STU-01041,45,Other,Sports Science,2.9,1.2,580.0,9,112,1,10,15.1,5.1,32,75,No,Gaming,13.6,8,Yes,66.9,5,1.86,Yes,No,Yes
+STU-03133,49,Male,Sports Science,8.6,4.0,226.0,3,119,8,3,8.9,8.0,73,38,No,Entertainment,6.8,6,Yes,94.7,6,2.57,No,No,Yes
+STU-01548,49,Other,Fine Arts,7.7,1.0,142.0,1,73,10,2,13.4,3.8,0,150,No,Entertainment,4.5,10,Yes,84.9,4,1.72,No,Yes,Yes
+STU-04245,39,Female,Nursing,4.2,2.0,206.0,4,104,2,4,5.4,5.1,74,112,Yes,Social Media/Trends,0.0,5,Yes,72.5,5,2.23,No,Yes,Yes
+STU-01916,45,Male,Fine Arts,6.4,3.9,277.0,8,90,9,5,2.8,4.6,50,150,Yes,Education,6.8,2,No,86.7,1,2.61,Yes,No,No
+STU-03750,45,Other,Sports Science,8.1,4.3,,7,61,4,3,4.5,3.4,40,150,Yes,Education,11.4,5,No,94.8,3,2.83,Yes,Yes,No
+STU-04883,38,Other,Electrical Engineering,8.7,0.3,459.0,2,114,9,5,15.1,6.3,18,38,No,Gaming,2.3,5,No,73.3,3,1.95,Yes,Yes,Yes
+STU-01358,24,Male,Law,8.5,0.0,359.0,9,68,8,5,5.4,3.4,19,75,No,Gaming,0.0,5,No,67.3,6,2.35,No,Yes,No
+STU-03086,46,Other,Electrical Engineering,8.3,2.4,426.0,10,85,6,5,13.4,2.5,43,0,Yes,Entertainment,9.1,2,Yes,74.7,2,2.6,Yes,No,Yes
+STU-02105,35,Female,Information Systems,6.8,2.5,240.0,8,98,3,4,12.5,7.2,32,0,Yes,News,4.5,7,Yes,80.7,3,2.2,Yes,No,Yes
+STU-00894,24,Other,Medicine,7.8,2.8,536.0,10,104,9,5,16.0,0.0,53,150,No,Gaming,4.5,5,No,82.8,3,2.12,No,No,No
+STU-02916,35,Other,Sports Science,7.8,5.2,52.0,6,92,3,3,13.4,4.6,41,150,No,News,4.5,7,Yes,66.6,6,2.03,No,Yes,Yes
+STU-01506,47,female,Sports Science,7.2,3.4,154.0,4,114,4,2,1.0,1.7,49,112,Yes,Education,4.5,8,Yes,79.5,4,2.5,Yes,No,No
+STU-00526,44,Male,Nursing,7.8,0.0,115.0,3,100,7,1,16.0,0.8,39,38,No,Gaming,6.8,1,No,92.2,3,2.54,Yes,No,No
+STU-00654,49,Other,Sports Science,5.3,4.2,120.0,2,109,5,2,5.4,5.1,62,112,Yes,Education,0.0,7,Yes,,7,2.59,No,Yes,No
+STU-04951,58,Female,Medicine,6.9,0.9,373.0,4,90,6,5,7.2,6.7,14,112,Yes,Social Media/Trends,6.8,10,Yes,79.3,8,2.15,Yes,Yes,No
+STU-00843,38,Other,Information Systems,7.3,1.2,367.0,3,109,8,3,11.6,1.3,36,150,Yes,Entertainment,6.8,4,No,85.9,0,2.58,No,No,No
+STU-01271,64,Other,Electrical Engineering,8.0,3.2,393.0,7,118,2,3,7.2,2.1,76,150,Yes,Gaming,0.0,8,No,84.5,3,2.3,No,No,No
+STU-02129,33,Female,Information Systems,8.9,3.4,387.0,1,97,2,1,4.5,7.2,29,75,No,Gaming,4.5,6,No,82.6,6,2.63,Yes,Yes,No
+STU-03134,33,Male,Fine Arts,7.6,3.9,269.0,6,74,4,5,16.0,3.4,49,38,No,Entertainment,11.4,8,Yes,95.9,4,2.49,Yes,Yes,No
+STU-02039,45,Male,Electrical Engineering,5.2,2.4,478.0,2,114,5,3,1.0,3.4,54,150,No,Entertainment,,4,No,70.3,6,2.19,No,No,No
+STU-01927,18,Female,Information Systems,6.9,4.0,115.0,4,82,10,2,14.2,,14,75,Yes,News,0.0,7,No,72.1,6,2.55,No,Yes,Yes
+STU-01378,56,Other,Sports Science,6.4,3.9,124.0,8,88,9,3,2.8,0.0,27,75,No,News,6.8,4,Yes,73.3,4,2.06,Yes,No,No
+STU-02045,19,Female,Computer Science,6.7,2.8,176.0,2,93,3,2,11.6,7.2,24,38,No,Education,4.5,5,No,91.3,3,2.4,Yes,No,Yes
+STU-02501,19,Other,Sports Science,7.5,3.5,171.0,9,119,8,3,1.9,2.1,47,75,Yes,Entertainment,2.3,7,No,100.0,4,2.1,No,Yes,No
+STU-01385,21,Other,Nursing,6.5,1.5,218.0,8,80,9,5,11.6,2.1,92,75,Yes,Education,0.0,7,Yes,88.8,9,2.51,No,No,Yes
+STU-04476,62,Female,Fine Arts,5.6,3.4,270.0,10,103,5,5,2.8,4.2,62,150,No,Entertainment,2.3,10,Yes,74.9,7,2.56,No,No,Yes
+STU-01266,62,Male,Fine Arts,5.9,4.2,252.0,9,108,1,6,15.1,4.2,0,150,Yes,Social Media/Trends,6.8,9,Yes,80.8,5,2.13,Yes,No,Yes
+STU-00276,58,Male,Visual Communication Design,6.4,0.3,292.0,9,114,1,7,11.6,0.8,103,38,No,,15.9,1,No,98.1,1,3.19,Yes,Yes,No
+STU-01021,31,Male,Computer Science,6.0,3.3,228.0,5,105,9,2,15.1,4.2,48,112,Yes,Gaming,0.0,8,No,79.8,6,2.15,No,No,No
+STU-02195,60 yrs,Male,Visual Communication Design,6.3,3.3,144.0,2,72,2,3,13.4,1.7,16,150,Yes,Entertainment,9.1,9,No,72.9,3,2.09,Yes,Yes,No
+STU-00013,24,Male,Fine Arts,6.3,3.8,76.0,3,78,7,2,9.8,0.0,44,0,Yes,News,18.2,5,No,87.6,3,2.73,Yes,No,No
+STU-03465,35,Female,Electrical Engineering,8.3,1.3,512.0,5,78,7,3,10.7,1.7,36,75,No,Education,6.8,2,Yes,95.4,1,2.51,Yes,Yes,No
+STU-02303,59,Male,Medicine,6.8,3.1,394.0,8,105,1,4,12.5,5.1,45,75,Yes,Gaming,0.0,7,Yes,89.3,5,2.35,No,Yes,No
+STU-03434,61,FEMALE,Nursing,5.5,1.8,366.0,1,85,3,3,1.0,4.2,26,112,No,News,2.3,8,Yes,65.0,7,2.12,No,No,Yes
+STU-04104,26,Other,Education,6.2,5.9,178.0,3,105,3,2,16.0,4.6,35,150,No,Gaming,2.3,5,Yes,85.0,5,2.18,No,Yes,No
+STU-00324,32,Male,Information Systems,7.0,4.3,257.0,7,85,8,4,15.1,5.1,16,38,No,Social Media/Trends,4.5,8,Yes,82.8,4,2.19,No,Yes,No
+STU-04594,48,Male,Biology/Science,5.4,1.5,400.0,8,108,7,4,8.9,1.7,61,38,Yes,Education,9.1,5,Yes,75.5,0,2.59,Yes,No,Yes
+STU-02300,51,Other,Visual Communication Design,6.3,2.9,293.0,9,91,10,5,1.0,3.4,52,0,No,Entertainment,2.3,6,Yes,86.4,2,2.32,Yes,Yes,No
+STU-02176,34,female,Biology/Science,4.5,3.0,585.0,8,82,10,7,7.2,4.6,51,38,Yes,Education,2.3,5,No,100.0,2,2.56,No,Yes,Yes
+STU-04695,23,FEMALE,Nursing,8.9,3.4,219.0,6,81,7,2,2.8,8.0,2,38,No,Entertainment,4.5,6,No,73.9,0,2.14,No,No,No
+STU-03025,35,Other,Other Program,7.6,4.1,115.0,4,96,3,2,8.9,0.8,59,150,Yes,Social Media/Trends,4.5,6,No,61.4,3,2.73,Yes,No,No
+STU-00925,52,Other,Biology/Science,6.3,3.0,443.0,3,74,5,2,14.2,1.3,39,38,Yes,Social Media/Trends,2.3,3,No,89.0,5,2.46,No,No,Yes
+STU-02953,36,FEMALE,Visual Communication Design,7.9,5.2,66.0,5,76,9,1,4.5,3.8,10,112,No,Gaming,0.0,8,Yes,56.7,3,2.49,No,No,No
+STU-02906,47,Female,Fine Arts,6.9,4.7,253.0,9,69,3,4,4.5,3.4,85,38,Yes,Entertainment,2.3,7,Yes,76.1,6,1.95,No,No,Yes
+STU-00042,19,Other,Computer Science,8.3,6.6,278.0,5,71,3,4,7.2,1.3,17,0,Yes,Gaming,18.2,8,Yes,,5,2.6,Yes,Yes,Yes
+STU-01957,46,Female,Computer Science,6.4,1.4,166.0,6,105,3,3,11.6,5.9,50,38,Yes,Gaming,2.3,4,No,86.4,2,2.42,No,No,No
+STU-03112,38,Other,Biology/Science,4.6,2.7,421.0,9,109,1,10,8.1,5.1,7,150,Yes,Social Media/Trends,9.1,8,Yes,81.3,1,2.52,Yes,No,Yes
+STU-00801,51,Female,Education,6.9,3.8,194.0,1,87,3,1,6.3,,40,38,No,Social Media/Trends,0.0,2,No,85.9,2,2.34,No,Yes,Yes
+STU-02411,41,Female,Electrical Engineering,5.6,1.7,491.0,8,97,9,5,13.4,2.9,18,112,No,News,2.3,6,No,84.0,6,2.01,Yes,No,Yes
+STU-04908,57,Female,Visual Communication Design,6.4,5.8,228.0,5,119,3,1,14.2,3.4,33,38,Yes,Social Media/Trends,0.0,4,No,98.8,5,2.25,No,Yes,No
+STU-01168,64,Other,Fine Arts,5.4,4.2,175.0,2,85,7,2,7.2,,78,38,No,Gaming,0.0,9,Yes,86.8,5,2.17,No,No,No
+STU-04538,31,Female,Visual Communication Design,7.1,1.0,286.0,5,104,8,4,9.8,5.5,65,0,Yes,Education,9.1,7,Yes,84.4,5,2.43,Yes,No,Yes
+STU-03791,62,Male,Sports Science,5.3,0.2,179.0,3,87,4,4,12.5,2.5,11,38,No,Social Media/Trends,4.5,7,No,81.2,4,2.03,Yes,Yes,Yes
+STU-01054,51,Female,Visual Communication Design,8.1,2.9,84.0,1,111,3,1,14.2,3.4,65,38,Yes,Gaming,4.5,8,No,88.8,7,1.91,Yes,No,No
+STU-03915,31,Female,Law,6.6,4.9,434.0,6,115,2,3,5.4,0.0,61,75,No,News,4.5,4,No,83.4,1,2.62,Yes,No,No
+STU-00293,41,Male,Nursing,8.6,5.8,232.0,5,104,3,1,13.4,1.3,22,112,No,Entertainment,0.0,2,Yes,90.1,7,2.49,Yes,Yes,No
+STU-03175,22,female,Other Program,6.9,2.8,57.0,4,74,6,2,16.0,3.8,1,38,Yes,Gaming,2.3,6,No,84.6,5,1.85,Yes,No,No
+STU-00401,41,Female,Visual Communication Design,4.9,0.3,504.0,10,111,2,9,13.4,7.2,72,112,No,Education,13.6,3,No,92.6,2,3.09,Yes,Yes,Yes
+STU-00422,37,Female,Culinary Arts,8.7,0.9,193.0,1,79,4,2,8.1,3.4,63,38,No,Social Media/Trends,0.0,4,No,91.6,1,2.46,No,Yes,No
+STU-02587,47,Female,Electrical Engineering,4.1,0.7,333.0,8,92,1,8,12.5,2.9,70,150,Yes,Entertainment,13.6,8,No,81.5,4,2.26,Yes,No,No
+STU-04121,51,Male,Law,5.8,5.1,,10,70,4,5,1.0,0.0,63,75,Yes,Gaming,11.4,2,Yes,88.2,0,2.95,Yes,No,No
+STU-05042,39,Other,Information Systems,6.4,5.1,326.0,3,118,2,3,4.5,8.0,67,112,Yes,Education,0.0,6,Yes,61.7,6,2.51,No,Yes,Yes
+STU-03868,33,Female,Electrical Engineering,8.2,6.0,271.0,4,76,5,4,2.8,1.7,25,0,No,Entertainment,9.1,5,No,95.8,0,3.03,Yes,No,Yes
+STU-01858,57,Female,Law,4.5,0.7,273.0,7,95,1,4,16.0,5.1,0,38,No,Social Media/Trends,9.1,7,Yes,69.5,1,2.43,Yes,No,No
+STU-02328,30,Male,Culinary Arts,7.1,5.3,200.0,2,101,6,3,3.6,4.6,58,150,No,Education,2.3,6,No,72.6,2,2.11,Yes,Yes,No
+STU-03504,57,Female,Culinary Arts,5.9,5.6,317.0,8,64,5,5,4.5,5.5,0,75,Yes,News,2.3,10,Yes,100.0,8,2.22,Yes,No,No
+STU-03425,29,Female,Education,8.4,7.6,26.0,10,84,1,5,1.0,4.2,50,38,No,Education,6.8,7,No,100.0,6,2.56,Yes,Yes,No
+STU-03607,33,male,Nursing,8.4,4.9,225.0,9,77,5,5,2.8,7.6,51,112,Yes,,6.8,10,Yes,,7,2.55,Yes,No,No
+STU-03236,44,Other,Fine Arts,8.7,5.3,107.0,3,118,10,2,10.7,5.9,39,0,Yes,News,9.1,3,No,72.2,6,2.36,Yes,Yes,Yes
+STU-04662,47,Female,Computer Science,7.0,2.1,261.0,2,80,8,2,16.0,5.1,41,112,No,Social Media/Trends,2.3,4,No,79.5,3,1.86,Yes,Yes,No
+STU-02485,32,Male,Biology/Science,7.4,2.2,417.0,7,100,1,5,2.8,,0,38,No,News,4.5,8,Yes,66.5,7,2.39,Yes,Yes,No
+STU-02876,40,Other,Medicine,7.0,3.1,556.0,6,104,7,4,11.6,4.2,10,0,No,Social Media/Trends,0.0,10,Yes,79.8,6,2.26,Yes,Yes,No
+STU-02922,52,Other,Other Program,8.4,3.7,79.0,10,66,7,4,7.2,0.4,70,112,No,Gaming,0.0,8,Yes,66.5,6,2.47,No,Yes,Yes
+STU-00561,34,MALE,Sports Science,7.0,1.0,251.0,2,61,5,3,11.6,3.4,35,0,No,Entertainment,4.5,5,Yes,72.3,6,2.58,Yes,No,No
+STU-00030,23,Male,Medicine,7.2,4.9,459.0,2,109,5,1,5.4,2.5,6,38,No,,2.3,6,No,,4,2.74,No,Yes,No
+STU-00877,35,Other,Culinary Arts,7.7,1.8,112.0,3,105,4,1,8.9,5.9,17,112,No,Social Media/Trends,0.0,6,No,100.0,5,2.42,No,Yes,No
+STU-05015,37,Female,Education,8.2,1.6,157.0,9,105,9,4,16.0,5.5,20,112,No,Gaming,9.1,4,No,87.3,4,2.84,Yes,No,No
+STU-04053,18,Male,Law,6.0,0.0,371.0,7,92,6,5,15.1,1.7,10,75,No,News,2.3,5,Yes,93.1,2,2.71,No,No,Yes
+STU-04293,59,Male,Fine Arts,7.6,2.7,,10,109,1,3,13.4,2.5,42,75,Yes,Gaming,13.6,6,No,69.6,1,2.33,Yes,No,Yes
+STU-01329,27,Male,Fine Arts,6.7,0.1,246.0,6,115,1,3,13.4,5.9,20,112,No,Gaming,4.5,8,Yes,66.3,9,1.99,No,Yes,Yes
+STU-00819,29,Female,Sports Science,8.2,1.5,,1,66,10,3,40.2,1.3,65,112,Yes,Education,,9,Yes,83.0,7,2.0,Yes,No,No
+STU-04912,27,Female,Biology/Science,5.9,4.3,419.0,1,117,7,2,6.3,0.4,0,112,No,Entertainment,4.5,6,Yes,86.6,7,2.69,Yes,No,Yes
+STU-03034,47,Female,Fine Arts,5.1,4.5,296.0,9,64,6,6,13.4,2.1,40,150,Yes,Education,,6,No,85.7,3,2.66,Yes,No,Yes
+STU-02425,34,Female,Other Program,7.2,1.5,199.0,4,91,3,3,13.4,4.6,17,38,,Gaming,6.8,8,No,76.5,3,1.82,Yes,No,No
+STU-00719,39,Other,Culinary Arts,8.0,3.1,291.0,3,98,1,4,11.6,0.8,6,75,Yes,Gaming,4.5,10,Yes,68.3,4,2.19,Yes,Yes,No
+STU-03488,59,Female,Other Program,7.0,3.0,74.0,3,109,2,1,6.3,1.7,58,112,No,Entertainment,6.8,2,No,75.3,4,2.82,No,Yes,Yes
+STU-04457,18,FEMALE,Nursing,7.7,5.2,276.0,3,89,4,1,1.9,,62,75,No,Entertainment,0.0,1,No,84.1,4,2.48,No,No,Yes
+STU-02522,27,Female,Medicine,4.6,1.4,487.0,8,94,1,9,15.1,8.0,38,150,No,News,15.9,3,No,89.7,1,2.52,Yes,Yes,No
+STU-04354,36,Male,Education,7.9,4.1,164.0,6,112,3,2,2.8,1.7,21,150,Yes,News,4.5,1,No,77.6,1,2.88,Yes,No,Yes
+STU-04530,32,female,Other Program,6.7,2.9,106.0,6,93,5,3,7.2,5.5,5,112,Yes,Entertainment,0.0,7,Yes,91.3,6,2.07,No,No,No
+STU-01757,62,female,Education,7.4,3.5,170.0,9,86,6,2,14.2,4.6,29,150,Yes,Social Media/Trends,2.3,7,Yes,88.1,6,2.43,No,No,No
+STU-01457,32,FEMALE,Medicine,7.9,4.7,369.0,7,110,2,3,7.2,0.4,17,112,Yes,Education,6.8,7,Yes,81.0,6,2.15,Yes,Yes,Yes
+STU-01140,19,Male,Visual Communication Design,7.7,5.3,72.0,10,70,9,3,16.0,5.9,37,0,Yes,Social Media/Trends,6.8,10,Yes,100.0,3,1.89,Yes,No,Yes
+STU-01436,21,Other,Culinary Arts,6.6,2.0,135.0,1,76,3,3,12.5,2.5,24,150,No,,2.3,7,No,98.8,6,2.48,Yes,Yes,Yes
+STU-04906,43,Male,Fine Arts,5.4,1.9,169.0,5,77,1,4,4.5,6.3,43,150,Yes,Social Media/Trends,18.2,7,No,81.4,4,2.17,Yes,Yes,No
+STU-02038,21,Other,Electrical Engineering,3.6,0.3,528.0,9,104,4,8,9.8,,42,112,No,Social Media/Trends,15.9,7,Yes,75.1,7,2.78,Yes,Yes,Yes
+STU-02507,62,Male,Law,6.4,2.9,,7,118,3,6,11.6,5.5,76,150,Yes,Gaming,9.1,3,Yes,90.2,2,2.54,Yes,No,Yes
+STU-01668,43,Female,Fine Arts,4.1,3.2,533.0,8,107,3,10,15.1,5.5,25,112,No,Education,11.4,6,Yes,84.5,3,2.45,Yes,Yes,No
+STU-00002,63,Male,Other Program,7.5,5.2,131.0,9,62,9,4,8.1,6.3,14,38,No,Gaming,2.3,9,Yes,75.4,4,1.94,Yes,No,No
+STU-03823,20,Other,Education,7.0,0.1,,10,60,4,3,10.7,0.0,43,112,Yes,Gaming,4.5,2,No,,4,2.35,No,No,No
+STU-00015,57,male,Sports Science,5.4,4.1,184.0,8,70,8,3,15.1,3.4,29,112,,Gaming,0.0,4,No,80.6,4,2.55,No,No,Yes
+STU-04141,30,Female,Visual Communication Design,8.3,2.5,268.0,10,100,2,4,8.1,3.8,57,75,Yes,Social Media/Trends,,5,No,76.4,2,2.36,No,No,No
+STU-01042,63,Female,Computer Science,6.8,2.4,223.0,2,79,5,2,9.8,3.8,0,112,Yes,Entertainment,2.3,5,Yes,74.3,4,2.69,No,No,No
+STU-03598,55,Other,Biology/Science,7.5,5.2,509.0,1,113,10,4,16.0,0.0,24,112,Yes,Social Media/Trends,2.3,5,No,79.8,5,2.02,No,Yes,No
+STU-03337,51,male,Other Program,7.0,5.1,108.0,1,97,6,3,4.5,6.3,47,112,Yes,Gaming,0.0,4,No,85.9,3,2.22,No,No,Yes
+STU-04868,21,Other,Education,7.9,0.7,88.0,6,60,1,3,8.1,,18,75,Yes,News,2.3,6,Yes,77.8,7,2.27,No,No,Yes
+STU-01604,44,MALE,Other Program,7.1,0.6,17.0,5,64,4,3,2.8,4.2,0,38,No,Entertainment,6.8,6,No,67.9,5,2.16,Yes,No,Yes
+STU-01338,19,male,Other Program,8.5,1.4,196.0,9,110,9,3,2.8,7.6,40,38,Yes,Gaming,2.3,2,Yes,75.5,4,3.14,No,Yes,No
+STU-02035,41,Female,Medicine,6.9,2.5,395.0,5,63,5,3,13.4,4.2,28,112,No,Gaming,4.5,6,No,92.2,4,2.6,Yes,No,Yes
+STU-03101,56,Female,Information Systems,7.3,3.0,120.0,4,74,3,3,7.2,7.6,65,75,No,Entertainment,4.5,3,No,66.1,1,2.7,No,No,No
+STU-00299,56,FEMALE,Fine Arts,6.1,0.9,,5,65,4,3,6.3,7.6,22,112,No,News,4.5,4,Yes,100.0,4,2.47,Yes,No,No
+STU-02943,23,Other,Fine Arts,6.1,3.5,84.0,3,93,5,3,3.6,,37,38,Yes,Education,2.3,6,Yes,85.2,8,2.37,Yes,Yes,Yes
+STU-01925,57,Other,Education,7.1,1.5,119.0,10,95,2,4,1.9,2.1,45,150,No,Education,0.0,4,No,61.1,2,2.5,Yes,Yes,No
+STU-04553,63,Other,Fine Arts,6.8,3.4,190.0,9,67,2,4,2.8,0.8,0,75,Yes,Social Media/Trends,9.1,3,No,93.2,3,2.75,Yes,Yes,No
+STU-04380,31,Other,Sports Science,6.6,4.5,191.0,4,112,4,1,1.0,2.5,46,112,Yes,Social Media/Trends,0.0,5,Yes,68.1,3,2.08,Yes,Yes,Yes
+STU-03797,59,Female,Education,5.2,4.0,91.0,6,111,2,3,1.0,0.8,80,150,Yes,Entertainment,4.5,7,No,80.0,5,3.15,No,Yes,Yes
+STU-01890,59,FEMALE,Electrical Engineering,8.0,2.9,400.0,1,116,3,1,11.6,6.7,47,150,Yes,News,2.3,8,Yes,91.1,1,2.32,No,Yes,No
+STU-01046,54,Male,Culinary Arts,6.2,4.0,228.0,7,98,2,4,3.6,8.0,46,38,No,Social Media/Trends,11.4,4,Yes,86.1,2,2.91,Yes,Yes,No
+STU-05036,38,Other,Law,6.0,2.1,308.0,9,94,3,10,12.5,2.5,43,75,Yes,Social Media/Trends,18.2,8,Yes,84.0,5,2.37,No,No,Yes
+STU-02883,64,Male,Nursing,6.9,3.6,363.0,3,93,5,3,14.2,5.5,27,38,Yes,Social Media/Trends,2.3,7,Yes,61.4,4,1.97,No,No,No
+STU-04736,63,Male,Other Program,8.6,5.0,,7,98,2,1,12.5,7.2,10,38,No,News,2.3,5,No,98.3,1,2.48,No,Yes,Yes
+STU-00604,18,Male,Computer Science,8.9,3.9,292.0,2,108,8,2,10.7,7.2,1,0,No,News,4.5,3,No,52.1,4,1.82,Yes,No,Yes
+STU-04311,46,Male,Biology/Science,7.1,1.3,299.0,7,92,6,3,16.0,0.8,36,75,,Social Media/Trends,9.1,9,Yes,79.3,4,2.27,Yes,No,No
+STU-00190,40,Other,Culinary Arts,3.2,1.1,,8,98,1,10,16.0,5.5,51,112,No,Entertainment,18.2,9,Yes,93.5,4,2.77,Yes,No,No
+STU-02677,21,Female,Culinary Arts,7.4,0.0,157.0,9,109,7,5,8.9,1.7,99,38,,Social Media/Trends,13.6,6,Yes,89.2,4,2.66,Yes,No,No
+STU-03536,36,Male,Nursing,5.6,2.9,157.0,9,107,5,6,15.1,0.0,21,150,No,Gaming,18.2,2,No,76.3,4,2.95,Yes,Yes,No
+STU-04329,30,Male,Computer Science,7.8,3.9,166.0,7,75,9,3,16.0,1.7,38,75,No,News,0.0,6,No,69.7,2,2.13,No,No,Yes
+STU-04606,60,Female,Biology/Science,6.9,1.3,551.0,5,74,8,2,12.5,6.3,66,0,Yes,News,0.0,7,Yes,82.7,2,2.45,No,Yes,Yes
+STU-02910,34,Male,Culinary Arts,8.5,2.2,282.0,7,73,2,3,3.6,7.6,24,38,Yes,News,2.3,5,Yes,86.3,4,2.55,No,No,Yes
+STU-00306,50,male,Information Systems,6.9,1.9,173.0,7,117,5,4,14.2,4.2,1,75,No,Entertainment,2.3,4,No,74.3,6,2.37,Yes,Yes,No
+STU-00376,32,Male,Education,7.0,4.8,149.0,5,80,7,2,12.5,3.4,0,150,No,Gaming,6.8,2,Yes,85.8,5,2.62,Yes,No,No
+STU-04960,23,Male,Law,4.5,1.7,566.0,9,107,3,8,8.1,7.2,23,150,No,Entertainment,20.5,2,No,100.0,2,3.05,Yes,No,Yes
+STU-03820,25,Female,Electrical Engineering,6.4,3.9,280.0,6,89,7,5,14.2,2.9,11,75,No,Entertainment,0.0,4,No,88.0,3,2.56,No,Yes,No
+STU-00591,49,Female,Computer Science,5.3,1.3,300.0,5,63,6,3,4.5,8.0,58,150,Yes,Entertainment,0.0,4,Yes,81.1,5,2.66,No,Yes,Yes
+STU-02262,40,Female,Information Systems,5.7,6.7,290.0,3,117,7,2,12.5,6.7,71,38,No,Entertainment,4.5,10,No,69.0,4,2.17,No,Yes,Yes
+STU-03548,56,Male,Information Systems,6.7,3.7,354.0,6,108,10,1,12.5,6.3,8,0,Yes,Gaming,2.3,2,Yes,77.4,4,2.47,No,No,No
+STU-04713,61,Male,Electrical Engineering,6.8,2.5,396.0,6,89,8,4,1.0,2.9,86,-5,No,Gaming,,8,Yes,98.1,5,2.15,No,Yes,Yes
+STU-04803,45,Male,Sports Science,6.5,1.1,259.0,3,89,8,1,7.2,0.0,55,150,Yes,News,4.5,9,Yes,60.3,7,2.44,No,No,No
+STU-02870,60,Other,Electrical Engineering,6.6,3.8,286.0,2,82,7,2,9.8,4.6,42,75,Yes,Social Media/Trends,0.0,7,No,90.8,6,2.35,Yes,No,Yes
+STU-03216,63,Male,Other Program,6.7,4.4,269.0,5,92,9,1,13.4,7.2,55,75,No,Entertainment,0.0,7,No,73.4,5,2.19,Yes,No,No
+STU-02460,27,Male,Visual Communication Design,6.6,4.3,66.0,3,115,1,2,10.7,,47,0,Yes,Entertainment,11.4,7,No,82.4,5,2.74,Yes,No,Yes
+STU-00290,21,Male,Electrical Engineering,7.9,1.0,278.0,2,113,8,1,1.9,6.7,61,38,Yes,News,11.4,6,Yes,96.3,6,2.89,Yes,No,Yes
+STU-01391,42,Male,Fine Arts,7.6,2.4,105.0,4,81,9,2,5.4,1.3,31,150,No,Social Media/Trends,2.3,7,Yes,,4,2.32,Yes,No,No
+STU-01124,32,Other,Medicine,5.4,2.5,324.0,1,106,1,2,11.6,5.5,32,38,No,Gaming,0.0,5,No,85.2,2,2.23,No,No,No
+STU-04187,54,female,Nursing,6.7,5.6,243.0,2,110,10,3,2.8,6.3,49,0,No,Education,,6,Yes,92.2,3,2.52,No,Yes,No
+STU-02718,31,Male,Visual Communication Design,7.6,5.0,138.0,4,67,7,4,1.0,2.9,38,0,No,News,2.3,7,Yes,,3,1.76,Yes,Yes,Yes
+STU-00270,35,Other,Education,7.6,4.3,136.0,5,109,3,3,5.4,8.0,36,112,Yes,News,2.3,5,Yes,93.1,6,2.45,No,Yes,Yes
+STU-04376,48,Female,Visual Communication Design,8.1,2.6,,3,112,4,2,7.2,0.4,9,0,Yes,Entertainment,4.5,7,Yes,89.8,7,2.68,Yes,No,No
+STU-01454,56,Female,Electrical Engineering,6.7,2.9,420.0,1,92,5,1,12.5,6.3,11,75,No,Entertainment,2.3,6,No,69.9,3,2.25,No,No,Yes
+STU-01831,64,Other,Computer Science,6.3,1.6,277.0,7,66,2,5,12.5,2.5,32,0,No,Gaming,4.5,4,No,82.4,1,2.86,Yes,No,No
+STU-00693,60,MALE,Law,8.2,5.0,300.0,4,65,8,2,16.0,2.5,68,38,Yes,Social Media/Trends,6.8,1,No,,3,2.46,Yes,Yes,Yes
+STU-01587,37,Other,Culinary Arts,6.9,0.1,120.0,7,73,3,3,10.8,1.3,43,38,No,Social Media/Trends,6.8,7,Yes,74.3,3,2.74,No,No,Yes
+STU-03679,61,Female,Fine Arts,5.8,2.9,286.0,10,104,8,6,13.4,,40,150,No,News,9.1,2,No,95.2,0,2.87,Yes,No,Yes
+STU-03468,40,Other,Culinary Arts,3.6,0.4,386.0,10,91,1,10,16.0,5.9,65,150,,News,13.6,9,Yes,,3,2.84,Yes,No,Yes
+STU-00797,23,Female,Sports Science,7.8,2.8,124.0,7,99,6,3,4.5,2.9,46,0,,Social Media/Trends,6.8,5,Yes,71.3,1,2.48,No,No,Yes
+STU-04618,56,male,Culinary Arts,6.8,5.4,116.0,10,97,2,5,10.7,5.9,35,0,No,Education,6.8,2,No,88.4,2,2.63,Yes,Yes,No
+STU-04201,49,male,Visual Communication Design,4.6,4.9,200.0,5,96,6,3,15.1,7.6,20,75,Yes,News,6.8,1,No,,0,2.12,Yes,No,Yes
+STU-04263,34,Male,Culinary Arts,4.1,1.3,413.0,8,107,3,9,13.4,6.7,77,75,No,Social Media/Trends,20.5,5,Yes,69.1,3,3.0,No,No,Yes
+STU-03224,32,Male,Other Program,7.6,4.4,242.0,5,81,6,2,14.2,6.7,25,112,No,News,6.8,5,No,66.4,0,2.44,Yes,No,No
+STU-04076,27,Female,Fine Arts,6.9,3.6,254.0,7,83,3,4,16.0,0.8,96,112,No,Gaming,9.1,8,Yes,85.0,2,2.14,Yes,No,Yes
+STU-03934,40,Female,Culinary Arts,8.8,4.4,112.0,1,106,4,1,14.2,5.1,21,0,No,Education,9.1,4,No,98.5,7,2.31,Yes,Yes,Yes
+STU-00095,44,Female,Culinary Arts,6.6,4.3,216.0,7,106,2,4,3.6,6.3,33,75,Yes,Entertainment,11.4,5,Yes,86.4,7,2.53,Yes,No,No
+STU-00254,30,Other,Sports Science,7.0,3.4,204.0,3,95,8,3,4.5,7.6,51,0,No,Education,6.8,8,Yes,80.9,6,2.3,No,Yes,No
+STU-02351,18,Female,Other Program,6.1,2.6,9.0,9,91,10,6,11.6,8.0,18,150,No,Education,6.8,3,No,100.0,1,2.7,Yes,No,No
+STU-00752,18,Male,Visual Communication Design,8.2,4.2,215.0,2,66,10,1,15.1,7.6,19,150,Yes,Education,4.5,4,No,81.6,4,2.06,No,Yes,Yes
+STU-01132,64,Male,Fine Arts,8.0,1.7,72.0,3,104,3,3,6.3,3.4,12,150,Yes,Social Media/Trends,,8,Yes,66.9,6,2.17,No,No,No
+STU-03775,22,Female,Electrical Engineering,6.4,6.1,286.0,7,82,2,5,2.8,1.7,8,38,No,Education,11.4,10,Yes,85.0,7,2.39,Yes,No,Yes
+STU-00602,51,Female,Information Systems,6.9,3.4,214.0,5,103,1,3,3.6,5.1,29,112,Yes,News,9.1,4,No,95.9,3,2.85,Yes,Yes,Yes
+STU-01022,62,Other,Visual Communication Design,5.5,2.4,118.0,9,107,6,6,1.0,5.5,59,150,No,Social Media/Trends,6.8,6,Yes,,0,2.38,Yes,Yes,Yes
+STU-04488,57,Male,Medicine,6.8,3.8,270.0,4,112,10,2,6.3,5.5,5,38,No,News,6.8,9,Yes,81.1,3,2.29,Yes,No,Yes
+STU-03574,23,Male,Visual Communication Design,7.9,2.3,62.0,8,74,2,4,7.2,2.9,15,0,Yes,Education,2.3,6,Yes,85.0,5,1.5,No,Yes,Yes
+STU-04976,47,Other,Culinary Arts,6.3,7.9,125.0,5,61,2,3,16.0,6.7,6,75,Yes,Gaming,0.0,8,Yes,59.5,3,1.52,Yes,Yes,Yes
+STU-01288,46,Female,Electrical Engineering,7.1,1.7,269.0,2,105,1,3,14.2,6.7,81,38,Yes,Social Media/Trends,,6,Yes,81.9,6,2.4,No,No,Yes
+STU-03223,57,Male,Fine Arts,7.1,5.1,264.0,4,107,4,2,8.1,7.2,31,75,Yes,Gaming,2.3,3,No,90.8,4,2.56,Yes,Yes,Yes
+STU-01616,39,MALE,Sports Science,6.3,7.8,54.0,3,97,4,2,3.6,,1,38,No,Education,2.3,5,Yes,86.5,4,2.32,No,No,Yes
+STU-01759,32,Other,Fine Arts,7.2,0.1,222.0,8,70,2,5,11.6,6.7,28,0,Yes,Education,9.1,2,No,74.5,2,2.37,Yes,No,Yes
+STU-01989,34,Male,Nursing,6.4,3.1,316.0,4,101,8,3,15.1,2.5,99,38,No,Education,11.4,6,Yes,74.5,1,1.8,Yes,No,No
+STU-00090,36,Other,Visual Communication Design,6.9,4.9,204.0,2,82,4,2,3.6,,22,0,No,Education,4.5,4,No,63.1,4,2.61,Yes,Yes,No
+STU-02223,50,Male,Medicine,6.0,4.3,575.0,5,93,5,4,1.9,2.5,23,0,No,Social Media/Trends,0.0,7,No,73.3,10,2.67,No,No,No
+STU-01972,34,MALE,Biology/Science,8.7,1.9,536.0,8,100,4,5,14.2,5.9,16,112,No,Social Media/Trends,2.3,4,No,96.3,0,2.49,Yes,Yes,No
+STU-04566,31,Male,Sports Science,5.7,8.3,247.0,3,86,9,2,1.0,4.6,36,150,No,Social Media/Trends,0.0,4,No,90.7,6,1.96,No,Yes,No
+STU-01608,22,Female,Visual Communication Design,8.5,2.5,74.0,5,93,3,2,15.1,1.7,11,150,Yes,Gaming,6.8,6,No,75.4,4,1.96,Yes,Yes,No
+STU-01760,25,Male,Nursing,6.9,4.1,,1,97,4,1,2.8,0.8,69,150,No,Entertainment,9.1,4,No,64.2,4,2.99,No,No,No
+STU-04753,38,Other,Visual Communication Design,7.5,2.2,,8,74,6,5,8.1,6.3,61,75,No,Social Media/Trends,9.1,3,No,,2,2.62,Yes,No,Yes
+STU-00865,34,Other,Education,8.2,4.4,249.0,3,65,8,2,11.6,1.7,36,112,Yes,Social Media/Trends,4.5,3,No,82.5,2,2.66,Yes,Yes,Yes
+STU-02283,63,Female,Other Program,7.1,5.7,21.0,6,65,8,2,13.4,4.6,17,0,Yes,Social Media/Trends,4.5,7,No,86.9,3,2.28,No,Yes,No
+STU-00481,60,Female,Education,6.2,3.4,230.0,8,105,1,4,13.4,4.6,22,150,Yes,Social Media/Trends,0.0,6,No,91.1,2,2.45,No,Yes,Yes
+STU-03601,50,Male,Visual Communication Design,5.4,2.1,246.0,4,106,4,4,8.1,1.7,41,75,No,Education,4.5,4,No,76.8,2,3.29,Yes,No,No
+STU-04693,59,FEMALE,Computer Science,5.6,0.8,181.0,4,106,5,2,32.099999999999994,0.0,36,112,No,News,11.4,8,No,80.5,3,2.06,Yes,Yes,Yes
+STU-03348,40,Male,Fine Arts,6.4,1.6,152.0,9,117,2,5,1.0,6.7,26,112,Yes,News,4.5,4,No,68.2,4,2.48,Yes,No,Yes
+STU-02220,47,Female,Culinary Arts,5.0,4.9,237.0,2,94,5,1,26.700000000000003,8.0,63,75,No,Gaming,2.3,7,Yes,85.4,0,2.46,No,No,Yes
+STU-02667,38,Other,Nursing,8.2,2.7,254.0,8,83,10,4,2.8,7.2,12,0,No,Gaming,0.0,7,Yes,84.1,2,2.62,No,No,Yes
+STU-04454,36,Other,Fine Arts,7.2,3.5,138.0,6,87,8,4,16.0,7.6,10,0,No,Gaming,,6,Yes,63.0,3,2.54,Yes,No,No
+STU-00173,23,Other,Other Program,7.8,2.1,216.0,1,82,10,1,13.4,4.6,22,150,No,News,0.0,4,No,78.2,3,2.8,No,Yes,Yes
+STU-01399,35,Male,Sports Science,7.0,1.5,53.0,7,117,9,4,2.8,5.9,15,150,No,Education,11.4,3,No,80.7,1,3.01,Yes,Yes,No
+STU-03795,56,Other,Other Program,6.3,2.8,134.0,6,94,4,2,14.2,0.0,76,38,Yes,News,0.0,3,No,,5,2.44,No,Yes,Yes
+STU-03430,51,Other,Education,7.1,3.7,23.0,4,113,5,2,7.2,6.7,0,0,No,Social Media/Trends,0.0,10,Yes,75.9,6,1.89,No,No,No
+STU-01656,26,Female,Information Systems,8.0,4.9,349.0,4,92,2,2,16.0,0.8,35,0,No,Social Media/Trends,0.0,10,Yes,72.9,11,1.5,No,No,Yes
+STU-00650,63,Female,Computer Science,5.0,3.8,127.0,7,64,9,5,12.5,4.6,11,112,Yes,News,6.8,5,No,59.2,3,2.26,Yes,No,No
+STU-01234,54,Other,Education,6.7,2.9,121.0,3,62,1,3,7.2,0.0,42,75,Yes,Entertainment,2.3,1,No,92.8,6,2.68,No,No,Yes
+STU-00416,62,MALE,Culinary Arts,6.4,2.8,341.0,7,108,8,4,3.6,2.9,1,112,No,Education,6.8,6,No,92.1,7,2.32,Yes,Yes,No
+STU-01547,37,Other,Nursing,10.2,2.5,254.0,3,79,4,2,8.1,4.2,45,0,No,Entertainment,13.6,2,Yes,80.4,4,2.9,Yes,Yes,No
+STU-02593,20,MALE,Law,7.1,4.4,455.0,4,119,4,5,3.6,2.1,31,150,Yes,Social Media/Trends,13.6,6,Yes,76.7,1,2.62,Yes,Yes,No
+STU-02725,51,Other,Medicine,6.1,0.9,400.0,10,110,1,6,13.4,6.7,92,38,Yes,Entertainment,4.5,8,No,70.3,3,1.67,Yes,Yes,No
+STU-03438,58,Male,Culinary Arts,7.6,3.2,101.0,4,105,9,3,8.1,7.2,18,38,No,Gaming,9.1,5,No,75.4,3,2.7,Yes,No,No
+STU-00390,30,Male,Culinary Arts,7.9,1.3,365.0,5,66,2,1,14.2,3.8,40,150,No,News,6.8,9,Yes,67.1,5,1.5,Yes,Yes,Yes
+STU-03925,21,Male,Medicine,8.2,2.9,342.0,7,115,9,2,8.1,0.8,13,75,Yes,News,2.3,5,No,70.7,5,2.33,No,No,Yes
+STU-00124,64,Male,Electrical Engineering,5.4,2.0,565.0,8,110,4,4,13.4,2.5,17,112,No,Social Media/Trends,6.8,2,Yes,83.5,2,2.11,Yes,No,No
+STU-02751,64,Other,Sports Science,7.7,4.4,68.0,6,74,5,2,10.7,4.6,57,75,No,News,,1,No,86.4,6,2.57,Yes,Yes,No
+STU-01220,50,Other,Electrical Engineering,6.0,2.6,536.0,4,77,4,4,4.5,,48,112,No,Gaming,0.0,6,Yes,74.8,7,2.28,No,Yes,Yes
+STU-04709,22,Other,Medicine,5.5,2.2,428.0,2,110,7,4,1.0,8.0,39,112,Yes,Education,9.1,4,Yes,88.8,3,2.61,Yes,No,No
+STU-03329,33,Other,Information Systems,6.3,4.4,373.0,7,72,9,6,1.0,,26,75,No,News,2.3,8,Yes,67.2,4,2.72,Yes,Yes,No
+STU-02408,29,Male,Culinary Arts,5.9,0.1,386.0,4,106,1,2,9.8,3.8,17,112,Yes,Entertainment,2.3,2,No,74.7,1,2.25,No,No,No
+STU-00358,21,Other,Sports Science,8.2,3.8,79.0,9,74,7,5,8.9,1.3,25,112,No,Entertainment,0.0,6,Yes,74.8,1,2.18,No,No,No
+STU-02553,32,Female,Electrical Engineering,7.2,4.9,342.0,6,71,1,4,16.0,6.3,51,0,Yes,Entertainment,4.5,7,Yes,73.6,4,2.17,Yes,No,No
+STU-02941,39,Female,Medicine,6.3,2.2,577.0,5,68,6,2,1.0,1.3,46,112,No,Social Media/Trends,4.5,4,No,97.1,3,2.49,Yes,Yes,Yes
+STU-00452,38,Male,Visual Communication Design,8.3,2.1,69.0,10,84,4,6,1.9,2.1,28,0,No,Social Media/Trends,13.6,6,No,82.6,6,2.83,Yes,No,No
+STU-03058,62,Male,Information Systems,7.2,7.4,358.0,1,109,5,2,15.1,4.6,0,150,Yes,Entertainment,0.0,6,Yes,73.8,6,1.79,No,No,Yes
+STU-03839,21,Other,Education,7.2,2.2,39.0,6,75,6,3,3.6,0.8,16,150,Yes,Social Media/Trends,9.1,3,No,100.0,5,2.88,Yes,No,Yes
+STU-02666,53,Other,Fine Arts,5.1,1.2,284.0,7,99,10,3,14.2,1.7,49,0,Yes,News,2.3,9,No,83.6,2,1.83,Yes,No,No
+STU-03046,62,Other,Other Program,5.3,1.9,60.0,3,67,9,2,14.2,7.2,16,112,,Gaming,4.5,9,Yes,70.1,2,2.25,Yes,No,No
+STU-00915,51,Female,Electrical Engineering,7.9,5.1,396.0,7,113,7,2,8.9,5.1,61,0,No,Social Media/Trends,0.0,8,Yes,78.9,6,2.09,No,No,No
+STU-04404,33,Female,Computer Science,8.0,4.6,242.0,10,65,8,5,14.2,2.5,24,0,No,Education,2.3,4,Yes,76.1,1,2.13,No,Yes,No
+STU-01373,28,Female,Nursing,7.9,2.3,260.0,10,61,3,3,1.0,2.5,38,75,No,Social Media/Trends,4.5,6,Yes,94.5,5,2.84,No,Yes,Yes
+STU-04679,61,Female,Law,8.6,3.2,506.0,8,79,8,4,1.9,1.7,42,112,Yes,Education,2.3,6,No,65.8,3,2.58,No,Yes,No
+STU-03715,33,Other,Visual Communication Design,6.4,3.2,231.0,9,81,5,4,1.0,1.7,31,38,Yes,Social Media/Trends,0.0,10,No,70.5,3,2.13,No,No,No
+STU-04168,41,Other,Sports Science,7.3,4.5,51.0,8,90,7,4,5.4,0.0,9,150,No,Education,2.3,9,Yes,67.4,1,2.27,No,Yes,No
+STU-02264,19,Female,Other Program,5.0,4.1,214.0,1,94,1,2,7.2,3.8,20,0,Yes,Social Media/Trends,0.0,8,Yes,83.2,7,2.81,No,Yes,No
+STU-04436,20,Male,Computer Science,7.2,0.7,349.0,6,79,4,3,16.0,4.2,49,112,No,Social Media/Trends,13.6,7,No,66.8,3,2.18,Yes,Yes,No
+STU-04527,50,Female,Fine Arts,7.7,1.9,245.0,1,97,6,1,1.0,0.4,31,75,Yes,Social Media/Trends,4.5,4,No,78.7,3,2.69,Yes,Yes,No
+STU-04474,42,Female,Computer Science,4.7,1.3,373.0,9,109,4,8,16.0,4.2,11,-5,Yes,Social Media/Trends,9.1,2,Yes,77.5,0,2.7,Yes,Yes,Yes
+STU-01869,30,Female,Visual Communication Design,7.3,1.1,98.0,10,118,5,4,6.3,0.4,50,112,Yes,Gaming,2.3,10,Yes,69.4,7,2.45,No,Yes,Yes
+STU-01671,39,Other,Electrical Engineering,8.2,1.2,523.0,6,102,6,3,6.3,8.0,81,75,Yes,Social Media/Trends,9.1,8,No,77.4,5,2.51,Yes,Yes,No
+STU-00750,39,Male,Information Systems,4.1,1.7,448.0,10,96,4,8,13.4,5.9,33,112,Yes,Social Media/Trends,13.6,1,No,85.2,5,2.76,No,Yes,Yes
+STU-02787,34,Female,Education,7.0,0.8,295.0,2,71,8,1,7.2,1.3,19,0,No,Social Media/Trends,0.0,7,Yes,87.7,4,2.59,No,No,Yes
+STU-01351,46,Other,Visual Communication Design,8.4,2.8,150.0,6,67,9,5,10.7,2.5,42,112,No,Gaming,2.3,10,No,57.7,5,1.86,No,Yes,Yes
+STU-04510,22,Other,Visual Communication Design,7.0,5.7,103.0,3,68,3,4,9.8,1.7,70,38,Yes,Education,2.3,7,No,77.4,4,2.32,Yes,Yes,No
+STU-03067,46,Male,Visual Communication Design,5.3,1.0,81.0,3,60,6,4,2.8,0.0,18,38,Yes,Social Media/Trends,0.0,10,Yes,87.7,6,2.42,No,Yes,No
+STU-02628,31,Other,Medicine,7.9,2.6,445.0,3,73,6,3,16.0,5.1,30,75,No,Social Media/Trends,2.3,1,No,79.7,2,2.52,Yes,No,No
+STU-04899,37,Other,Visual Communication Design,8.0,3.4,166.0,10,72,9,5,10.7,7.6,46,0,Yes,Gaming,9.1,5,No,81.4,5,2.79,Yes,No,No
+STU-04656,31,Female,Sports Science,9.3,5.1,263.0,8,71,8,4,14.2,7.6,2,150,No,Gaming,6.8,8,No,89.0,3,2.51,Yes,Yes,Yes
+STU-00427,21,Male,Information Systems,6.2,5.3,271.0,4,72,1,3,10.7,0.4,0,38,No,Entertainment,2.3,7,Yes,76.7,2,2.04,Yes,No,No
+STU-02346,25,Male,Medicine,8.0,1.5,401.0,6,74,5,4,12.5,0.8,0,150,No,Education,15.9,5,Yes,80.7,7,2.37,Yes,Yes,Yes
+STU-04910,22,MALE,Law,7.3,3.9,293.0,1,71,8,2,12.5,4.2,31,112,Yes,Social Media/Trends,9.1,7,Yes,66.3,5,2.36,Yes,Yes,Yes
+STU-03785,64,Male,Biology/Science,6.2,2.7,485.0,10,88,4,6,6.3,1.7,45,0,No,News,0.0,6,No,89.3,4,2.45,No,No,Yes
+STU-02879,63,Male,Fine Arts,6.0,1.1,134.0,2,105,3,3,15.1,2.1,35,38,No,Entertainment,0.0,8,Yes,,5,1.64,Yes,No,Yes
+STU-00294,58,FEMALE,Visual Communication Design,5.9,3.1,268.0,2,115,5,1,8.9,2.5,24,112,Yes,News,0.0,5,Yes,70.8,8,2.45,No,No,No
+STU-00939,60,Female,Biology/Science,5.4,1.6,532.0,8,99,2,5,14.2,5.1,56,0,Yes,Social Media/Trends,4.5,10,Yes,67.6,4,2.19,Yes,Yes,No
+STU-02622,23,Other,Sports Science,6.9,3.6,128.0,10,118,2,3,7.2,8.0,55,0,Yes,News,,8,Yes,78.6,5,2.48,Yes,No,Yes
+STU-04687,40,Male,Other Program,6.7,1.9,222.0,9,75,7,4,10.7,3.8,0,38,No,,11.4,5,Yes,73.6,6,2.46,Yes,Yes,Yes
+STU-04268,43,Male,Education,9.0,2.1,138.0,10,93,6,5,16.0,0.0,54,0,No,News,15.9,5,No,82.0,4,2.62,Yes,Yes,No
+STU-01243,54,Male,Law,5.7,0.4,272.0,8,67,1,5,16.0,5.9,54,38,No,Entertainment,4.5,6,No,81.7,4,2.09,Yes,Yes,Yes
+STU-04481,19,Other,Other Program,8.7,0.9,19.0,4,90,7,3,2.8,7.2,13,150,No,Education,13.6,6,No,66.6,2,2.87,Yes,Yes,No
+STU-02937,26,Female,Education,7.9,6.2,31.0,2,116,10,3,29.400000000000002,7.2,17,0,Yes,Gaming,0.0,5,Yes,86.2,0,2.32,Yes,Yes,Yes
+STU-01717,27,Other,Information Systems,4.3,1.0,398.0,9,102,1,9,16.0,5.1,77,150,No,,15.9,10,Yes,81.1,5,2.33,Yes,No,No
+STU-00675,41,Other,Sports Science,6.3,4.6,244.0,5,75,3,3,9.8,5.5,31,0,No,Entertainment,2.3,8,Yes,68.5,1,2.25,Yes,Yes,Yes
+STU-04620,48,MALE,Sports Science,6.5,2.9,102.0,10,70,4,4,6.3,4.6,4,75,Yes,Gaming,4.5,5,No,81.4,2,2.83,Yes,No,No
+STU-01217,24,Other,Nursing,6.4,3.8,280.0,9,80,4,6,5.4,6.7,20,0,No,Entertainment,4.5,5,Yes,86.2,3,1.82,Yes,Yes,No
+STU-00920,29,Male,Information Systems,6.2,4.5,226.0,6,95,8,3,11.6,7.2,97,150,No,Gaming,0.0,5,No,79.1,7,2.44,Yes,No,No
+STU-03442,59,Male,Fine Arts,6.0,3.8,151.0,4,109,6,4,1.0,3.8,64,75,Yes,Gaming,4.5,10,Yes,69.6,5,2.13,No,Yes,Yes
+STU-03786,34,Female,Electrical Engineering,6.4,4.2,390.0,9,73,1,6,13.4,0.0,58,-5,Yes,,11.4,2,No,81.9,0,2.75,Yes,Yes,No
+STU-02426,53,Male,Visual Communication Design,6.2,3.0,92.0,8,63,2,3,10.7,2.9,1,150,Yes,Entertainment,0.0,9,No,81.1,6,2.0,Yes,Yes,No
+STU-01175,24,Female,Fine Arts,8.5,0.3,,4,71,8,3,1.9,0.0,45,112,Yes,Social Media/Trends,4.5,8,No,87.8,4,2.33,No,Yes,Yes
+STU-00158,64,Female,Computer Science,5.6,1.3,245.0,10,70,10,5,4.5,7.6,7,112,,Social Media/Trends,2.3,2,No,77.4,0,2.05,No,Yes,No
+STU-00929,62,Male,Nursing,5.8,4.6,304.0,6,64,6,5,7.2,4.6,31,0,Yes,Education,6.8,2,No,80.5,3,2.57,Yes,No,Yes
+STU-04827,59,Other,Sports Science,4.4,0.6,222.0,2,69,6,2,14.2,6.7,51,150,No,Gaming,2.3,6,No,76.2,4,1.93,No,Yes,Yes
+STU-01102,45,male,Nursing,6.5,4.9,103.0,9,118,10,6,11.6,7.2,10,75,No,Gaming,9.1,9,Yes,71.6,6,2.22,Yes,Yes,No
+STU-02313,21,FEMALE,Visual Communication Design,10.1,1.1,287.0,6,118,7,5,5.4,6.7,2,150,Yes,News,13.6,9,Yes,81.6,4,2.66,Yes,No,Yes
+STU-03261,36,Female,Information Systems,3.6,0.2,510.0,10,106,2,10,8.1,6.7,33,150,Yes,Social Media/Trends,20.5,3,Yes,84.2,5,2.72,Yes,No,No
+STU-01464,61,Male,Biology/Science,6.8,4.5,563.0,1,82,10,2,1.9,7.6,42,150,Yes,Social Media/Trends,4.5,6,Yes,72.1,6,1.97,Yes,Yes,No
+STU-01354,45,Male,Visual Communication Design,7.5,4.2,75.0,5,69,7,2,5.4,7.6,0,112,No,Social Media/Trends,2.3,8,Yes,94.7,5,2.23,No,No,Yes
+STU-00236,47,FEMALE,Sports Science,6.1,2.7,173.0,6,91,1,5,8.9,6.7,45,150,No,Gaming,6.8,5,No,94.8,2,2.25,Yes,Yes,Yes
+STU-04437,40,MALE,Electrical Engineering,7.7,3.4,272.0,7,69,5,4,5.4,3.4,31,75,Yes,News,6.8,5,No,100.0,4,2.53,Yes,No,Yes
+STU-03749,47,Other,Nursing,6.1,0.5,275.0,5,102,2,3,5.4,3.8,39,150,No,Entertainment,9.1,10,Yes,98.0,0,2.81,Yes,Yes,Yes
+STU-04797,25,Female,Medicine,7.9,3.9,283.0,7,61,1,4,4.5,0.8,63,75,Yes,Social Media/Trends,0.0,8,Yes,81.9,3,2.4,No,Yes,Yes
+STU-04542,41,Female,Medicine,7.3,6.6,307.0,8,103,6,3,16.0,3.8,14,112,Yes,Education,0.0,1,No,97.9,2,2.02,No,No,Yes
+STU-01191,23,Male,Visual Communication Design,7.2,1.1,268.0,8,116,6,3,5.4,2.9,13,150,Yes,Gaming,0.0,9,Yes,66.1,6,2.37,No,No,No
+STU-00954,40,Female,Other Program,8.7,5.7,22.0,3,112,7,3,8.1,7.6,4,0,No,Entertainment,11.4,2,No,85.9,1,2.79,Yes,No,Yes
+STU-01510,40,Male,Computer Science,8.5,6.1,310.0,3,110,9,1,6.3,0.0,45,75,Yes,News,4.5,7,Yes,71.7,3,2.7,Yes,Yes,No
+STU-04921,27,Female,Fine Arts,7.3,0.7,169.0,2,107,6,3,12.5,,52,150,No,Gaming,11.4,3,No,79.1,2,2.54,Yes,Yes,No
+STU-03857,48,Other,Culinary Arts,8.9,1.8,358.0,1,91,5,3,1.0,6.7,27,112,No,Education,6.8,6,Yes,100.0,6,2.59,No,No,No
+STU-00992,31,Female,Fine Arts,8.1,4.9,210.0,10,100,9,6,10.7,6.7,16,150,No,Entertainment,15.9,7,Yes,97.2,9,2.84,Yes,Yes,No
+STU-02128,61,Male,Computer Science,6.0,4.7,284.0,3,72,6,1,3.6,8.0,8,38,Yes,Social Media/Trends,2.3,6,No,65.2,6,2.54,No,No,Yes
+STU-02502,62,Other,Medicine,6.0,0.8,381.0,8,88,9,4,8.1,0.4,87,112,No,Gaming,0.0,1,No,78.6,3,2.74,No,No,Yes
+STU-01893,53,Male,Medicine,7.3,0.7,304.0,8,71,8,6,7.2,4.6,14,75,Yes,Social Media/Trends,0.0,6,No,100.0,4,2.04,No,No,No
+STU-02873,41,Female,Culinary Arts,5.8,8.0,161.0,6,104,3,4,10.7,3.4,17,112,No,Education,0.0,2,No,86.3,3,2.63,Yes,No,Yes
+STU-02996,27,Female,Computer Science,5.9,1.5,260.0,8,89,6,4,3.6,4.2,67,150,No,Social Media/Trends,9.1,7,Yes,63.9,7,2.59,Yes,Yes,No
+STU-03768,48,Female,Culinary Arts,6.8,3.6,307.0,7,68,2,3,9.8,7.6,58,75,No,Gaming,6.8,6,Yes,73.3,7,2.66,Yes,Yes,Yes
+STU-04711,47,Female,Computer Science,5.9,0.5,126.0,3,87,1,2,9.8,5.5,30,112,,Education,0.0,5,No,81.7,0,2.51,No,No,Yes
+STU-03633,20,Other,Sports Science,6.7,3.9,257.0,6,94,5,3,12.5,0.0,20,0,No,Entertainment,2.3,9,Yes,76.0,6,1.95,No,No,Yes
+STU-00568,43,Male,Information Systems,9.6,3.3,236.0,1,118,6,2,2.8,7.2,62,150,,Social Media/Trends,4.5,8,Yes,77.9,5,2.41,Yes,No,No
+STU-00188,54,Other,Other Program,5.9,2.7,246.0,2,91,8,2,12.5,0.0,0,75,No,Gaming,0.0,10,Yes,69.9,3,2.2,No,Yes,Yes
+STU-01277,18,Other,Biology/Science,7.6,2.6,271.0,5,119,6,2,2.8,6.3,24,150,Yes,Gaming,4.5,8,Yes,78.5,3,1.88,Yes,No,Yes
+STU-02331,43,Male,Sports Science,7.0,2.9,173.0,6,82,3,3,13.4,1.7,0,150,No,Social Media/Trends,6.8,6,No,96.0,2,2.54,Yes,Yes,Yes
+STU-04002,56,Male,Visual Communication Design,5.8,3.5,158.0,4,73,7,3,1.9,6.3,55,75,No,News,6.8,10,Yes,,4,2.48,Yes,Yes,Yes
+STU-04244,32,Male,Nursing,5.9,2.0,318.0,7,73,10,5,1.9,5.1,38,112,Yes,News,9.1,6,No,,6,2.99,Yes,Yes,No
+STU-04320,36,Male,Medicine,6.9,0.8,457.0,3,98,3,1,2.8,7.2,25,150,No,Gaming,4.5,6,Yes,68.8,0,2.15,Yes,Yes,Yes
+STU-00447,30,Male,Visual Communication Design,6.9,1.1,99.0,2,108,5,2,1.9,2.5,29,38,No,Entertainment,0.0,3,Yes,76.6,2,1.86,No,Yes,No
+STU-03615,57,Other,Law,6.9,3.2,397.0,4,94,4,4,15.1,0.8,50,75,Yes,News,6.8,8,No,71.5,4,2.37,Yes,Yes,No
+STU-03557,48,Male,Education,8.1,2.4,275.0,6,105,1,3,6.3,7.6,20,112,No,Entertainment,6.8,6,No,81.6,8,2.77,Yes,No,Yes
+STU-04836,61,Male,Biology/Science,6.2,3.2,504.0,8,104,3,4,7.2,0.4,56,150,Yes,News,11.4,5,Yes,78.2,4,2.4,Yes,No,No
+STU-00932,50,Other,Other Program,6.7,1.7,,6,88,5,5,13.4,1.7,5,150,Yes,Education,4.5,6,Yes,60.6,3,1.93,Yes,No,Yes
+STU-02292,20,Female,Visual Communication Design,7.4,1.4,286.0,9,83,4,5,7.2,6.3,36,112,Yes,News,6.8,3,No,84.0,7,2.94,Yes,No,Yes
+STU-04392,42,Female,Electrical Engineering,7.3,2.3,289.0,8,94,8,4,9.8,1.7,64,38,Yes,Entertainment,0.0,7,Yes,78.5,6,2.64,No,Yes,No
+STU-02407,27,Female,Culinary Arts,7.2,4.3,224.0,2,88,9,1,7.2,5.5,33,0,No,Social Media/Trends,11.4,8,Yes,81.2,7,2.72,Yes,No,Yes
+STU-00607,48,Female,Electrical Engineering,6.0,5.4,346.0,2,80,10,2,5.4,4.2,0,75,,Social Media/Trends,0.0,3,No,88.3,4,2.57,No,Yes,Yes
+STU-05017,36,Male,Information Systems,7.5,5.7,368.0,3,92,2,3,6.3,5.5,61,150,Yes,News,2.3,2,No,78.2,2,2.33,Yes,Yes,No
+STU-02428,61,Other,Electrical Engineering,5.1,3.5,442.0,9,113,8,5,12.5,7.6,52,112,No,Education,2.3,6,Yes,,6,2.16,No,Yes,Yes
+STU-00772,52,Female,Law,7.4,5.6,,5,78,9,5,1.0,3.4,51,112,No,Education,2.3,5,Yes,82.9,4,2.43,No,No,Yes
+STU-00631,55,Female,Computer Science,6.8,3.6,390.0,10,71,8,5,14.2,2.9,52,150,,News,2.3,7,Yes,80.1,1,1.69,No,Yes,No
+STU-00842,46,Male,Sports Science,6.2,1.3,57.0,4,111,4,4,8.1,0.8,0,38,Yes,Entertainment,6.8,7,Yes,87.9,3,1.97,Yes,No,Yes
+STU-00218,60,Female,Culinary Arts,6.0,2.4,107.0,8,79,9,3,9.8,0.4,45,-5,Yes,Entertainment,4.5,5,Yes,91.8,2,1.99,No,No,No
+STU-04712,37,Female,Nursing,6.9,5.0,155.0,9,74,4,5,8.1,1.7,46,38,No,,2.3,2,No,86.1,1,2.23,No,Yes,Yes
+STU-03388,62,Other,Biology/Science,7.0,3.2,544.0,3,114,10,3,1.9,4.2,45,75,Yes,Social Media/Trends,4.5,7,No,78.3,0,2.39,Yes,Yes,Yes
+STU-04833,21,Female,Medicine,3.6,0.8,405.0,8,93,4,10,14.2,2.9,30,150,No,Entertainment,9.1,1,Yes,96.6,1,2.61,Yes,Yes,Yes
+STU-03072,49,Male,Visual Communication Design,6.5,2.8,296.0,5,68,4,4,4.5,0.4,26,-5,Yes,Entertainment,6.8,3,Yes,90.3,2,2.6,Yes,No,Yes
+STU-02523,50,Other,Nursing,6.6,1.4,238.0,6,97,5,4,1.0,1.3,0,112,,News,6.8,3,No,88.4,1,2.3,No,No,Yes
+STU-00682,41,Other,Law,6.2,2.5,379.0,1,118,2,4,13.4,6.3,20,0,Yes,Entertainment,2.3,1,No,84.0,1,2.64,Yes,No,No
+STU-02898,52,Other,Sports Science,6.6,1.0,61.0,2,97,7,3,4.5,6.3,58,38,Yes,Education,4.5,8,No,88.8,2,2.51,Yes,No,No
+STU-01568,32,Female,Sports Science,5.6,3.5,119.0,3,62,3,3,2.8,6.7,49,112,Yes,Entertainment,0.0,7,No,82.5,6,2.01,Yes,Yes,No
+STU-03970,42,Other,Computer Science,7.7,3.4,141.0,2,94,7,3,10.7,0.8,36,112,No,Gaming,11.4,6,Yes,74.2,1,2.43,Yes,No,Yes
+STU-04265,31,Male,Nursing,4.9,0.5,533.0,10,118,1,10,12.5,2.5,7,112,Yes,Entertainment,9.1,6,Yes,74.9,7,2.44,Yes,No,Yes
+STU-02804,36,Other,Sports Science,7.7,1.8,156.0,7,66,2,2,8.1,5.1,72,150,No,News,0.0,4,No,91.8,7,2.24,No,No,Yes
+STU-02919,43,Other,Nursing,5.0,1.8,582.0,10,107,3,9,15.1,6.7,32,150,Yes,Entertainment,18.2,7,No,64.8,4,1.91,No,Yes,No
+STU-01845,43,Other,Sports Science,7.0,2.4,60.0,2,86,6,4,3.6,8.0,18,150,Yes,,13.6,6,No,,5,2.92,Yes,Yes,Yes
+STU-04999,30,Female,Education,6.5,5.6,230.0,10,77,5,6,11.6,3.4,0,112,,Education,2.3,4,No,82.9,1,2.23,Yes,Yes,No
+STU-04260,56,Male,Law,4.9,0.4,586.0,1,97,3,1,9.8,4.6,64,38,Yes,Social Media/Trends,6.8,6,Yes,73.7,1,2.63,No,No,No
+STU-02765,56,Female,Electrical Engineering,5.6,5.5,323.0,4,109,7,5,4.5,5.1,0,150,No,Social Media/Trends,9.1,8,Yes,93.9,5,2.78,Yes,No,No
+STU-04569,40,Other,Law,6.3,3.1,259.0,7,64,5,5,1.0,0.8,21,-5,No,Entertainment,2.3,8,No,83.2,3,2.88,No,No,No
+STU-01331,49,Other,Education,4.4,4.7,64.0,2,71,5,3,6.3,7.6,22,150,Yes,Entertainment,0.0,8,Yes,84.6,7,2.51,No,Yes,No
+STU-03941,43,Other,Medicine,7.3,0.9,373.0,1,92,7,1,12.5,4.6,58,75,Yes,Entertainment,6.8,7,Yes,81.5,2,2.5,No,Yes,Yes
+STU-04928,54,Other,Law,7.9,3.6,521.0,9,63,2,6,4.5,0.4,69,38,No,News,2.3,5,No,95.6,5,2.33,Yes,No,Yes
+STU-03919,45,Male,Law,4.0,1.7,,10,92,2,8,8.9,6.3,8,150,Yes,Gaming,9.1,7,Yes,65.8,8,2.67,Yes,No,Yes
+STU-00394,57,Other,Fine Arts,6.2,3.3,216.0,4,67,4,4,16.0,5.1,38,38,Yes,Entertainment,9.1,3,Yes,92.0,1,2.38,Yes,Yes,No
+STU-04189,56,Other,Medicine,7.2,0.9,505.0,7,91,3,4,8.9,2.5,59,38,Yes,Entertainment,0.0,3,No,97.0,3,2.8,No,Yes,Yes
+STU-04513,61,FEMALE,Visual Communication Design,6.0,5.8,223.0,3,115,5,2,14.2,,31,75,Yes,Education,0.0,4,No,74.7,0,2.06,No,No,Yes
+STU-02335,40,Female,Nursing,7.3,4.1,162.0,6,97,5,4,4.5,0.8,10,75,Yes,News,0.0,5,No,76.8,3,2.25,No,Yes,No
+STU-01174,36,Male,Information Systems,8.4,3.8,183.0,7,85,10,3,3.6,6.7,0,112,Yes,Entertainment,4.5,7,Yes,52.3,6,2.46,Yes,Yes,No
+STU-03295,20,Male,Electrical Engineering,6.2,3.9,435.0,3,71,3,2,2.8,3.8,37,38,Yes,Social Media/Trends,6.8,7,Yes,68.6,6,2.42,Yes,Yes,No
+STU-04581,49,Other,Information Systems,6.2,4.4,285.0,5,91,1,4,10.7,3.4,37,38,Yes,Education,2.3,5,No,75.0,1,2.28,Yes,Yes,Yes
+STU-04964,44,Other,Information Systems,7.2,4.6,311.0,10,64,1,7,5.4,5.1,49,112,Yes,Education,11.4,7,Yes,,4,2.6,Yes,No,No
+STU-00832,27,Female,Other Program,8.1,2.6,20.0,4,75,8,2,7.2,1.3,30,112,No,Social Media/Trends,2.3,8,Yes,82.1,9,1.92,No,No,No
+STU-04749,19,Female,Information Systems,5.5,3.2,117.0,2,82,1,2,3.6,3.4,57,150,Yes,Education,2.3,10,Yes,73.0,9,2.49,Yes,Yes,Yes
+STU-03624,45,Female,Sports Science,6.5,1.2,214.0,6,110,5,3,11.6,5.9,46,75,Yes,Social Media/Trends,0.0,3,No,81.7,4,2.8,No,No,Yes
+STU-02700,31,Female,Fine Arts,7.7,1.5,242.0,6,113,3,4,10.7,2.1,1,112,Yes,Entertainment,0.0,4,No,86.5,3,2.18,No,No,No
+STU-02458,51,Male,Culinary Arts,7.2,4.6,275.0,8,119,2,4,2.8,2.1,72,75,No,Education,0.0,10,Yes,81.4,6,2.08,Yes,Yes,No
+STU-03651,52,Male,Law,8.2,3.2,467.0,6,110,2,3,13.4,2.5,63,38,Yes,Social Media/Trends,2.3,3,No,88.0,1,2.27,Yes,No,Yes
+STU-00078,30,Other,Education,6.9,6.3,15.0,6,99,1,6,15.1,6.3,66,112,Yes,Education,11.4,3,No,69.3,3,2.17,Yes,Yes,Yes
+STU-01150,19,Other,Law,5.5,2.8,549.0,9,72,8,5,1.0,6.7,24,112,Yes,News,4.5,5,No,79.4,0,2.55,No,No,No
+STU-01003,27,Other,Electrical Engineering,6.5,3.1,500.0,4,70,3,5,9.8,1.7,13,150,No,Gaming,4.5,8,Yes,67.1,4,2.15,No,No,No
+STU-04663,55,Male,Nursing,7.6,4.2,364.0,4,111,3,1,1.0,0.4,51,0,Yes,,4.5,3,No,91.0,5,3.06,No,Yes,Yes
+STU-00106,35,Other,Other Program,6.1,2.0,102.0,7,62,2,5,11.6,8.0,68,75,No,Social Media/Trends,11.4,4,No,72.1,2,2.55,Yes,No,No
+STU-00459,33,Female,Biology/Science,6.9,3.7,259.0,7,70,1,5,10.7,4.6,8,112,Yes,Entertainment,4.5,10,Yes,94.7,8,2.05,No,Yes,Yes
+STU-03626,63,Male,Electrical Engineering,4.3,0.9,,5,77,1,4,12.5,6.7,45,38,Yes,News,9.1,4,No,62.5,3,2.67,Yes,No,Yes
+STU-00859,47,Other,Law,6.5,2.2,283.0,5,112,6,4,12.5,5.1,35,0,No,Entertainment,6.8,4,Yes,82.5,1,2.09,Yes,Yes,No
+STU-04063,19,male,Biology/Science,7.1,3.8,334.0,4,114,1,4,16.0,0.4,45,112,No,Entertainment,2.3,8,Yes,70.1,3,1.63,Yes,Yes,Yes
+STU-03491,59,Male,Electrical Engineering,6.4,1.9,410.0,1,70,2,4,7.2,8.0,36,112,No,Social Media/Trends,0.0,7,Yes,59.2,2,2.02,No,No,Yes
+STU-03498,37,Other,Medicine,7.2,3.3,452.0,6,114,3,4,8.1,2.9,53,38,Yes,Social Media/Trends,2.3,6,No,77.6,1,2.11,Yes,No,Yes
+STU-03325,25,Male,Medicine,8.3,3.5,389.0,8,102,9,3,11.6,7.6,56,112,Yes,Social Media/Trends,4.5,4,No,83.1,2,2.87,Yes,Yes,No
+STU-00559,52,Male,Computer Science,5.9,6.1,217.0,1,90,2,1,1.9,5.5,83,112,Yes,Social Media/Trends,6.8,6,No,84.7,3,2.49,Yes,Yes,No
+STU-03026,42,Male,Electrical Engineering,6.5,2.4,307.0,5,60,2,3,3.6,5.9,34,75,Yes,News,9.1,7,Yes,62.2,3,2.42,Yes,No,Yes
+STU-04179,26,Female,Other Program,8.0,3.3,291.0,3,83,4,2,3.6,7.2,54,38,Yes,News,9.1,4,No,80.4,3,3.12,Yes,No,Yes
+STU-01192,49,MALE,Law,5.1,4.4,396.0,10,83,8,4,14.2,0.0,84,75,Yes,Entertainment,4.5,6,No,82.6,1,2.32,No,Yes,No
+STU-04347,36,Male,Nursing,5.5,0.7,225.0,8,73,5,5,14.2,4.6,71,112,Yes,Entertainment,6.8,7,No,65.8,3,2.2,Yes,Yes,No
+STU-04296,35,Other,Electrical Engineering,7.6,2.4,544.0,4,76,1,4,2.8,2.5,0,0,No,Gaming,2.3,5,No,88.5,4,2.32,No,No,No
+STU-03577,54,MALE,Computer Science,6.2,2.7,160.0,8,113,7,5,5.699999999999999,5.1,18,38,Yes,Entertainment,2.3,10,Yes,98.2,6,2.35,Yes,Yes,Yes
+STU-03439,22,Other,Electrical Engineering,7.7,5.8,288.0,4,74,4,2,12.5,0.4,27,150,No,Gaming,4.5,4,No,60.7,4,2.08,No,No,Yes
+STU-03734,33,MALE,Fine Arts,8.5,4.5,202.0,1,69,5,1,1.9,3.8,42,0,Yes,Education,2.3,6,No,72.4,2,2.49,No,Yes,Yes
+STU-03592,23,Other,Nursing,7.5,5.3,376.0,9,67,9,4,8.1,7.6,1,38,,Education,4.5,7,Yes,89.5,5,2.15,No,No,No
+STU-02834,30,Male,Fine Arts,7.1,1.9,190.0,8,106,5,4,5.4,2.9,39,112,Yes,Social Media/Trends,4.5,7,No,,5,2.5,Yes,Yes,No
+STU-03806,61,Male,Nursing,7.7,2.5,232.0,2,63,4,2,10.7,3.4,4,112,No,Gaming,2.3,6,Yes,85.5,3,2.44,No,No,No
+STU-01939,24,Female,Medicine,8.4,5.0,403.0,1,104,1,2,14.2,2.5,39,0,Yes,Education,0.0,6,Yes,88.5,1,2.26,No,Yes,No
+STU-03686,20,Female,Computer Science,3.4,1.7,425.0,9,111,1,9,13.4,4.6,12,150,No,Entertainment,15.9,5,Yes,79.5,2,2.46,Yes,Yes,No
+STU-00461,29,Other,Electrical Engineering,7.4,3.8,402.0,1,96,7,1,15.1,1.7,35,112,Yes,News,,3,Yes,80.2,3,2.45,Yes,Yes,No
+STU-02620,58,Other,Nursing,5.7,5.2,347.0,7,89,6,5,7.2,8.0,27,150,No,Social Media/Trends,6.8,8,Yes,,5,2.33,Yes,Yes,Yes
+STU-03754,62,Female,Education,5.1,2.4,160.0,4,93,1,3,11.6,0.4,30,0,No,News,6.8,5,No,80.1,5,2.17,Yes,No,Yes
+STU-00206,29,Male,Other Program,7.6,7.8,192.0,9,114,1,5,8.399999999999999,2.1,52,150,Yes,News,6.8,4,No,70.4,4,2.48,No,No,No
+STU-03018,60,Other,Culinary Arts,4.9,2.6,180.0,1,94,8,2,13.4,7.2,42,150,Yes,Education,6.8,6,No,66.4,5,2.44,Yes,Yes,Yes
+STU-04521,34,Other,Other Program,4.1,0.2,374.0,9,110,3,8,12.5,6.3,85,150,No,Entertainment,9.1,5,Yes,97.1,4,2.57,Yes,No,No
+STU-01709,34,Female,Information Systems,7.6,5.4,135.0,1,79,3,3,16.0,7.6,44,0,Yes,Gaming,0.0,3,Yes,96.2,2,2.35,No,Yes,No
+STU-03230,40,Female,Other Program,9.2,3.0,226.0,6,84,10,4,9.8,0.8,65,75,Yes,Entertainment,0.0,8,Yes,75.8,8,1.63,Yes,No,Yes
+STU-04756,34,Male,Biology/Science,6.7,1.3,473.0,3,76,10,4,11.6,1.7,62,0,No,Education,4.5,4,Yes,86.2,6,2.37,No,Yes,No
+STU-00553,27,Other,Fine Arts,5.0,3.5,68.0,4,83,7,2,8.9,1.3,55,0,No,Education,11.4,8,Yes,83.5,6,2.42,Yes,No,No
+STU-02208,46,Other,Education,6.3,5.2,79.0,6,65,4,4,9.8,4.2,26,-5,No,News,0.0,8,Yes,80.4,6,2.14,No,Yes,No
+STU-02493,24,Male,Nursing,8.8,2.4,336.0,1,71,2,4,6.3,0.8,7,112,No,Entertainment,4.5,6,No,67.6,0,1.68,No,Yes,No
+STU-02528,44,Other,Information Systems,7.7,1.8,133.0,6,119,4,2,10.7,1.3,50,112,No,Entertainment,4.5,5,No,82.3,0,2.54,Yes,No,No
+STU-02297,28,Female,Law,8.5,2.9,534.0,5,118,10,3,11.6,3.4,10,112,Yes,Entertainment,0.0,5,No,78.7,0,2.11,Yes,Yes,Yes
+STU-04807,60,Other,Biology/Science,6.8,0.8,500.0,5,76,9,3,3.6,4.2,63,112,Yes,Social Media/Trends,2.3,6,Yes,83.7,4,2.5,Yes,Yes,No
+STU-02459,47,Other,Electrical Engineering,8.3,4.0,329.0,2,96,9,3,10.7,7.2,59,112,Yes,Social Media/Trends,2.3,6,Yes,66.3,9,2.24,No,No,Yes
+STU-02977,50,Female,Electrical Engineering,7.0,3.2,334.0,10,100,3,5,8.1,7.6,41,38,Yes,Entertainment,9.1,1,Yes,99.6,2,2.48,Yes,Yes,Yes
+STU-02773,26,male,Sports Science,8.0,2.1,286.0,10,80,6,4,2.8,7.2,4,0,Yes,News,2.3,5,No,59.8,5,2.34,No,Yes,No
+STU-03327,58,Male,Information Systems,7.4,2.2,127.0,9,81,7,4,14.2,8.0,48,38,No,Education,0.0,5,No,89.5,9,1.99,No,No,No
+STU-03411,25,Female,Law,6.4,4.1,538.0,9,82,5,5,7.2,6.7,29,112,Yes,Gaming,2.3,7,Yes,81.4,4,2.84,No,Yes,No
+STU-03683,49,Other,Computer Science,6.6,4.9,196.0,7,67,6,4,12.5,7.6,43,38,Yes,Education,0.0,5,No,72.0,1,1.72,No,No,No
+STU-00857,24,Male,Medicine,7.5,2.1,584.0,3,82,1,3,15.1,8.0,44,-5,No,Education,13.6,8,Yes,76.9,4,2.08,Yes,No,Yes
+STU-02802,33,Other,Other Program,7.8,2.0,250.0,1,82,4,1,16.0,0.0,5,75,No,Gaming,2.3,5,No,75.3,4,2.24,No,Yes,No
+STU-01886,32,female,Education,7.2,3.1,44.0,8,92,7,4,7.2,1.7,30,112,No,Entertainment,2.3,7,Yes,85.9,7,2.45,No,Yes,No
+STU-01774,55,male,Computer Science,4.9,2.7,197.0,4,98,2,4,6.3,7.2,47,38,Yes,Entertainment,6.8,6,No,93.4,6,3.06,Yes,Yes,Yes
+STU-04443,21,Other,Visual Communication Design,7.1,1.5,111.0,4,104,6,3,14.2,5.1,20,0,,News,4.5,3,No,87.6,0,2.35,No,No,No
+STU-01827,53,Male,Education,7.8,2.2,204.0,5,102,4,4,14.2,8.0,0,0,No,Gaming,6.8,10,Yes,81.8,8,2.34,No,Yes,No
+STU-02967,21,Male,Fine Arts,6.8,2.9,170.0,4,64,10,2,11.6,1.7,44,0,No,Education,2.3,1,No,68.2,6,2.65,No,Yes,No
+STU-02698,37,Female,Culinary Arts,6.0,9.2,,1,119,5,2,1.9,5.1,26,75,Yes,Social Media/Trends,6.8,1,No,84.8,0,2.32,Yes,No,Yes
+STU-03648,27,FEMALE,Other Program,6.8,3.6,130.0,7,68,3,4,15.1,2.5,36,75,No,Entertainment,6.8,7,Yes,69.0,5,2.18,Yes,No,Yes
+STU-03427,60,Other,Culinary Arts,7.3,3.4,236.0,10,60,9,6,11.6,4.6,65,38,No,News,,7,Yes,72.1,8,2.64,Yes,Yes,No
+STU-02077,27,Female,Computer Science,6.4,1.5,304.0,10,92,7,5,1.9,0.4,43,150,Yes,News,4.5,10,Yes,73.0,2,1.99,Yes,Yes,Yes
+STU-01745,34,Other,Computer Science,6.3,2.0,307.0,1,70,5,1,13.4,4.2,27,38,No,Gaming,0.0,2,No,,1,2.47,No,Yes,No
+STU-03687,26,Male,Visual Communication Design,6.9,10.1,50.0,10,115,3,5,5.4,2.5,40,0,No,Social Media/Trends,0.0,5,Yes,84.3,5,2.33,No,No,No
+STU-02438,21,Male,Other Program,6.0,1.9,48.0,5,99,1,3,12.5,8.0,0,75,No,Education,2.3,4,No,87.8,1,2.36,No,Yes,Yes
+STU-02052,28,Male,Electrical Engineering,6.8,4.8,412.0,1,85,7,4,11.6,2.1,35,38,,Gaming,2.3,6,No,64.6,2,2.25,No,No,Yes
+STU-03004,50,Male,Culinary Arts,7.0,3.6,136.0,9,94,5,5,13.4,6.3,33,75,Yes,Entertainment,2.3,4,Yes,92.8,4,2.17,No,No,No
+STU-00974,30,Male,Education,6.3,2.2,291.0,1,92,9,1,10.7,7.6,14,0,Yes,Gaming,0.0,7,No,70.6,4,2.21,No,No,Yes
+STU-02719,51,male,Sports Science,6.2,0.7,177.0,8,97,8,4,3.6,1.3,30,38,Yes,Education,6.8,6,No,91.0,6,2.61,No,No,Yes
+STU-02662,58,Female,Biology/Science,6.4,0.1,471.0,7,63,3,4,1.9,8.0,10,38,,Education,2.3,9,Yes,76.4,5,1.99,No,Yes,No
+STU-02653,52,Other,Fine Arts,5.4,5.2,260.0,8,73,1,6,8.1,8.0,14,75,No,News,0.0,6,Yes,,0,2.33,No,No,No
+STU-02732,29,Male,Culinary Arts,7.5,6.0,185.0,3,104,10,2,12.5,7.6,27,38,No,Gaming,4.5,6,No,,6,2.36,No,Yes,Yes
+STU-02100,19,Male,Biology/Science,7.9,3.1,368.0,2,110,6,2,15.1,1.7,59,38,No,Social Media/Trends,0.0,7,Yes,69.0,6,2.2,Yes,Yes,Yes
+STU-03146,59,Male,Visual Communication Design,5.8,2.4,97.0,7,101,5,4,2.8,0.0,59,38,Yes,,2.3,4,Yes,83.4,4,2.54,No,Yes,Yes
+STU-01051,37,Other,Education,7.6,3.0,171.0,10,95,3,5,10.7,7.2,60,112,Yes,Social Media/Trends,4.5,6,Yes,95.0,2,2.23,Yes,Yes,No
+STU-04913,24,Male,Other Program,7.7,3.9,182.0,8,102,10,4,11.6,0.8,41,150,No,News,22.7,3,No,73.9,3,2.79,Yes,Yes,No
+STU-01421,64,Other,Sports Science,7.3,6.1,223.0,8,69,7,4,5.4,8.0,52,38,Yes,Gaming,6.8,7,No,82.1,3,2.54,Yes,Yes,No
+STU-03073,47,Other,Law,5.6,3.6,440.0,4,72,9,3,3.6,0.8,17,150,Yes,Education,2.3,10,Yes,90.8,2,2.75,No,Yes,No
+STU-00031,29,Male,Fine Arts,6.0,3.4,199.0,6,61,1,5,8.1,6.3,93,75,No,Social Media/Trends,4.5,6,No,100.0,0,2.48,Yes,Yes,No
+STU-04902,40,Female,Computer Science,4.9,0.4,520.0,10,103,2,10,13.4,4.2,51,112,Yes,Education,15.9,4,No,87.4,5,2.73,Yes,No,No
+STU-04348,25,Male,Medicine,4.3,0.6,570.0,8,108,4,8,10.7,5.5,53,150,No,Entertainment,11.4,5,Yes,85.0,3,2.58,Yes,Yes,Yes
+STU-00554,29,Other,Education,6.0,5.6,38.0,7,75,9,4,2.8,7.6,41,38,Yes,Education,6.8,10,Yes,78.4,5,2.89,Yes,Yes,Yes
+STU-04722,18,male,Electrical Engineering,8.8,1.8,561.0,10,107,2,4,8.9,3.4,38,112,No,News,0.0,9,Yes,77.2,7,2.08,No,Yes,Yes
+STU-00405,45,Male,Computer Science,7.0,0.3,337.0,9,96,7,6,10.7,0.8,7,0,No,Gaming,2.3,4,No,75.1,7,2.55,Yes,Yes,Yes
+STU-00490,49,Female,Medicine,5.3,1.7,522.0,1,82,1,1,14.2,0.4,20,0,No,Entertainment,2.3,8,Yes,88.1,5,1.76,No,No,Yes
+STU-02717,55,Female,Medicine,5.8,0.4,380.0,9,107,9,5,14.2,4.6,43,75,Yes,Gaming,11.4,7,Yes,88.3,2,2.7,Yes,No,Yes
+STU-04122,33 yrs,Male,Nursing,5.0,2.8,186.0,6,108,5,2,8.9,0.0,43,0,Yes,News,2.3,10,Yes,76.1,8,2.38,No,No,Yes
+STU-01073,54,FEMALE,Nursing,7.0,1.5,159.0,9,103,2,3,11.6,6.7,64,150,Yes,Social Media/Trends,2.3,8,Yes,61.4,3,1.86,No,No,No
+STU-03676,22,Male,Other Program,7.4,3.3,137.0,6,76,9,5,13.4,1.3,58,150,Yes,,9.1,7,Yes,85.7,4,2.27,No,Yes,Yes
+STU-03157,35,Female,Information Systems,7.9,0.6,195.0,7,78,1,3,6.3,0.8,53,112,Yes,Gaming,2.3,7,No,70.7,7,2.11,No,Yes,Yes
+STU-04495,62,Other,Visual Communication Design,6.4,0.7,134.0,3,108,10,3,1.9,3.8,0,112,No,Education,2.3,3,No,98.6,3,2.94,No,Yes,No
+STU-03625,57,Other,Electrical Engineering,5.4,2.6,594.0,1,65,5,4,1.0,0.0,23,0,No,Education,2.3,8,No,73.4,4,2.28,No,Yes,No
+STU-00332,38,Other,Medicine,6.0,3.3,549.0,10,112,8,5,2.8,5.1,20,150,No,Gaming,0.0,10,Yes,90.8,5,2.01,No,Yes,No
+STU-01469,32,Female,Electrical Engineering,5.7,4.4,573.0,1,110,6,3,6.3,2.1,60,112,,Gaming,13.6,3,No,100.0,5,3.25,Yes,No,No
+STU-04784,33,Male,Sports Science,9.2,2.4,170.0,8,66,5,5,13.4,4.2,0,112,Yes,Gaming,6.8,6,No,81.8,5,2.5,Yes,Yes,Yes
+STU-01393,45,Female,Electrical Engineering,5.1,2.4,559.0,4,70,5,4,4.5,8.0,46,112,Yes,Gaming,4.5,5,No,79.0,1,2.62,No,No,Yes
+STU-00377,21,Female,Medicine,8.5,6.0,493.0,4,104,7,4,7.2,6.7,39,38,No,Social Media/Trends,2.3,7,No,,9,2.24,No,No,No
+STU-03811,31 yrs,Female,Other Program,5.5,3.1,198.0,1,106,6,2,1.9,5.5,44,112,Yes,Education,2.3,9,Yes,89.5,6,2.27,No,Yes,Yes
+STU-03138,56,Other,Education,6.6,3.8,32.0,4,86,8,3,14.2,6.7,20,112,Yes,Social Media/Trends,4.5,7,No,77.0,2,2.54,Yes,No,Yes
+STU-03669,61,Other,Nursing,6.9,2.8,139.0,7,119,8,4,6.3,1.7,58,112,Yes,Social Media/Trends,6.8,2,No,,1,2.59,No,No,Yes
+STU-01609,33,Other,Law,8.3,5.4,275.0,5,119,6,5,9.8,1.7,25,150,Yes,News,4.5,4,No,87.3,3,2.29,No,No,No
+STU-01272,46,Female,Computer Science,7.9,3.9,355.0,8,72,7,5,5.4,3.4,43,150,Yes,News,4.5,7,No,72.2,4,2.56,Yes,Yes,No
+STU-03241,21,Other,Sports Science,7.4,2.4,144.0,6,73,1,3,4.5,,0,150,Yes,Education,9.1,7,Yes,95.0,5,2.29,Yes,No,No
+STU-00083,23,Male,Nursing,8.1,2.5,270.0,10,98,1,4,7.2,2.5,52,0,Yes,Gaming,4.5,4,No,80.8,8,2.56,No,Yes,No
+STU-00833,35,Other,Other Program,6.7,1.9,177.0,9,102,4,3,2.8,5.1,29,150,No,Social Media/Trends,2.3,4,No,,2,2.79,Yes,No,No
+STU-04549,38,Other,Biology/Science,5.2,1.4,277.0,10,80,3,5,3.6,1.3,41,112,,Education,,10,Yes,78.5,6,2.58,No,Yes,Yes
+STU-03921,62,Other,Computer Science,6.9,4.7,141.0,1,109,6,2,9.8,4.6,92,150,No,Entertainment,6.8,7,Yes,71.3,4,2.46,No,Yes,No
+STU-04934,36,Other,Education,7.9,1.1,92.0,4,70,7,3,8.9,7.2,58,38,Yes,Gaming,2.3,5,Yes,86.0,4,3.0,No,Yes,Yes
+STU-04330,56,Other,Medicine,8.2,1.9,354.0,8,76,5,5,4.5,2.5,17,75,Yes,News,6.8,6,No,89.7,7,2.7,Yes,No,Yes
+STU-04257,29,male,Computer Science,6.0,5.6,261.0,1,69,3,3,6.3,0.0,52,75,Yes,Education,4.5,8,Yes,66.0,2,2.59,Yes,No,No
+STU-01657,60,Female,Biology/Science,6.7,3.1,351.0,5,90,9,5,4.5,7.2,10,75,No,News,6.8,7,No,,8,2.77,No,Yes,Yes
+STU-00081,32,Male,Computer Science,5.8,2.2,329.0,9,72,5,4,4.5,4.2,73,0,No,News,2.3,4,No,86.3,6,2.46,Yes,No,No
+STU-01211,47,FEMALE,Information Systems,6.6,3.5,,10,100,5,5,8.9,2.9,67,75,No,Gaming,,4,No,77.1,7,2.28,Yes,No,No
+STU-03630,29,Other,Information Systems,5.7,3.1,272.0,3,76,2,2,6.3,1.7,25,0,Yes,Social Media/Trends,6.8,10,Yes,90.6,5,2.13,Yes,No,Yes
+STU-01856,57,Other,Computer Science,6.3,3.9,300.0,5,90,1,4,1.9,1.7,45,112,Yes,News,0.0,7,No,62.1,2,2.23,No,No,Yes
+STU-02629,30,Male,Electrical Engineering,7.4,1.4,357.0,6,114,9,5,16.0,0.0,0,38,No,News,0.0,7,No,80.1,6,1.93,No,No,No
+STU-02256,21,Female,Biology/Science,9.8,0.8,495.0,6,99,9,4,2.8,3.4,22,75,No,Social Media/Trends,9.1,7,Yes,88.6,4,2.43,Yes,No,No
+STU-01197,30,Other,Education,6.0,0.2,260.0,8,112,6,6,6.3,0.0,57,150,Yes,Entertainment,4.5,7,Yes,,3,2.54,No,Yes,Yes
+STU-03097,42,Female,Culinary Arts,7.4,2.7,318.0,6,83,5,4,12.5,0.0,60,150,Yes,Gaming,2.3,10,Yes,69.8,4,1.75,No,No,Yes
+STU-00342,37,Female,Medicine,7.6,3.4,419.0,7,86,8,2,4.5,0.8,55,0,Yes,Entertainment,2.3,7,No,75.9,5,2.57,No,Yes,Yes
+STU-04290,52,Other,Computer Science,6.0,3.8,346.0,8,102,8,3,1.0,0.8,0,150,No,Social Media/Trends,6.8,8,Yes,69.4,3,2.29,No,No,No
+STU-03330,31,Other,Biology/Science,7.7,5.3,507.0,10,85,5,6,3.6,1.3,12,112,Yes,Social Media/Trends,9.1,10,Yes,76.3,6,2.38,Yes,No,No
+STU-03792,40,Female,Visual Communication Design,8.5,2.1,132.0,6,63,2,2,13.4,0.8,0,-5,No,Social Media/Trends,2.3,2,No,93.8,4,2.28,No,No,No
+STU-04848,18,Other,Medicine,7.2,1.1,433.0,6,115,4,3,5.4,0.8,47,38,Yes,News,2.3,10,No,92.2,4,2.0,Yes,No,No
+STU-03184,30,male,Medicine,7.3,8.1,398.0,8,98,4,4,15.1,8.0,41,75,Yes,Gaming,4.5,7,Yes,77.5,7,1.88,No,Yes,Yes
+STU-04977,28,Other,Law,6.7,4.4,,10,110,1,3,11.6,,18,112,No,Entertainment,0.0,9,No,63.4,3,2.05,No,No,No
+STU-02232,19,Male,Computer Science,7.0,4.5,392.0,4,107,9,3,15.1,0.8,58,38,,Education,4.5,6,Yes,89.9,6,1.71,Yes,Yes,Yes
+STU-05016,21,Other,Electrical Engineering,7.9,2.2,565.0,2,70,7,2,14.2,1.7,33,0,Yes,Entertainment,2.3,6,Yes,64.0,1,2.37,Yes,No,No
+STU-01739,62,Female,Biology/Science,7.7,1.3,577.0,2,86,8,4,12.5,0.0,0,112,No,Gaming,4.5,5,No,76.7,3,2.07,Yes,Yes,Yes
+STU-03460,64,Other,Biology/Science,5.5,3.2,274.0,3,90,6,3,12.5,0.4,40,38,Yes,Entertainment,9.1,1,No,84.0,1,2.84,Yes,Yes,No
+STU-00059,29,male,Other Program,7.0,4.8,58.0,7,76,1,4,8.9,5.1,37,75,No,News,6.8,3,No,82.5,2,2.56,No,Yes,Yes
+STU-02743,54,female,Other Program,6.9,0.2,,1,67,1,1,16.0,2.9,10,112,Yes,Education,0.0,9,Yes,55.8,0,1.7,No,Yes,Yes
+STU-00381,23,Female,Medicine,6.4,4.3,374.0,5,81,1,5,1.0,,44,112,No,Social Media/Trends,0.0,6,Yes,85.2,1,2.54,Yes,No,Yes
+STU-00739,32,Other,Other Program,7.7,1.0,9.0,5,106,3,4,8.1,0.4,0,38,No,Education,2.3,10,Yes,84.7,4,2.4,No,No,No
+STU-05027,36,Male,Sports Science,6.1,6.9,157.0,9,99,10,7,2.8,1.7,45,38,No,Gaming,9.1,5,No,83.1,5,2.62,Yes,No,Yes
+STU-01193,44,Female,Education,4.4,0.7,584.0,10,97,1,10,13.4,8.0,39,112,No,Gaming,9.1,8,Yes,76.0,5,2.53,Yes,Yes,No
+STU-01988,50,Female,Computer Science,8.0,2.1,272.0,9,113,9,4,9.8,4.6,8,150,No,Gaming,0.0,6,Yes,88.7,1,2.18,No,Yes,Yes
+STU-04170,33,Female,Sports Science,5.2,0.4,412.0,9,115,2,8,14.2,4.2,12,150,No,Entertainment,11.4,1,No,82.3,2,2.63,Yes,Yes,Yes
+STU-04439,50,Other,Nursing,7.6,2.0,,7,105,7,5,4.5,7.6,17,0,No,Social Media/Trends,2.3,5,No,80.5,4,2.33,No,Yes,No
+STU-00237,62,Female,Electrical Engineering,6.9,1.1,455.0,3,97,1,2,7.2,1.3,17,38,Yes,Gaming,18.2,5,No,74.1,4,2.96,Yes,No,Yes
+STU-01010,57,Female,Culinary Arts,6.3,6.6,358.0,4,60,10,4,5.4,2.1,4,38,Yes,Entertainment,11.4,6,No,68.1,6,2.63,Yes,Yes,Yes
+STU-01397,54,Male,Nursing,7.3,4.0,386.0,10,104,1,5,11.6,2.5,13,75,Yes,Social Media/Trends,9.1,6,Yes,77.7,9,2.11,Yes,Yes,No
+STU-02661,59,Female,Visual Communication Design,7.1,1.0,123.0,6,105,6,3,13.4,4.2,74,0,No,Entertainment,2.3,7,No,82.3,3,2.37,Yes,No,No
+STU-00965,63,Male,Nursing,7.0,3.2,140.0,3,96,4,1,15.1,1.3,48,75,Yes,Education,0.0,10,Yes,63.3,1,1.92,No,No,No
+STU-02480,49,Female,Law,7.1,2.6,299.0,2,74,9,1,16.0,8.0,30,112,No,Social Media/Trends,9.1,7,Yes,88.3,4,1.92,Yes,Yes,No
+STU-03685,19,Other,Visual Communication Design,9.2,1.9,161.0,7,70,5,4,16.0,5.9,57,0,No,Entertainment,9.1,2,No,100.0,5,2.49,Yes,Yes,Yes
+STU-00539,64,Female,Sports Science,6.3,0.9,188.0,9,76,2,5,13.4,2.5,1,0,No,Gaming,2.3,6,Yes,77.4,7,2.03,Yes,No,No
+STU-04659,52,FEMALE,Biology/Science,5.5,0.6,312.0,2,86,7,3,4.5,0.0,50,0,Yes,Entertainment,4.5,5,Yes,76.2,1,2.72,Yes,Yes,Yes
+STU-01247,46,Other,Education,6.5,2.3,324.0,9,110,3,8,10.7,4.2,71,112,Yes,Social Media/Trends,11.4,7,Yes,82.2,3,2.18,Yes,Yes,Yes
+STU-02656,23,Male,Electrical Engineering,6.4,1.6,553.0,9,67,8,4,11.6,1.7,14,150,No,Social Media/Trends,,5,No,81.1,2,2.55,Yes,No,No
+STU-01832,64,Female,Nursing,6.5,0.2,298.0,4,86,7,4,1.9,2.5,12,75,No,,0.0,7,Yes,76.4,4,2.6,No,Yes,No
+STU-00788,33,Other,Nursing,7.1,0.5,153.0,2,94,4,1,10.7,1.3,49,0,No,Education,2.3,6,Yes,85.8,4,2.29,No,Yes,Yes
+STU-01372,27,Female,Law,5.6,4.6,366.0,3,93,9,2,12.5,2.1,5,112,Yes,News,2.3,4,No,84.8,3,2.65,No,Yes,Yes
+STU-02437,33,Female,Education,6.4,1.6,117.0,5,74,3,4,7.2,2.1,49,38,No,Education,4.5,4,No,85.7,4,2.82,No,Yes,Yes
+STU-04734,29,Other,Computer Science,5.0,2.7,180.0,2,110,1,1,7.2,5.5,0,38,No,Entertainment,4.5,8,Yes,86.7,5,2.35,Yes,Yes,No
+STU-03122,18,Other,Medicine,7.1,0.7,303.0,10,64,8,5,15.1,6.7,50,38,Yes,Entertainment,9.1,3,No,89.5,2,2.84,Yes,Yes,Yes
+STU-00768,47,Other,Sports Science,4.4,0.2,372.0,8,107,1,9,14.2,2.1,43,112,No,News,11.4,5,No,92.4,3,2.51,Yes,Yes,Yes
+STU-04694,43,Female,Medicine,8.5,6.9,,2,94,10,2,4.5,0.0,37,38,No,Entertainment,4.5,6,Yes,72.3,0,2.29,No,Yes,No
+STU-03570,54,Other,Biology/Science,4.1,3.8,326.0,8,87,3,6,8.9,2.1,62,150,No,Gaming,6.8,6,No,,4,2.52,No,No,No
+STU-00673,22,Male,Information Systems,4.3,0.3,415.0,10,119,1,8,8.9,2.9,31,75,No,Entertainment,18.2,5,Yes,72.6,6,2.77,Yes,Yes,Yes
+STU-03310,49,Other,Nursing,6.7,3.6,125.0,2,115,3,2,11.6,2.9,14,38,Yes,Gaming,2.3,5,Yes,82.1,6,2.26,No,Yes,No
+STU-04564,24,Male,Visual Communication Design,7.3,1.3,172.0,6,94,6,2,13.4,4.2,34,75,Yes,News,,8,Yes,97.4,4,1.87,No,No,No
+STU-03198,64,Other,Fine Arts,6.4,0.5,212.0,4,112,5,3,2.8,2.1,0,0,No,Education,0.0,6,No,86.2,4,2.48,No,Yes,No
+STU-00003,46,Male,Biology/Science,5.4,0.2,367.0,9,93,2,10,12.5,3.8,41,75,Yes,Gaming,13.6,10,Yes,78.7,3,2.6,Yes,No,No
+STU-01836,51,Other,Law,9.1,0.2,501.0,2,70,9,2,8.1,8.0,16,75,No,Social Media/Trends,4.5,8,Yes,88.1,6,2.54,No,Yes,No
+STU-02631,52,FEMALE,Information Systems,6.4,7.4,283.0,6,98,9,4,13.4,4.2,37,150,No,News,2.3,7,Yes,,2,2.25,No,No,Yes
+STU-04079,58,Female,Biology/Science,6.4,0.1,471.0,7,63,3,4,1.9,8.0,10,38,,Education,2.3,9,Yes,76.4,5,1.99,No,Yes,No
+STU-01239,50,Other,Information Systems,6.3,1.0,,4,77,3,2,14.2,8.0,10,75,No,Education,2.3,6,Yes,64.8,4,1.97,No,Yes,Yes
+STU-04418,41,Other,Culinary Arts,6.8,2.8,145.0,9,85,1,3,14.2,8.0,57,38,Yes,Social Media/Trends,0.0,6,No,87.9,7,1.77,No,Yes,Yes
+STU-02197,53,Female,Culinary Arts,6.3,0.5,286.0,5,86,8,2,10.7,0.4,25,112,Yes,News,0.0,6,No,,10,2.02,No,Yes,No
+STU-00888,23,Other,Medicine,7.2,4.2,521.0,4,108,4,3,16.0,7.6,12,38,No,Social Media/Trends,4.5,3,Yes,84.0,3,2.45,Yes,Yes,Yes
+STU-02997,18,Female,Law,6.6,4.9,443.0,2,97,3,3,14.2,5.9,80,75,No,News,2.3,8,Yes,72.6,7,2.15,Yes,No,Yes
+STU-04630,31,Female,Fine Arts,7.3,3.6,194.0,9,95,6,2,4.5,1.7,40,112,Yes,Gaming,0.0,3,No,80.5,3,2.17,No,Yes,No
+STU-00297,49,Female,Other Program,8.2,2.3,247.0,1,98,3,1,7.2,1.7,75,112,No,Entertainment,2.3,6,Yes,70.2,6,2.18,No,Yes,No
+STU-01184,42,Female,Education,6.8,1.9,104.0,8,68,9,4,1.9,7.2,62,38,No,Education,2.3,4,No,78.6,2,2.39,No,Yes,Yes
+STU-01025,22,MALE,Other Program,6.3,3.7,106.0,9,114,7,4,6.3,6.7,41,150,Yes,Social Media/Trends,6.8,4,Yes,64.5,6,2.38,Yes,No,No
+STU-02451,59,Other,Other Program,7.3,4.7,252.0,3,116,4,3,15.1,6.7,27,0,Yes,Gaming,,5,No,81.7,0,2.1,No,Yes,Yes
+STU-00166,29,Male,Fine Arts,7.8,3.3,252.0,1,106,9,3,14.2,5.1,23,150,Yes,News,2.3,10,Yes,94.7,4,2.04,No,Yes,Yes
+STU-04896,62,female,Information Systems,5.3,2.2,294.0,6,70,3,6,1.9,3.8,16,38,No,Education,9.1,7,Yes,80.1,2,2.84,Yes,No,Yes
+STU-01653,24,Female,Computer Science,7.0,1.0,,3,66,1,1,11.6,0.4,30,38,No,Social Media/Trends,0.0,6,Yes,90.5,3,2.73,No,Yes,Yes
+STU-03815,59,Other,Information Systems,5.9,7.0,393.0,10,87,8,6,10.7,4.6,50,0,Yes,Education,9.1,2,No,76.1,5,2.98,Yes,No,No
+STU-03487,31,Male,Computer Science,5.5,3.7,344.0,7,115,4,5,8.1,0.0,44,150,No,Social Media/Trends,9.1,8,Yes,79.9,3,2.63,No,Yes,Yes
+STU-00541,63,Other,Law,5.6,2.7,331.0,8,102,3,5,6.3,5.1,32,112,No,Entertainment,2.3,5,No,70.8,1,2.2,No,Yes,No
+STU-03974,33,Female,Visual Communication Design,7.2,2.1,275.0,2,77,4,3,12.5,0.8,69,150,Yes,Entertainment,9.1,8,Yes,54.4,9,2.17,Yes,Yes,Yes
+STU-00912,28,Female,Nursing,6.2,3.8,367.0,5,111,2,4,14.2,7.2,31,0,No,News,4.5,6,No,91.7,4,1.88,No,No,No
+STU-03747,29,Male,Nursing,7.0,3.8,127.0,4,78,1,4,1.0,8.0,52,38,Yes,Social Media/Trends,13.6,9,Yes,74.1,7,2.12,Yes,Yes,No
+STU-04786,28,Other,Computer Science,6.3,4.5,230.0,6,111,6,4,9.8,2.1,11,38,Yes,Social Media/Trends,2.3,10,Yes,58.8,5,1.83,No,Yes,Yes
+STU-03338,32,Female,Other Program,8.3,0.4,141.0,2,88,10,1,4.5,1.3,20,150,No,Entertainment,0.0,1,No,79.6,5,2.18,No,No,No
+STU-00021,53,Other,Visual Communication Design,6.5,3.2,151.0,2,88,4,1,14.2,6.7,45,150,,Entertainment,0.0,7,Yes,77.4,2,2.22,No,Yes,Yes
+STU-04193,33,Female,Visual Communication Design,5.8,0.7,149.0,1,94,8,2,9.8,2.1,24,112,Yes,Entertainment,0.0,3,No,93.8,6,2.25,No,No,Yes
+STU-04259,23,Other,Education,8.1,1.0,252.0,9,101,9,4,1.9,,53,0,Yes,Gaming,4.5,7,Yes,81.4,2,2.68,No,No,No
+STU-00213,41,Female,Fine Arts,6.4,2.2,174.0,9,67,7,5,11.6,6.3,67,150,No,Gaming,0.0,8,Yes,93.4,5,2.25,No,Yes,Yes
+STU-04764,33,Other,Medicine,6.3,2.5,271.0,4,81,8,4,1.0,8.0,60,112,No,Education,13.6,3,No,66.0,5,3.1,Yes,No,No
+STU-01969,28,Male,Culinary Arts,7.0,4.0,300.0,3,99,9,2,2.8,,64,150,Yes,Social Media/Trends,6.8,7,Yes,72.4,3,2.44,Yes,Yes,No
+STU-03900,30,Other,Medicine,7.6,1.7,322.0,1,76,6,1,15.1,3.8,18,75,Yes,Gaming,2.3,3,No,80.7,4,2.35,Yes,No,Yes
+STU-03269,32,Female,Other Program,6.3,0.7,122.0,8,106,7,6,3.6,5.5,20,38,Yes,Entertainment,6.8,5,Yes,83.1,3,2.35,Yes,Yes,No
+STU-03227,40,Male,Medicine,6.5,1.1,565.0,5,66,5,4,11.6,1.7,81,112,Yes,News,2.3,6,No,100.0,3,2.48,No,Yes,Yes
+STU-00510,33,female,Biology/Science,8.4,1.3,346.0,8,78,2,3,16.0,4.2,42,150,Yes,Education,9.1,3,Yes,100.0,0,2.73,Yes,No,Yes
+STU-01562,60,Other,Culinary Arts,6.6,2.6,271.0,6,82,6,4,12.5,4.6,43,0,No,Social Media/Trends,2.3,3,No,76.8,3,2.33,No,No,No
+STU-00615,37,Male,Visual Communication Design,7.2,2.8,68.0,2,115,4,1,7.2,,64,38,Yes,Entertainment,2.3,2,Yes,94.7,2,2.55,Yes,Yes,Yes
+STU-00009,40,Male,Computer Science,8.2,3.8,,3,77,3,1,12.5,7.6,85,38,No,Gaming,2.3,3,No,90.2,1,2.56,No,No,Yes
+STU-00756,43,Male,Electrical Engineering,8.7,6.1,325.0,3,61,5,1,15.1,6.3,52,150,No,Social Media/Trends,9.1,6,No,97.5,2,2.33,Yes,Yes,Yes
+STU-02322,62,Male,Information Systems,5.9,1.0,155.0,10,72,6,5,3.6,0.4,72,112,No,Entertainment,11.4,5,Yes,58.6,3,2.62,Yes,No,No
+STU-01627,41,Male,Electrical Engineering,7.7,0.7,374.0,10,98,2,5,1.9,,20,150,No,Entertainment,0.0,5,No,82.8,3,2.4,No,Yes,No
+STU-03239,54,Female,Fine Arts,7.3,3.7,271.0,9,114,9,6,14.2,7.2,47,150,No,Social Media/Trends,4.5,4,No,100.0,3,2.61,Yes,Yes,Yes
+STU-02514,43,Male,Electrical Engineering,6.4,2.3,556.0,1,100,9,3,14.2,8.0,35,112,Yes,Gaming,2.3,6,No,74.4,3,2.27,No,No,No
+STU-02050,60,Male,Other Program,6.9,7.5,96.0,6,102,5,3,5.4,5.1,37,38,Yes,Gaming,4.5,6,Yes,99.4,3,2.95,No,Yes,No
+STU-05018,59,Male,Other Program,6.3,0.4,278.0,7,95,5,4,16.0,6.3,3,0,No,Gaming,13.6,8,No,80.6,3,2.77,Yes,No,No
+STU-02880,46,Male,Law,7.1,2.1,447.0,7,76,6,5,2.8,0.0,71,0,No,Social Media/Trends,11.4,7,Yes,59.0,6,2.99,Yes,Yes,Yes
+STU-04069,51,Other,Computer Science,7.6,8.6,112.0,4,106,1,3,6.3,1.7,55,38,No,Social Media/Trends,2.3,9,Yes,82.1,6,2.29,Yes,Yes,Yes
+STU-00944,26,Female,Biology/Science,5.8,0.9,276.0,10,74,7,4,8.9,5.5,39,38,No,News,0.0,3,No,86.8,1,2.23,No,No,Yes
+STU-04241,43,Male,Biology/Science,8.7,1.2,437.0,8,60,10,5,9.8,7.2,0,112,Yes,Entertainment,0.0,5,Yes,81.5,5,2.78,No,No,Yes
+STU-01190,37,Female,Education,6.7,7.4,131.0,3,85,10,3,9.8,4.2,70,112,No,News,0.0,6,No,81.8,5,2.02,Yes,Yes,No
+STU-03481,35,Other,Medicine,7.0,1.2,417.0,8,97,2,2,12.5,2.9,68,150,No,Gaming,6.8,7,Yes,75.3,4,1.96,Yes,No,Yes
+STU-04243,53,Other,Visual Communication Design,5.7,5.1,197.0,7,119,4,4,15.1,6.7,23,112,No,Gaming,4.5,3,Yes,82.5,1,2.24,Yes,Yes,Yes
+STU-04387,29,Male,Computer Science,6.8,3.6,170.0,10,111,2,4,12.5,1.7,26,150,No,News,13.6,9,No,87.3,5,2.44,Yes,Yes,No
+STU-01765,23,Male,Nursing,7.5,2.5,187.0,4,99,2,1,1.9,7.6,22,38,No,Gaming,4.5,5,Yes,100.0,5,2.21,Yes,No,No
+STU-03737,22,Male,Education,6.4,6.7,137.0,9,78,3,4,2.8,0.0,36,112,,Entertainment,0.0,6,No,92.5,4,2.52,No,No,Yes
+STU-03540,47,Other,Biology/Science,9.2,1.8,486.0,5,117,2,3,3.6,5.9,56,0,Yes,Gaming,4.5,5,Yes,,2,2.54,No,Yes,No
+STU-02135,18,Female,Computer Science,7.6,0.4,333.0,10,102,4,5,7.2,2.5,0,150,Yes,Education,2.3,5,Yes,94.1,2,2.66,Yes,Yes,No
+STU-04839,48,Female,Visual Communication Design,4.7,0.8,588.0,9,118,2,9,15.1,2.1,28,150,Yes,Education,15.9,6,Yes,70.7,1,1.97,Yes,Yes,Yes
+STU-02531,60,Other,Medicine,6.1,2.2,419.0,5,66,8,3,1.0,2.9,31,38,No,Education,6.8,6,No,88.5,3,2.26,Yes,No,Yes
+STU-00378,38,Other,Electrical Engineering,7.3,1.5,432.0,9,111,8,6,42.599999999999994,8.0,13,38,No,Gaming,0.0,5,No,100.0,3,2.58,No,No,No
+STU-01961,35,Other,Education,6.9,0.1,37.0,5,96,10,2,10.7,1.3,2,38,No,Gaming,4.5,8,Yes,88.0,3,2.37,No,No,No
+STU-04181,24,Male,Law,7.0,0.3,289.0,4,67,3,2,5.4,0.8,22,112,No,Education,4.5,4,Yes,83.1,5,2.46,No,No,No
+STU-04547,38,Other,Computer Science,7.3,2.9,,3,63,8,3,16.0,2.1,13,112,Yes,Education,2.3,6,Yes,71.0,6,2.0,Yes,No,No
+STU-03409,36,Female,Biology/Science,6.0,3.6,308.0,9,80,7,5,1.0,1.7,11,38,No,Entertainment,2.3,7,Yes,87.8,1,2.45,No,Yes,Yes
+STU-04117,42,Male,Medicine,7.3,3.9,259.0,5,64,6,3,11.6,8.0,37,150,No,Gaming,4.5,6,No,72.0,4,1.9,No,No,No
+STU-02711,38,Female,Computer Science,7.6,5.2,316.0,10,63,7,5,15.1,4.6,66,38,Yes,Education,2.3,4,No,82.3,2,2.58,No,No,No
+STU-03020,57,Female,Fine Arts,6.0,4.1,106.0,2,60,3,1,14.2,2.5,9,150,No,Education,2.3,3,No,,5,2.39,Yes,No,Yes
+STU-00879,47,Other,Computer Science,7.0,1.1,340.0,6,77,10,4,13.4,6.7,37,75,No,Education,0.0,9,Yes,69.5,5,2.05,No,Yes,No
+STU-01610,42,Other,Information Systems,7.0,6.7,108.0,7,92,6,5,8.1,4.6,0,112,Yes,Gaming,2.3,9,Yes,77.2,6,2.25,No,Yes,Yes
+STU-01879,22,Male,Electrical Engineering,7.0,2.0,338.0,7,100,4,4,6.3,5.9,60,0,No,Gaming,6.8,5,No,86.8,2,3.18,Yes,Yes,Yes
+STU-01755,45,Male,Visual Communication Design,5.7,0.8,85.0,6,91,9,4,16.0,4.6,0,0,Yes,News,4.5,7,Yes,85.4,3,2.08,Yes,No,No
+STU-00289,38,Other,Visual Communication Design,7.2,1.6,287.0,5,111,6,2,12.5,3.4,68,150,No,Gaming,4.5,4,No,71.5,6,2.88,No,Yes,Yes
+STU-04567,28,Female,Culinary Arts,6.1,0.5,154.0,1,106,9,3,14.2,0.0,0,38,No,Entertainment,4.5,10,Yes,78.1,6,1.88,No,No,No
+STU-04500,63,Male,Electrical Engineering,5.7,1.6,486.0,1,87,2,1,10.7,0.8,36,38,Yes,Education,15.9,6,No,,0,2.0,Yes,No,No
+STU-00521,31,Female,Nursing,6.3,4.5,354.0,4,68,7,2,15.1,5.9,32,75,No,News,0.0,2,No,66.6,3,2.21,No,Yes,No
+STU-01577,40,Other,Computer Science,6.7,0.6,152.0,2,84,6,1,12.5,1.3,12,38,No,Social Media/Trends,0.0,2,No,98.5,7,2.18,No,No,Yes
+STU-03027,64,Other,Biology/Science,7.1,5.3,302.0,1,60,3,2,12.5,3.4,50,75,No,Education,,5,Yes,86.5,5,2.44,No,Yes,No
+STU-03551,49,Other,Fine Arts,7.7,3.2,107.0,4,64,9,2,11.6,2.9,15,0,No,Gaming,2.3,4,No,78.4,0,2.62,No,Yes,Yes
+STU-01345,49,Female,Sports Science,6.3,1.5,119.0,8,95,6,6,8.9,4.2,53,0,No,Social Media/Trends,0.0,4,Yes,75.8,2,2.27,No,Yes,No
+STU-02965,49,Other,Culinary Arts,5.1,0.2,,9,99,4,9,10.7,6.3,26,75,,Entertainment,15.9,9,Yes,62.4,7,2.3,Yes,No,No
+STU-02162,33,Male,Computer Science,8.6,3.1,382.0,8,68,4,5,5.4,5.5,12,150,Yes,News,4.5,9,Yes,98.7,4,2.41,Yes,Yes,Yes
+STU-00927,19,Other,Education,7.6,4.4,219.0,6,119,7,3,6.3,2.9,18,0,No,Entertainment,2.3,2,No,88.8,2,3.11,No,No,No
+STU-00821,36,Female,Sports Science,8.4,7.2,76.0,1,89,9,1,1.0,4.6,26,38,No,Gaming,2.3,2,No,89.0,4,2.8,No,Yes,Yes
+STU-00524,43,Other,Electrical Engineering,8.3,3.9,273.0,2,105,3,3,1.0,1.7,3,75,No,Education,,6,Yes,95.5,4,2.87,No,No,Yes
+STU-03394,64,FEMALE,Medicine,5.5,2.7,276.0,9,112,4,4,15.1,7.6,33,0,No,Gaming,4.5,6,No,84.0,4,2.11,Yes,Yes,No
+STU-02487,20,Female,Biology/Science,9.9,4.6,510.0,9,96,2,7,3.6,,10,112,No,Social Media/Trends,15.9,4,No,81.2,3,3.14,Yes,Yes,Yes
+STU-04108,39,Male,Information Systems,5.2,7.0,354.0,3,93,8,2,10.7,5.1,47,75,No,Social Media/Trends,0.0,7,Yes,91.0,9,1.86,No,No,No
+STU-02733,50,Male,Other Program,5.5,4.0,,9,71,4,4,13.4,5.5,32,150,Yes,Social Media/Trends,0.0,8,Yes,92.4,5,1.87,No,No,Yes
+STU-00740,63,Female,Law,6.1,0.6,420.0,2,101,7,2,1.9,2.9,33,38,Yes,Entertainment,0.0,8,No,67.6,6,2.55,No,No,Yes
+STU-00406,42,Female,Fine Arts,6.7,3.4,163.0,3,88,2,1,8.1,1.7,57,-5,Yes,Education,,8,Yes,66.9,3,2.27,Yes,No,No
+STU-03220,20,Other,Education,7.5,6.5,175.0,9,109,8,5,6.3,2.1,38,38,No,Gaming,6.8,2,No,68.5,2,2.5,Yes,No,Yes
+STU-00497,42,Other,Other Program,3.7,0.1,510.0,10,113,3,10,14.2,4.6,53,75,No,Entertainment,13.6,10,Yes,77.9,7,2.58,No,Yes,Yes
+STU-03268,54,Female,Visual Communication Design,7.1,2.5,210.0,8,63,3,5,16.0,6.7,39,112,Yes,Education,2.3,9,Yes,76.0,4,1.5,Yes,Yes,No
+STU-00436,45,Male,Culinary Arts,6.7,5.1,196.0,2,95,4,1,9.8,2.9,38,38,Yes,Entertainment,4.5,10,No,,7,2.67,Yes,Yes,No
+STU-03966,47,Other,Fine Arts,6.1,4.1,176.0,9,109,1,6,8.1,7.2,11,75,Yes,Gaming,11.4,4,No,78.8,3,2.99,Yes,Yes,Yes
+STU-03656,25,Other,Fine Arts,3.8,1.6,520.0,8,100,3,9,9.8,7.6,38,75,No,Entertainment,9.1,6,Yes,84.8,5,2.39,Yes,No,No
+STU-04453,24,Female,Medicine,8.2,3.6,276.0,10,107,10,5,1.9,4.6,51,38,No,Education,4.5,4,No,70.9,4,2.61,No,No,No
+STU-02993,54,Female,Culinary Arts,4.6,3.5,,4,71,9,4,2.8,3.8,49,38,No,Education,4.5,7,Yes,61.1,5,2.74,No,No,No
+STU-03183,42,male,Law,6.2,2.9,577.0,6,89,3,4,2.8,5.1,9,-5,Yes,Entertainment,4.5,3,No,74.0,1,2.33,Yes,Yes,No
+STU-02362,38,Female,Education,6.4,5.6,173.0,1,86,5,2,12.5,7.6,40,112,Yes,Gaming,13.6,9,Yes,73.5,7,2.2,Yes,Yes,No
+STU-00937,60,Other,Information Systems,7.3,2.3,185.0,8,100,3,4,2.8,6.3,14,112,Yes,Social Media/Trends,6.8,1,No,78.6,4,3.0,Yes,No,Yes
+STU-01028,23,Male,Information Systems,7.5,3.3,,9,73,8,4,13.4,5.5,0,112,No,Education,13.6,7,Yes,80.3,1,2.12,Yes,Yes,Yes
+STU-04038,46,Male,Electrical Engineering,5.7,2.9,478.0,6,110,4,2,4.5,2.9,4,112,Yes,Education,0.0,10,Yes,77.4,7,2.06,No,No,No
+STU-05002,45,Female,Computer Science,7.6,4.2,112.0,4,100,3,2,8.9,3.4,61,38,No,News,6.8,4,No,76.6,5,2.39,Yes,Yes,No
+STU-03582,44,Female,Fine Arts,5.7,3.5,174.0,3,103,4,4,1.0,6.7,0,0,Yes,News,9.1,5,No,90.5,1,2.4,No,Yes,Yes
+STU-00007,21,Female,Nursing,7.4,4.8,216.0,1,64,6,1,6.3,3.8,75,112,Yes,News,0.0,8,Yes,70.9,2,2.56,No,No,No
+STU-04770,48,Male,Nursing,6.7,2.5,139.0,4,65,10,2,13.4,2.1,64,112,No,Education,4.5,7,Yes,85.2,2,1.67,No,Yes,Yes
+STU-01965,31,Male,Other Program,3.3,1.1,595.0,10,105,4,9,16.0,6.3,52,75,Yes,Education,15.9,8,Yes,82.2,10,2.24,Yes,No,No
+STU-03341,45,Other,Culinary Arts,4.9,2.1,186.0,3,71,7,3,1.0,0.8,30,0,Yes,Social Media/Trends,9.1,4,Yes,79.2,4,2.49,Yes,No,Yes
+STU-03218,50,Female,Other Program,6.3,5.8,55.0,4,116,4,3,12.5,0.0,23,75,No,,4.5,8,Yes,76.1,3,1.75,No,Yes,No
+STU-02962,36,MALE,Electrical Engineering,7.3,2.8,346.0,8,113,5,3,10.7,2.1,37,0,Yes,Social Media/Trends,6.8,8,No,62.7,4,1.94,Yes,No,Yes
+STU-00109,62,Male,Biology/Science,7.0,4.7,557.0,3,76,10,3,8.9,8.0,63,75,No,Gaming,4.5,5,Yes,85.1,2,2.42,No,Yes,No
+STU-03087,25,Female,Medicine,6.8,0.6,344.0,10,78,3,5,11.6,5.9,25,0,Yes,Gaming,0.0,7,No,,4,2.18,Yes,No,Yes
+STU-02862,21,Other,Fine Arts,4.7,1.4,536.0,8,93,3,9,15.1,2.5,65,150,No,Gaming,13.6,9,Yes,61.8,5,2.06,Yes,No,Yes
+STU-01063,27,Female,Education,5.0,5.0,287.0,5,80,8,2,11.6,5.5,0,75,Yes,Entertainment,0.0,7,Yes,64.3,2,2.03,No,No,Yes
+STU-02137,40,Other,Law,8.0,5.7,583.0,6,101,2,2,8.1,6.7,26,0,No,Education,4.5,2,No,91.1,5,2.06,Yes,No,No
+STU-03446,52,MALE,Computer Science,6.9,3.7,258.0,7,87,3,4,15.1,7.2,17,150,Yes,Education,11.4,5,Yes,91.4,3,2.19,Yes,Yes,No
+STU-00234,45,MALE,Other Program,5.5,4.8,295.0,1,82,4,1,9.8,2.9,32,150,Yes,News,2.3,5,No,76.0,4,2.36,No,Yes,No
+STU-05007,35,Female,Other Program,6.6,2.3,277.0,5,62,5,2,11.6,1.3,34,150,No,Social Media/Trends,0.0,6,No,70.2,1,2.05,No,Yes,Yes
+STU-04184,28,female,Education,7.7,0.4,188.0,4,63,5,3,12.5,1.7,58,75,No,News,,5,No,64.7,3,2.58,Yes,Yes,Yes
+STU-04134,26,Other,Law,8.4,2.1,380.0,4,101,6,2,11.6,3.8,0,150,Yes,Social Media/Trends,,5,Yes,63.8,0,1.96,No,Yes,No
+STU-05044,46,Male,Medicine,8.0,2.0,291.0,8,72,3,5,1.0,6.7,53,0,Yes,Social Media/Trends,4.5,6,Yes,84.5,8,2.88,No,No,No
+STU-02210,64,Other,Fine Arts,5.4,3.7,90.0,8,91,5,4,15.1,0.4,46,75,No,News,6.8,5,No,80.4,7,2.0,No,Yes,Yes
+STU-04400,56,Other,Education,5.8,3.9,241.0,8,104,8,5,11.6,7.6,31,112,No,Education,0.0,2,No,100.0,5,2.57,No,No,Yes
+STU-04365,39,Male,Electrical Engineering,7.5,4.8,271.0,3,110,6,4,15.1,3.4,49,150,Yes,News,9.1,6,No,85.8,3,1.98,Yes,No,No
+STU-01156,43,Other,Electrical Engineering,7.2,0.0,548.0,8,102,9,6,16.0,4.6,15,0,No,Education,2.3,5,Yes,82.0,5,1.9,No,No,No
+STU-01685,33,Male,Sports Science,5.3,0.1,524.0,9,108,2,8,8.1,4.2,38,75,,News,11.4,7,Yes,69.4,4,2.9,Yes,No,No
+STU-00399,56,Female,Nursing,5.7,2.9,335.0,2,99,3,4,2.8,4.2,37,150,Yes,News,9.1,5,No,59.2,4,2.25,Yes,Yes,Yes
+STU-01710,43,Other,Sports Science,8.5,2.2,61.0,8,82,6,3,8.1,6.3,49,75,No,Education,4.5,6,No,84.4,4,2.48,No,Yes,Yes
+STU-04843,35,Female,Information Systems,7.0,0.6,116.0,3,61,4,1,1.9,5.5,27,112,,Gaming,2.3,8,Yes,77.1,7,2.33,Yes,No,No
+STU-02207,45,Male,Law,6.3,3.3,539.0,1,63,10,3,9.8,1.3,85,112,Yes,Entertainment,6.8,6,Yes,70.3,6,2.16,Yes,Yes,Yes
+STU-02947,39,Other,Nursing,4.7,2.7,364.0,10,98,3,10,15.1,8.0,10,75,Yes,Gaming,18.2,4,Yes,,4,2.83,No,Yes,Yes
+STU-00850,47,Other,Fine Arts,7.8,0.0,,5,88,8,5,8.9,2.1,62,150,No,News,2.3,10,Yes,100.0,7,2.15,Yes,Yes,No
+STU-03554,30,Female,Other Program,5.8,2.8,150.0,3,70,6,2,1.9,1.7,17,75,No,Gaming,2.3,9,Yes,87.8,7,1.78,No,Yes,Yes
+STU-02682,50,Female,Nursing,9.1,2.7,114.0,9,77,10,5,8.9,6.7,43,38,Yes,News,4.5,6,Yes,84.8,6,2.57,Yes,No,Yes
+STU-05033,22,Other,Computer Science,8.8,1.8,175.0,5,92,3,2,15.1,0.0,0,38,No,Gaming,2.3,7,Yes,83.0,9,1.72,No,Yes,No
+STU-01713,20,Other,Nursing,6.8,1.6,351.0,2,90,10,4,15.1,7.6,38,150,Yes,Gaming,11.4,7,No,78.3,4,2.07,Yes,Yes,Yes
+STU-01688,40,Male,Nursing,5.1,0.1,511.0,9,99,4,8,8.1,6.7,0,112,No,Social Media/Trends,11.4,10,Yes,69.2,3,2.4,Yes,No,No
+STU-00508,26,Female,Electrical Engineering,4.6,0.5,501.0,9,103,1,8,15.1,7.6,17,150,No,News,9.1,7,Yes,62.7,7,2.66,Yes,Yes,Yes
+STU-05056,25,Other,Law,6.5,4.0,533.0,2,95,4,4,15.1,2.5,82,0,No,Education,4.5,8,Yes,81.3,2,2.08,No,Yes,No
+STU-00942,50,Female,Computer Science,7.1,3.4,215.0,10,117,9,5,15.1,6.7,27,75,No,Gaming,2.3,4,Yes,85.2,4,2.46,No,Yes,Yes
+STU-01448,33,Female,Culinary Arts,6.1,0.5,353.0,6,89,8,4,16.0,7.6,76,75,No,,0.0,3,No,74.0,4,2.42,No,Yes,Yes
+STU-02984,19,Male,Sports Science,7.7,3.2,190.0,5,105,9,3,14.2,4.2,32,112,No,Education,4.5,8,Yes,75.3,4,1.9,Yes,No,No
+STU-03104,63,Male,Computer Science,6.2,5.7,139.0,3,83,9,2,13.4,4.2,41,0,No,Education,2.3,7,Yes,73.8,6,2.32,Yes,Yes,Yes
+STU-00027,56,Other,Medicine,6.1,5.6,596.0,9,81,5,5,5.4,5.1,47,112,No,Gaming,9.1,4,Yes,88.1,3,2.63,Yes,Yes,No
+STU-04279,27,Female,Nursing,5.7,7.1,,4,88,10,3,8.1,7.2,61,0,Yes,News,4.5,4,Yes,79.1,3,2.41,No,Yes,No
+STU-04128,22,Female,Computer Science,9.4,1.0,140.0,9,87,10,3,1.0,2.5,36,38,No,Education,2.3,8,Yes,97.0,6,2.37,No,Yes,Yes
+STU-01096,42,Other,Information Systems,7.0,2.6,384.0,1,71,3,3,6.3,2.5,25,112,No,Gaming,2.3,5,No,72.4,6,2.35,Yes,Yes,Yes
+STU-03486,51,Female,Nursing,6.4,2.2,273.0,2,100,1,2,8.9,7.6,63,112,Yes,News,4.5,6,No,77.9,5,2.45,Yes,No,Yes
+STU-03546,49,Male,Medicine,6.2,0.0,411.0,8,61,4,6,2.8,5.5,94,75,No,Education,6.8,5,Yes,87.2,6,2.83,Yes,Yes,No
+STU-01458,47,Other,Fine Arts,6.1,3.1,201.0,6,117,6,3,3.6,6.7,63,112,No,Entertainment,0.0,8,Yes,86.1,2,2.33,Yes,No,Yes
+STU-01125,19,Other,Education,7.6,2.4,104.0,4,102,10,3,12.5,0.0,9,150,No,Entertainment,2.3,5,No,84.2,5,2.24,No,Yes,No
+STU-03894,51,Other,Fine Arts,5.7,4.8,274.0,3,105,1,3,13.4,5.5,116,150,Yes,Social Media/Trends,2.3,8,Yes,,7,2.15,No,Yes,Yes
+STU-04197,21,Other,Other Program,5.6,1.0,102.0,7,112,4,3,5.4,4.2,0,38,No,Social Media/Trends,4.5,9,Yes,68.9,4,2.2,No,No,No
+STU-03266,20,Female,Education,8.1,4.1,254.0,9,95,7,4,7.2,5.5,66,75,Yes,Education,4.5,9,Yes,77.5,7,2.47,No,No,No
+STU-01860,40 yrs,MALE,Medicine,8.0,0.5,456.0,8,94,5,5,1.0,7.2,32,0,No,Entertainment,4.5,5,Yes,98.2,2,2.57,No,Yes,No
+STU-00311,28,Male,Medicine,4.7,3.0,366.0,10,93,4,5,9.8,5.9,50,150,No,Entertainment,9.1,8,Yes,80.5,3,2.43,Yes,No,No
+STU-01260,39,Other,Education,8.6,3.4,84.0,8,83,3,3,7.2,1.3,36,150,No,Education,0.0,3,No,86.9,5,2.34,No,Yes,No
+STU-00396,28,Male,Other Program,6.4,2.0,204.0,1,90,1,1,4.5,2.5,0,150,No,News,2.3,9,Yes,90.4,7,2.24,No,No,Yes
+STU-01483,31,male,Biology/Science,5.2,3.6,368.0,5,113,3,4,2.8,6.3,45,112,Yes,Entertainment,2.3,4,No,80.5,3,2.11,Yes,No,Yes
+STU-04097,43,Male,Law,3.6,1.3,,9,102,1,10,8.9,2.1,54,75,Yes,Education,11.4,10,Yes,72.9,6,2.16,Yes,No,Yes
+STU-01115,54,Male,Law,5.7,0.0,372.0,4,74,2,1,9.8,5.9,19,0,Yes,Social Media/Trends,2.3,5,Yes,75.3,2,2.61,No,Yes,Yes
+STU-03803,50,Male,Culinary Arts,8.0,6.1,339.0,8,60,2,3,9.8,2.1,14,0,No,Social Media/Trends,9.1,8,No,85.3,5,2.63,Yes,No,Yes
+STU-02478,38,Male,Nursing,8.7,0.8,115.0,7,114,1,4,8.1,0.0,63,112,No,Social Media/Trends,4.5,2,No,82.3,3,2.9,Yes,Yes,Yes
+STU-01518,53,male,Law,6.5,2.1,540.0,3,67,7,3,8.9,8.0,40,150,,Education,6.8,4,No,88.3,5,2.49,Yes,Yes,Yes
+STU-04615,24,Male,Nursing,7.2,1.1,225.0,6,106,6,3,7.2,7.2,73,75,Yes,Gaming,6.8,10,Yes,77.1,4,2.51,Yes,No,Yes
+STU-02944,31,Other,Culinary Arts,8.9,4.8,333.0,4,113,8,1,1.9,5.1,23,150,No,Education,2.3,6,No,,5,2.28,No,Yes,Yes
+STU-00482,38,Male,Fine Arts,7.6,4.3,203.0,6,61,1,3,8.1,1.7,3,75,Yes,Social Media/Trends,6.8,5,No,73.7,2,2.15,No,Yes,Yes
+STU-03991,41,Male,Computer Science,6.6,0.2,170.0,3,90,5,2,6.3,0.4,41,75,No,Gaming,6.8,10,Yes,87.4,8,2.2,Yes,No,No
+STU-00996,49,Other,Medicine,6.0,3.8,357.0,10,60,10,5,1.0,5.5,46,0,Yes,Entertainment,2.3,8,Yes,,6,2.23,Yes,No,Yes
+STU-04680,31,Female,Medicine,8.7,1.4,561.0,2,86,8,1,12.5,,0,112,Yes,Entertainment,2.3,8,No,86.1,5,2.13,No,No,Yes
+STU-01098,21,Other,Law,6.4,6.4,374.0,7,78,9,3,1.9,1.7,57,38,No,News,2.3,7,No,81.7,7,2.93,No,Yes,Yes
+STU-00562,32,Other,Computer Science,6.7,4.2,236.0,9,93,1,3,8.9,8.0,42,150,No,News,0.0,3,No,82.0,2,2.16,No,Yes,Yes
+STU-05006,47,Male,Medicine,7.4,3.1,517.0,10,112,8,5,12.5,3.8,35,150,Yes,News,18.2,9,No,63.6,8,2.26,Yes,Yes,Yes
+STU-02633,32,Other,Visual Communication Design,6.5,3.5,107.0,4,118,7,4,3.6,0.8,45,75,No,Education,6.8,9,Yes,75.8,3,2.13,No,Yes,Yes
+STU-02060,52,Male,Information Systems,7.2,2.8,397.0,9,94,9,5,2.8,,37,150,Yes,News,0.0,6,Yes,87.9,4,1.87,No,Yes,Yes
+STU-00295,52,Female,Other Program,7.0,0.6,124.0,5,115,4,1,16.0,2.1,42,0,No,Social Media/Trends,9.1,5,No,,6,2.09,Yes,No,Yes
+STU-01053,25,Male,Law,9.4,2.7,559.0,9,69,9,4,16.0,5.9,33,112,No,Education,2.3,4,No,79.2,6,1.65,No,No,No
+STU-05022,58,Male,Education,7.3,4.9,157.0,8,114,1,3,5.4,0.4,4,38,No,News,0.0,3,No,90.5,6,2.39,No,Yes,No
+STU-04665,42,Other,Information Systems,5.0,3.7,107.0,4,97,6,2,4.5,7.2,30,150,No,Education,,9,Yes,73.9,2,2.04,No,Yes,Yes
+STU-03950,52,Male,Other Program,7.2,3.6,227.0,5,113,1,4,14.2,6.3,20,150,Yes,Entertainment,6.8,5,No,83.1,1,2.45,Yes,No,No
+STU-04894,53,Other,Visual Communication Design,7.2,2.6,,6,78,6,2,6.3,0.4,44,0,No,Gaming,2.3,4,No,90.4,6,2.0,Yes,Yes,Yes
+STU-00579,33,Male,Nursing,6.8,0.5,277.0,10,78,5,5,12.5,5.9,0,38,Yes,Entertainment,9.1,7,Yes,70.2,4,2.12,Yes,Yes,No
+STU-00597,25,Other,Computer Science,7.3,1.6,235.0,9,63,4,5,16.0,0.0,22,150,No,Entertainment,4.5,10,No,93.1,5,2.17,Yes,Yes,No
+STU-03511,37,Other,Law,6.5,0.7,577.0,1,77,3,1,14.2,6.7,10,-5,Yes,Education,11.4,4,No,,5,2.85,Yes,Yes,No
+STU-00212,27,Female,Biology/Science,5.8,4.7,253.0,2,68,1,1,2.8,7.6,56,0,No,News,0.0,7,Yes,60.3,5,2.36,No,Yes,No
+STU-04636,41,Female,Sports Science,5.3,1.7,127.0,4,111,5,3,16.0,1.7,32,75,Yes,News,4.5,5,No,67.3,2,2.25,Yes,No,No
+STU-02556,40,Male,Visual Communication Design,6.0,0.3,185.0,7,98,10,3,15.1,2.1,57,38,Yes,Gaming,0.0,4,No,71.5,3,2.28,No,No,Yes
+STU-04198,40,Female,Culinary Arts,6.8,3.7,311.0,9,79,3,6,4.5,5.9,36,112,,Gaming,9.1,10,Yes,73.3,4,2.36,Yes,Yes,Yes
+STU-02177,58,Male,Sports Science,6.7,1.1,261.0,5,62,9,3,8.9,3.4,34,75,Yes,Entertainment,2.3,7,Yes,75.1,3,2.21,Yes,Yes,No
+STU-02885,53,Female,Computer Science,5.2,0.9,345.0,1,67,4,1,11.6,3.8,61,75,No,Social Media/Trends,4.5,6,Yes,93.9,2,2.67,Yes,Yes,No
+STU-03870,56,male,Other Program,5.8,7.8,6.0,4,104,4,3,11.6,2.9,0,112,Yes,News,11.4,8,Yes,70.4,4,2.58,Yes,Yes,No
+STU-02150,48,Male,Biology/Science,7.1,2.5,451.0,1,105,4,2,14.2,7.6,11,38,No,Social Media/Trends,9.1,5,No,86.1,2,2.77,Yes,Yes,No
+STU-03538,32,Female,Visual Communication Design,7.7,5.3,133.0,7,83,7,4,2.8,8.0,57,0,No,News,9.1,5,No,100.0,1,2.63,Yes,Yes,No
+STU-03366,24,Male,Fine Arts,4.2,2.6,421.0,8,98,1,8,14.2,2.9,54,112,No,Social Media/Trends,15.9,4,Yes,77.8,2,2.62,Yes,Yes,Yes
+STU-03547,29,Male,Electrical Engineering,7.7,2.3,294.0,4,65,4,2,9.8,2.1,0,38,No,News,2.3,9,Yes,92.7,4,2.32,Yes,No,No
+STU-00157,56,Female,Electrical Engineering,6.2,5.5,296.0,10,70,1,6,8.9,6.7,74,38,No,Education,2.3,4,No,69.5,4,2.6,Yes,No,Yes
+STU-00161,53,Other,Information Systems,6.5,4.4,340.0,2,80,6,3,4.5,1.3,23,38,No,Social Media/Trends,4.5,3,No,72.8,2,2.78,No,No,No
+STU-02627,22,Other,Computer Science,8.2,3.5,163.0,5,86,9,3,7.2,5.1,32,112,No,Social Media/Trends,2.3,6,No,87.2,6,2.59,No,Yes,Yes
+STU-01835,21,Female,Nursing,7.4,3.0,328.0,1,103,9,1,13.4,5.1,55,0,Yes,Gaming,4.5,7,Yes,80.7,2,2.28,Yes,Yes,Yes
+STU-03724,58,Other,Law,7.4,3.6,492.0,6,119,9,3,8.1,7.6,64,150,No,News,2.3,7,No,71.4,1,2.37,Yes,Yes,Yes
+STU-01708,34,female,Biology/Science,6.5,2.6,570.0,7,62,8,3,2.8,1.3,0,150,No,Entertainment,13.6,1,No,,4,3.04,Yes,Yes,No
+STU-00798,63,Other,Other Program,5.1,1.7,,7,75,1,4,12.5,5.5,37,150,Yes,Education,6.8,1,No,86.8,2,2.42,Yes,No,No
+STU-00699,35,Other,Other Program,5.5,1.4,,6,61,4,4,15.1,6.7,84,0,No,Social Media/Trends,4.5,2,No,73.5,4,2.63,No,Yes,No
+STU-03169,38,Other,Other Program,7.8,0.5,,5,99,6,4,8.9,4.6,73,150,Yes,Entertainment,11.4,7,No,84.5,2,2.47,Yes,Yes,No
+STU-02456,34,Male,Biology/Science,6.1,5.3,345.0,9,75,1,4,10.7,4.6,18,38,No,Education,2.3,7,Yes,83.4,5,2.05,No,Yes,No
+STU-02158,58,Male,Education,5.4,3.4,287.0,10,94,8,7,7.2,2.1,55,75,No,Gaming,13.6,1,No,89.2,5,2.64,Yes,Yes,No
+STU-00018,32,Female,Medicine,4.6,1.7,385.0,9,113,3,8,12.5,2.1,25,150,No,Gaming,9.1,9,Yes,91.7,6,2.7,Yes,Yes,No
+STU-04025,52,Female,Visual Communication Design,6.4,2.8,150.0,7,93,10,4,10.7,7.6,69,75,Yes,Education,0.0,6,Yes,85.0,7,2.33,No,Yes,Yes
+STU-02166,63,Male,Culinary Arts,6.0,3.0,137.0,1,85,9,1,16.0,4.6,16,150,No,Entertainment,6.8,6,No,93.6,2,1.85,Yes,Yes,No
+STU-03303,21,Other,Information Systems,6.5,2.3,382.0,1,96,5,3,13.4,3.8,11,0,No,Entertainment,2.3,1,No,,3,2.56,Yes,No,Yes
+STU-01730,27,Male,Information Systems,6.7,3.6,308.0,5,109,4,1,15.1,7.6,49,38,No,,0.0,7,Yes,69.9,3,2.04,Yes,Yes,No
+STU-03813,36,female,Culinary Arts,7.8,5.2,299.0,5,66,5,2,15.1,5.9,46,75,Yes,Social Media/Trends,11.4,3,No,72.5,4,2.92,Yes,Yes,No
+STU-04937,26,Male,Other Program,7.4,3.7,19.0,7,63,8,2,6.3,2.5,43,150,Yes,News,6.8,6,Yes,73.5,7,2.28,Yes,Yes,No
+STU-00024,33,Other,Fine Arts,6.9,3.4,98.0,8,107,8,4,3.6,3.4,0,38,No,Gaming,6.8,5,No,70.8,3,2.26,Yes,No,Yes
+STU-03373,22,Female,Biology/Science,3.5,3.0,343.0,10,90,1,10,16.0,3.4,18,75,No,Social Media/Trends,,5,Yes,84.2,3,2.44,No,No,Yes
+STU-00882,24,Other,Fine Arts,5.8,2.7,162.0,9,64,8,6,11.6,6.7,50,-5,No,News,2.3,2,No,78.6,5,2.44,Yes,Yes,No
+STU-05009,35,Other,Electrical Engineering,7.0,2.1,581.0,3,117,10,2,10.7,6.3,20,38,No,News,,9,Yes,68.6,8,2.27,Yes,No,No
+STU-04475,57,Female,Education,7.6,1.1,206.0,1,80,9,1,11.6,1.7,32,150,No,Education,0.0,7,Yes,100.0,5,2.27,No,No,No
+STU-04760,29,Male,Electrical Engineering,8.0,0.9,340.0,10,72,2,5,7.2,5.9,57,75,No,Education,4.5,5,No,,4,2.75,Yes,Yes,No
+STU-02559,52,Other,Nursing,6.7,3.0,176.0,2,92,1,1,10.7,0.4,42,150,No,,2.3,8,Yes,84.8,5,2.63,No,No,No
+STU-00208,61,Female,Sports Science,5.8,4.3,221.0,1,71,4,1,3.6,3.4,6,112,No,News,0.0,3,No,83.0,5,2.56,No,Yes,Yes
+STU-01166,40,Other,Sports Science,6.2,1.6,521.0,9,112,4,9,13.4,4.2,40,75,No,Gaming,13.6,4,No,80.9,2,2.56,Yes,No,Yes
+STU-00448,32,Male,Medicine,7.2,4.1,278.0,7,87,1,4,1.0,2.5,38,75,Yes,Social Media/Trends,4.5,8,Yes,75.3,1,2.47,No,Yes,No
+STU-02156,55,Other,Nursing,6.7,1.6,239.0,1,104,6,4,4.5,2.9,27,0,Yes,Gaming,0.0,10,Yes,73.4,5,2.34,Yes,No,No
+STU-00308,61,male,Medicine,5.6,0.7,278.0,7,85,9,5,3.6,0.4,0,112,No,Gaming,4.5,6,No,88.3,6,3.06,No,No,No
+STU-01748,59,Male,Other Program,5.4,1.6,256.0,5,70,4,3,11.6,2.1,60,0,Yes,Education,2.3,7,No,66.6,6,2.52,No,No,No
+STU-04222,36,Female,Nursing,8.3,4.7,244.0,3,118,8,2,1.9,2.5,70,0,Yes,Entertainment,0.0,8,No,93.0,3,2.11,No,No,Yes
+STU-00402,34,Female,Computer Science,7.7,2.9,323.0,8,108,9,5,6.3,0.0,38,0,Yes,Gaming,4.5,6,Yes,92.8,6,2.81,Yes,No,Yes
+STU-04430,19,Other,Law,5.8,2.8,512.0,5,114,9,4,3.6,3.4,4,75,Yes,Social Media/Trends,11.4,2,No,62.6,3,2.6,Yes,No,No
+STU-04433,47,Other,Fine Arts,6.1,2.5,292.0,4,82,9,1,2.8,1.7,70,38,Yes,Gaming,4.5,3,No,,2,2.45,No,Yes,Yes
+STU-00565,26,Male,Information Systems,4.0,1.3,460.0,10,91,4,10,15.1,5.9,7,112,Yes,Gaming,13.6,2,Yes,88.9,1,2.32,Yes,No,Yes
+STU-03286,18,Other,Electrical Engineering,6.9,2.4,572.0,6,105,9,4,1.9,4.2,106,75,No,Gaming,9.1,5,No,78.7,2,2.77,Yes,Yes,Yes
+STU-00883,28,Other,Information Systems,7.3,1.3,342.0,10,68,8,6,6.3,,35,75,No,Social Media/Trends,0.0,10,Yes,77.7,3,1.94,No,No,No
+STU-00022,46,Other,Electrical Engineering,6.6,2.1,402.0,7,78,6,6,14.2,1.3,7,75,Yes,News,6.8,7,No,95.4,3,2.04,Yes,Yes,No
+STU-04113,51,Male,Law,8.0,5.5,341.0,2,114,6,1,11.6,6.7,16,75,Yes,Gaming,0.0,9,Yes,73.2,4,1.9,No,No,No
+STU-00825,56,male,Information Systems,7.0,6.4,137.0,1,77,6,1,12.5,0.0,40,0,No,Social Media/Trends,6.8,2,No,85.0,2,2.72,Yes,No,No
+STU-02043,58,Other,Visual Communication Design,5.1,3.1,108.0,4,67,3,3,13.4,2.1,41,150,No,Gaming,4.5,8,Yes,72.7,4,2.07,Yes,Yes,No
+STU-00810,47,Male,Electrical Engineering,6.8,1.5,496.0,9,74,4,4,11.6,0.4,10,75,No,Education,0.0,7,No,83.5,10,2.0,No,Yes,Yes
+STU-02526,51,Other,Sports Science,7.3,0.4,254.0,6,68,9,4,1.0,7.6,26,0,Yes,Social Media/Trends,9.1,8,Yes,74.7,5,2.43,Yes,No,No
+STU-02192,57,Male,Fine Arts,6.4,2.8,239.0,1,97,5,3,4.5,1.7,74,150,No,News,6.8,10,No,71.9,1,2.47,Yes,Yes,Yes
+STU-02521,48,Female,Sports Science,4.5,1.6,410.0,8,95,2,10,13.4,5.5,84,150,Yes,Entertainment,13.6,3,No,85.3,1,2.47,Yes,Yes,Yes
+STU-04879,36,Male,Medicine,5.5,2.6,309.0,9,91,3,9,10.7,3.8,6,75,No,Gaming,18.2,3,No,77.6,5,2.75,Yes,Yes,No
+STU-03437,48,Male,Sports Science,6.3,5.6,194.0,1,94,5,1,13.4,,0,38,Yes,Gaming,6.8,8,Yes,64.2,5,1.9,Yes,No,No
+STU-03525,20,Male,Sports Science,5.9,4.6,94.0,1,73,5,2,5.4,8.0,0,75,Yes,Gaming,0.0,6,Yes,67.1,5,2.04,No,Yes,No
+STU-03599,34,Other,Education,6.7,6.3,186.0,4,70,7,4,9.8,2.1,37,38,Yes,News,0.0,7,Yes,94.5,3,2.33,No,Yes,Yes
+STU-03621,20,MALE,Culinary Arts,9.0,0.2,213.0,9,62,8,4,10.7,6.7,52,38,No,News,4.5,4,Yes,92.9,4,2.52,Yes,Yes,No
+STU-00337,44,Male,Fine Arts,7.1,4.1,55.0,7,86,10,4,1.9,7.2,55,38,No,Social Media/Trends,4.5,8,Yes,,4,2.63,No,No,No
+STU-02286,27,Other,Nursing,6.5,2.1,373.0,4,83,1,2,8.1,5.5,36,75,No,Gaming,2.3,9,Yes,71.4,3,2.36,No,Yes,No
+STU-01481,26,Male,Medicine,5.5,1.9,319.0,9,98,4,8,9.8,2.9,0,150,No,Gaming,18.2,10,Yes,75.1,4,2.57,Yes,Yes,Yes
+STU-02157,29,Female,Culinary Arts,5.2,3.7,388.0,8,110,6,6,12.5,3.8,28,75,No,Social Media/Trends,4.5,1,No,81.1,3,2.42,Yes,Yes,Yes
+STU-00127,37,Other,Computer Science,7.0,3.8,,5,63,8,4,14.2,5.5,70,150,No,Social Media/Trends,9.1,5,No,83.1,2,2.59,Yes,Yes,Yes
+STU-01848,62,Female,Biology/Science,6.9,1.7,379.0,5,88,9,4,12.5,1.3,19,38,Yes,News,4.5,6,No,80.9,3,2.49,No,No,No
+STU-04740,26,Other,Other Program,6.2,1.7,134.0,8,110,4,5,10.7,6.3,0,150,Yes,Entertainment,2.3,4,No,76.3,7,1.94,No,No,No
+STU-02517,25,Other,Culinary Arts,5.3,1.2,365.0,9,90,2,9,15.1,2.5,0,75,Yes,Entertainment,15.9,1,No,79.4,6,2.34,Yes,Yes,No
+STU-00205,34,Male,Biology/Science,7.8,3.0,535.0,2,87,9,3,15.1,6.7,67,0,No,Gaming,9.1,6,Yes,81.0,6,2.23,Yes,No,Yes
+STU-03517,18,Other,Computer Science,9.2,4.0,106.0,7,85,2,3,13.4,4.2,33,38,No,Entertainment,4.5,7,Yes,83.6,7,2.21,Yes,Yes,No
+STU-02193,59,Female,Education,5.1,4.8,159.0,5,95,1,4,15.1,6.3,30,150,No,Social Media/Trends,2.3,8,Yes,79.0,2,2.09,No,Yes,Yes
+STU-02023,61,Male,Computer Science,7.4,3.0,381.0,1,97,5,3,1.0,3.4,23,38,No,Gaming,9.1,5,No,89.8,5,2.67,Yes,Yes,Yes
+STU-03629,19,Other,Law,7.3,5.8,430.0,10,117,2,5,3.6,8.0,22,75,No,News,4.5,6,No,80.6,6,2.34,No,Yes,Yes
+STU-03914,44,Female,Nursing,6.7,0.6,258.0,5,74,6,3,9.8,5.5,23,0,No,Gaming,6.8,4,No,95.9,1,2.61,Yes,Yes,Yes
+STU-03671,53,Other,Nursing,3.8,2.4,158.0,7,78,6,4,14.2,2.5,69,150,No,Education,2.3,8,Yes,74.3,7,1.84,Yes,No,No
+STU-03735,64,Other,Other Program,5.7,1.8,34.0,8,82,4,4,12.5,2.9,34,75,No,Gaming,9.1,1,No,96.3,1,2.96,Yes,Yes,Yes
+STU-01641,54,Male,Biology/Science,6.9,5.1,304.0,8,66,3,4,10.7,2.1,10,112,No,Social Media/Trends,4.5,10,Yes,81.6,3,1.75,Yes,Yes,No
+STU-03274,26,Female,Nursing,4.1,0.5,321.0,9,119,1,8,8.1,4.6,26,150,No,Social Media/Trends,9.1,5,Yes,80.8,0,2.14,Yes,Yes,Yes
+STU-01691,39,Female,Fine Arts,6.2,4.0,278.0,3,61,1,2,13.4,4.2,7,0,Yes,Education,6.8,4,Yes,89.1,1,2.53,Yes,Yes,No
+STU-04051,34,Male,Sports Science,7.1,2.2,117.0,8,105,6,4,8.1,5.9,51,38,No,Social Media/Trends,2.3,4,No,90.3,3,2.59,Yes,No,Yes
+STU-04767,23,Female,Fine Arts,6.4,0.1,274.0,8,60,7,5,5.4,6.7,43,112,No,Education,2.3,7,Yes,66.4,3,2.32,Yes,Yes,Yes
+STU-03622,41,Male,Fine Arts,8.2,5.9,110.0,1,118,1,1,8.9,6.3,20,112,No,Entertainment,0.0,7,Yes,90.3,4,1.59,No,Yes,No
+STU-03240,46,Male,Computer Science,4.4,0.5,491.0,10,107,3,8,11.6,,61,150,No,Gaming,13.6,7,Yes,72.9,1,2.5,Yes,No,Yes
+STU-00256,36,Female,Medicine,5.5,1.5,356.0,10,112,1,10,12.5,7.2,47,150,No,Entertainment,20.5,7,No,61.5,3,2.17,Yes,No,Yes
+STU-04041,56,Male,Other Program,6.5,0.3,115.0,10,110,1,5,1.9,4.2,63,0,Yes,Gaming,11.4,8,No,89.4,2,2.33,Yes,Yes,Yes
+STU-00605,47,Male,Computer Science,5.6,0.3,156.0,9,86,8,4,7.2,1.7,18,75,Yes,Social Media/Trends,4.5,7,Yes,90.5,4,2.36,No,Yes,No
+STU-04215,41,Female,Culinary Arts,7.9,2.0,231.0,9,86,4,3,2.8,2.1,7,75,No,Gaming,4.5,9,Yes,71.8,4,2.33,No,No,Yes
+STU-03197,64,Male,Information Systems,7.9,3.3,352.0,1,106,3,3,13.4,7.6,57,0,No,Education,6.8,8,No,84.7,3,2.2,Yes,Yes,No
+STU-03898,37,Female,Biology/Science,7.8,0.3,361.0,10,61,4,7,8.9,4.6,59,112,No,Gaming,2.3,9,Yes,100.0,4,2.59,No,No,Yes
+STU-00536,38,Other,Medicine,5.6,1.0,591.0,8,119,3,10,13.4,,67,150,No,News,18.2,6,No,81.2,10,2.59,No,Yes,No
+STU-00780,44,Other,Sports Science,6.1,3.7,128.0,10,94,9,4,1.9,0.4,54,38,Yes,Education,2.3,7,Yes,88.9,6,2.38,Yes,Yes,Yes
+STU-00373,62,Male,Visual Communication Design,7.9,1.7,244.0,9,67,9,3,5.4,4.6,60,75,No,Social Media/Trends,2.3,7,No,88.0,2,2.37,No,Yes,No
+STU-02228,36,Male,Fine Arts,4.2,3.3,358.0,8,91,4,8,8.1,5.1,59,75,No,Entertainment,20.5,7,Yes,81.9,3,2.73,Yes,Yes,Yes
+STU-01639,20,Other,Nursing,7.0,3.7,,1,108,10,2,2.8,5.5,61,150,No,News,,7,No,,6,2.27,No,Yes,No
+STU-02214,35,Other,Fine Arts,5.3,3.7,286.0,8,105,1,4,16.0,6.3,21,150,Yes,News,0.0,9,Yes,78.1,2,1.76,No,Yes,No
+STU-00848,44,Other,Medicine,6.8,2.5,475.0,9,64,6,6,2.8,6.3,50,75,Yes,Gaming,2.3,1,No,93.0,5,2.62,No,Yes,No
+STU-02814,25,Other,Law,6.1,3.9,524.0,2,81,4,4,2.8,6.7,11,75,Yes,Gaming,6.8,10,Yes,56.8,7,2.23,Yes,Yes,Yes
+STU-01698,54,Other,Fine Arts,6.1,3.7,138.0,5,65,7,4,15.1,4.6,40,112,Yes,Social Media/Trends,0.0,9,Yes,71.9,6,2.01,No,Yes,Yes
+STU-01605,48,Female,Nursing,5.7,3.2,315.0,6,73,8,4,1.0,5.9,0,112,No,Gaming,0.0,6,No,65.8,5,2.07,No,No,Yes
+STU-02767,33,MALE,Electrical Engineering,8.3,2.7,314.0,6,117,3,3,5.4,2.1,32,75,No,Entertainment,0.0,6,No,74.5,0,2.15,No,Yes,Yes
+STU-01655,42,Male,Nursing,6.7,1.4,114.0,2,83,2,3,15.1,3.4,57,112,No,Education,4.5,10,Yes,81.0,6,2.09,Yes,Yes,No
+STU-04773,34,Other,Medicine,5.7,4.7,,4,87,2,4,11.6,6.7,53,112,Yes,Education,4.5,7,No,94.6,3,2.5,Yes,No,No
+STU-00612,45,MALE,Electrical Engineering,6.4,1.6,311.0,4,68,1,2,1.9,6.7,12,75,Yes,Gaming,4.5,6,No,85.6,2,2.42,No,Yes,Yes
+STU-02562,38,Female,Information Systems,7.0,1.4,323.0,8,107,7,5,16.0,1.3,38,38,Yes,Gaming,9.1,3,No,72.5,0,2.66,Yes,No,No
+STU-04157,49,Male,Information Systems,4.8,1.2,477.0,9,99,3,10,10.7,5.5,0,75,No,Social Media/Trends,15.9,6,Yes,74.5,3,2.34,Yes,Yes,Yes
+STU-03024,35,Male,Culinary Arts,5.7,1.7,170.0,10,72,8,5,8.9,0.0,47,112,No,News,2.3,8,Yes,76.9,4,2.27,Yes,No,No
+STU-04751,57,Other,Culinary Arts,6.6,3.5,237.0,6,117,5,4,1.0,5.9,20,0,Yes,News,0.0,6,Yes,80.5,4,2.16,No,Yes,No
+STU-04930,19,Female,Education,7.3,4.9,61.0,3,68,3,2,13.4,7.6,42,75,Yes,Education,0.0,8,Yes,72.4,8,1.94,No,No,No
+STU-03103,35,Male,Computer Science,7.2,2.3,258.0,8,91,1,5,6.3,7.6,46,0,Yes,Gaming,2.3,7,No,91.7,7,2.53,No,No,No
+STU-02902,46,Female,Computer Science,4.8,2.9,346.0,3,91,10,4,3.6,5.9,0,150,No,Gaming,6.8,8,Yes,67.2,7,2.41,No,No,Yes
+STU-04562,51,Female,Education,8.9,4.0,10.0,2,80,7,2,10.7,6.3,46,0,Yes,Entertainment,4.5,9,Yes,81.3,4,2.01,Yes,Yes,Yes
+STU-04869,60,Other,Medicine,5.7,2.2,402.0,6,116,7,4,8.9,0.0,15,112,Yes,Gaming,6.8,8,Yes,78.9,7,2.52,Yes,Yes,No
+STU-00513,59,Other,Biology/Science,6.8,5.3,508.0,10,87,5,6,7.2,0.4,7,75,Yes,Gaming,9.1,5,Yes,75.0,0,2.61,Yes,No,No
+STU-00196,24,Female,Law,8.5,1.0,596.0,6,67,9,4,7.2,,41,112,No,Education,9.1,4,No,77.3,0,2.5,Yes,No,Yes
+STU-04155,54,Female,Law,6.3,5.5,535.0,5,113,7,4,7.2,6.3,35,0,Yes,Education,0.0,7,No,60.8,5,2.28,No,No,No
+STU-01451,37,Female,Computer Science,6.8,4.2,255.0,3,107,9,4,9.8,0.4,32,150,No,News,0.0,6,Yes,85.7,2,2.28,No,No,Yes
+STU-02861,41,Male,Culinary Arts,7.6,4.0,110.0,8,95,8,4,4.5,2.5,40,112,Yes,Gaming,4.5,1,No,100.0,4,3.12,No,Yes,No
+STU-04207,62,Female,Nursing,7.7,0.1,109.0,7,68,4,4,6.3,4.2,56,150,Yes,Gaming,6.8,7,Yes,84.4,4,2.41,Yes,No,No
+STU-03264,31,Male,Electrical Engineering,5.5,2.8,309.0,9,109,1,5,11.6,4.2,52,0,Yes,News,2.3,5,No,81.5,4,2.1,No,Yes,Yes
+STU-01002,53,Other,Biology/Science,5.4,2.1,585.0,10,78,9,6,7.2,8.0,36,112,Yes,News,0.0,9,Yes,74.7,3,2.09,No,Yes,Yes
+STU-04623,53,Female,Other Program,7.8,4.1,18.0,4,64,2,4,1.0,7.2,20,150,Yes,News,6.8,2,Yes,100.0,2,2.91,Yes,Yes,No
+STU-01367,44,male,Visual Communication Design,3.9,0.1,554.0,8,113,4,9,12.5,2.1,0,150,No,Social Media/Trends,18.2,10,Yes,60.1,3,2.18,Yes,No,No
+STU-03532,62,Male,Visual Communication Design,5.6,2.4,287.0,1,108,9,1,11.6,4.2,40,75,No,Education,4.5,2,No,77.3,4,2.65,Yes,No,No
+STU-03856,31,male,Electrical Engineering,6.1,3.9,528.0,9,64,1,5,1.9,7.2,0,0,No,Gaming,2.3,7,No,72.0,3,2.16,Yes,No,Yes
+STU-03017,56,Other,Nursing,7.4,5.1,311.0,10,95,7,4,1.9,7.6,12,75,,Entertainment,2.3,9,Yes,90.3,6,2.56,No,Yes,No
+STU-02998,59,Female,Visual Communication Design,7.8,1.9,239.0,2,88,7,2,16.0,7.6,78,38,,Social Media/Trends,0.0,3,Yes,92.9,0,2.24,No,Yes,No
+STU-04319,20 yrs,Other,Information Systems,9.7,5.1,237.0,2,82,3,1,13.4,,58,38,No,Education,2.3,1,No,81.0,0,2.24,Yes,Yes,No
+STU-00340,26,Female,Law,7.6,1.5,333.0,5,65,1,3,12.5,4.6,28,38,Yes,Education,2.3,7,No,78.9,5,1.91,Yes,Yes,Yes
+STU-00450,27,Female,Computer Science,9.6,1.9,257.0,4,70,4,2,16.0,5.1,51,150,Yes,News,6.8,9,No,88.0,2,2.25,No,No,No
+STU-00445,50,Other,Electrical Engineering,7.1,8.0,536.0,10,94,3,6,11.6,0.0,0,75,No,News,4.5,1,No,79.4,3,2.71,Yes,No,Yes
+STU-00146,40,Other,Computer Science,6.9,3.1,140.0,2,86,3,1,4.5,5.5,33,0,No,News,0.0,6,No,76.5,5,2.7,No,Yes,No
+STU-00172,49,FEMALE,Visual Communication Design,8.1,2.9,233.0,5,75,2,2,5.4,4.6,0,0,Yes,News,2.3,3,Yes,92.2,1,3.0,No,No,Yes
+STU-00473,53,Male,Visual Communication Design,5.2,2.3,296.0,1,93,3,1,14.2,5.9,19,112,Yes,Education,4.5,7,Yes,81.9,1,2.16,Yes,Yes,Yes
+STU-01376,51,Other,Sports Science,6.1,5.5,175.0,3,73,7,3,14.2,2.5,94,75,No,Gaming,2.3,10,Yes,67.5,3,1.72,No,No,No
+STU-03738,48,female,Biology/Science,4.2,1.3,584.0,10,91,1,8,10.7,6.7,13,112,No,Education,9.1,5,Yes,85.5,2,2.82,No,Yes,Yes
+STU-02020,43,Other,Sports Science,3.9,1.4,395.0,9,99,4,9,16.0,7.2,3,150,No,,20.5,2,Yes,93.9,1,3.16,Yes,Yes,Yes
+STU-00017,48,Other,Biology/Science,6.8,0.5,499.0,1,111,4,1,9.8,0.8,17,112,No,News,0.0,5,No,86.5,4,2.63,No,Yes,No
+STU-01490,46,Male,Other Program,5.5,0.2,,3,112,1,2,8.9,3.4,28,38,No,,11.4,3,Yes,83.3,7,2.63,Yes,Yes,Yes
+STU-02618,23,Female,Computer Science,6.7,1.1,290.0,1,74,9,1,6.3,1.3,15,38,No,Education,0.0,3,No,100.0,4,2.91,No,Yes,No
+STU-03016,24,Male,Nursing,7.6,0.4,174.0,2,86,8,1,5.4,4.2,0,0,No,Education,0.0,9,Yes,72.4,2,1.97,No,No,Yes
+STU-03760,57,Other,Computer Science,6.4,1.5,126.0,2,60,1,2,5.4,3.8,37,38,No,Gaming,9.1,4,Yes,87.7,5,2.4,Yes,Yes,No
+STU-01362,62,Female,Nursing,6.8,1.5,120.0,2,119,9,1,7.2,,36,38,Yes,News,4.5,7,Yes,78.0,5,2.32,No,Yes,Yes
+STU-02574,34,Female,Other Program,6.7,4.1,121.0,10,81,10,3,6.3,5.9,4,0,No,Gaming,0.0,9,Yes,64.9,4,2.27,No,Yes,Yes
+STU-03364,43,Female,Information Systems,7.7,1.7,138.0,10,88,4,3,14.2,5.5,31,38,Yes,News,11.4,3,Yes,76.5,2,2.63,Yes,No,Yes
+STU-01640,31,Male,Medicine,7.1,5.2,349.0,3,79,5,1,14.2,1.3,71,75,,Social Media/Trends,4.5,5,No,,3,2.79,Yes,No,Yes
+STU-00724,27,Other,Culinary Arts,4.3,1.4,488.0,8,98,2,8,11.6,8.0,19,75,No,Education,18.2,4,No,83.4,6,2.78,No,Yes,Yes
+STU-00971,28,Other,Nursing,6.7,1.5,248.0,5,88,9,3,8.1,0.0,47,150,No,Social Media/Trends,4.5,5,No,75.7,4,2.59,Yes,No,No
+STU-01017,27,MALE,Education,8.4,4.5,4.0,1,89,6,4,15.1,2.1,0,38,Yes,Social Media/Trends,11.4,10,Yes,100.0,3,2.21,Yes,No,Yes
