@@ -3,7 +3,9 @@ import glob
 import os
 from sklearn.model_selection import train_test_split
 from catboost import CatBoostClassifier
+from sklearn.model_selection import StratifiedKFold
 import sklearn.metrics as metrics
+import numpy as np
 
 # Path folder
 folder_path = "data"
@@ -74,9 +76,13 @@ for file in files:
         df["age"] = pd.to_numeric(df["age"], errors="coerce")
 
     # Mengubah semua kolom teks ke lowercase
+    # Pada bagian respondent_id akan diubah menjadi uppercase
     # Menghapus spasi di awal dan akhir teks
-    for col in df.select_dtypes(include="string").columns:
-        df[col] = df[col].str.lower().str.strip()
+    for col in df.select_dtypes(include=["object", "string"]).columns:
+        df[col] = df[col].astype(str).str.lower().str.strip()
+
+    if "respondent_id" in df.columns:
+        df["respondent_id"] = df["respondent_id"].str.upper()
 
     
     # ===========================
@@ -92,9 +98,10 @@ for file in files:
             df[col] = df[col].fillna(median)
 
     # Mengisi missing values kategorikal dengan modus
-    kolom_kategorikal = df.select_dtypes(include = "string").columns
-
+    kolom_kategorikal = df.select_dtypes(include = ["object", "string"]).columns
+    
     for col in kolom_kategorikal:
+        df[col] = df[col].replace("nan", pd.NA)
         if df[col].isnull().any():
             modus = df[col].mode()[0]
             df[col] = df[col].fillna(modus)
@@ -171,10 +178,42 @@ kategorikal = X_train.select_dtypes(
     include=["object", "string"]
     ).columns.to_list()
 
-print(f"\nJumlah data X_train: {X_train.shape[0]} baris")
-print(f"Jumlah data X_val: {X_val.shape[0]} baris")
-print(f"Jumlah data y_train: {y_train.shape[0]} baris")
-print(f"Jumlah data y_val: {y_val.shape[0]} baris")
+skf = StratifiedKFold(
+    n_splits=5, shuffle=True, random_state=42
+    )
+f1_scores = []
+acc_scores = []
+
+print("\n" + "="*60)
+print("CROSS-VALIDATION (5-FOLD)")
+print("="*60)
+
+for fold, (train_idx, val_idx) in enumerate(skf.split(X, y)):
+    X_tr, X_va = X.iloc[train_idx], X.iloc[val_idx]
+    y_tr, y_va = y.iloc[train_idx], y.iloc[val_idx]
+
+    fold_model = CatBoostClassifier(
+        iterations=1000, 
+        depth=6, 
+        learning_rate=0.05,
+        loss_function='MultiClass', 
+        random_seed=42,
+        early_stopping_rounds=50, 
+        verbose=False
+    )
+    fold_model.fit(X_tr, y_tr, eval_set=(X_va, y_va), cat_features=kategorikal)
+
+    pred = fold_model.predict(X_va).flatten()
+    f1 = metrics.f1_score(y_va, pred, average='macro')
+    acc = metrics.accuracy_score(y_va, pred)
+    f1_scores.append(f1)
+    acc_scores.append(acc)
+    print(f"Fold {fold+1} - Accuracy: {acc:.4f} | Macro F1: {f1:.4f}")
+
+accuracy = np.mean(acc_scores)
+f1_macro = np.mean(f1_scores)
+print(f"\nRata-rata Accuracy : {accuracy:.4f} (+/- {np.std(acc_scores):.4f})")
+print(f"Rata-rata Macro F1 : {f1_macro:.4f} (+/- {np.std(f1_scores):.4f})")
 
 # ========================================================
 # PEMODELAN DENGAN CATBOOST
@@ -190,33 +229,13 @@ model = CatBoostClassifier(
     verbose=100
 )
 
-print("\n" + "="*60)
-print("TRAINING CATBOOST")
-print("="*60)
-
 model.fit(
     X_train,
     y_train,
-    eval_set=(X_val, y_val),
     cat_features=kategorikal
 )
 
-# Memprediksi data validation
-y_pred = model.predict(X_val)
-
-# Mengubah bentuk array menjadi 1 dimensi
-y_pred = y_pred.flatten()
-
-# Menghitung akurasi
-accuracy = metrics.accuracy_score(y_val, y_pred)
-print(f"\nAkurasi model: {accuracy}")
-
-# Macro F1
-f1_macro = metrics.f1_score(
-    y_val,
-    y_pred,
-    average='macro'
-)
+y_pred = model.predict(X_val).flatten()
 
 print("\n" + "="*60)
 print("HASIL EVALUASI")
@@ -291,6 +310,7 @@ X_test_pred = df_test.drop(columns=["respondent_id"])
 # Memprediksi data test
 y_test_pred = model.predict(X_test_pred)
 
+
 # Mengubah bentuk array menjadi 1 dimensi
 y_test_pred = y_test_pred.flatten()
 
@@ -306,6 +326,8 @@ submission = pd.DataFrame({
     "respondent_id": df_test["respondent_id"],
     "digital_academic_wellbeing_level": y_test_pred
 })
+
+submission["respondent_id"] = submission["respondent_id"].str.upper()
 
 print("\n" + "="*60)
 print("SUBMISSION")
