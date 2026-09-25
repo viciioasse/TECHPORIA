@@ -6,6 +6,8 @@ from catboost import CatBoostClassifier
 from sklearn.model_selection import StratifiedKFold
 import sklearn.metrics as metrics
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Path folder
 folder_path = "data"
@@ -157,6 +159,17 @@ X = df_train.drop(columns=["respondent_id", TARGET])
 # y adalah target yang akan diprediksi
 y = df_train[TARGET]
 
+# Visualisasi distribusi kelas target
+fig, ax = plt.subplots(figsize=(6, 5))
+y.value_counts().plot(kind='bar', color=['#4C72B0', '#DD8452', '#55A868'], ax=ax)
+ax.set_xlabel('Kelas')
+ax.set_ylabel('Jumlah')
+ax.set_title('Distribusi Kelas Target')
+ax.tick_params(axis='x', rotation=0)
+plt.tight_layout()
+plt.savefig('data/class_distribution.png', dpi=150)
+plt.show()
+
 print(f"\nJumlah feature (X) yang digunakan: ", X.shape[1])
 print(f"\nNama feature (X) yang digunakan:")
 print(X.columns.tolist())
@@ -215,6 +228,22 @@ f1_macro = np.mean(f1_scores)
 print(f"\nRata-rata Accuracy : {accuracy:.4f} (+/- {np.std(acc_scores):.4f})")
 print(f"Rata-rata Macro F1 : {f1_macro:.4f} (+/- {np.std(f1_scores):.4f})")
 
+# Visualisasi hasil cross-validation per fold
+fig, axes = plt.subplots(figsize=(8, 5))
+folds = range(1, len(f1_scores) + 1)
+axes.plot(folds, acc_scores, marker='o', label='Accuracy')
+axes.plot(folds, f1_scores, marker='s', label='Macro F1')
+axes.axhline(y=np.mean(f1_scores), color='gray', linestyle='--', alpha=0.5, label='Rata-rata Macro F1')
+axes.set_xlabel('Fold')
+axes.set_ylabel('Skor')
+axes.set_title('Performa Cross-Validation per Fold')
+axes.set_xticks(list(folds))
+axes.legend()
+axes.grid(alpha=0.3)
+plt.tight_layout()
+plt.savefig('data/cv_performance.png', dpi=150)
+plt.show()
+
 # ========================================================
 # PEMODELAN DENGAN CATBOOST
 # ========================================================
@@ -270,6 +299,20 @@ cm = metrics.confusion_matrix(
 print ("\nConfusion Matrix:")
 print(cm)
 
+# Visualiasasi confusion matrix
+fig, axes = plt.subplots(figsize=(6, 5))
+sns.heatmap(
+    cm, annot=True, fmt='d', ax=axes, cmap='Blues',
+    xticklabels=['low', 'medium', 'high'],
+    yticklabels=['low', 'medium', 'high']
+    axes=axes
+    )
+axes.set_xlabel('Prediksi')
+axes.set_ylabel('Asli')
+axes.set_title('Confusion Matrix')
+plt.tight_layout()
+plt.savefig('data/confusion_matrix.png', dpi=150)
+plt.show()
 
 # =======================================================
 # FEATURE IMPORTANCE
@@ -291,6 +334,16 @@ print("="*60)
 
 print(feature_importance)
 
+# Visualisasi feature importance
+fig, axes = plt.subplots(figsize=(9, 8))
+top_features = feature_importance.head(15)
+axes.barh(top_features['feature'], top_features['importance'], color='skyblue')
+axes.invert_yaxis()
+axes.set_xlabel('Importance')
+axes.set_title('Top 15 Feature Importance')
+plt.tight_layout()
+plt.savefig('data/feature_importance.png', dpi=150)
+plt.show()
 
 # ========================
 # PREDIKSI DATA TEST
