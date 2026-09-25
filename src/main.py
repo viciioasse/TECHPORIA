@@ -305,7 +305,6 @@ sns.heatmap(
     cm, annot=True, fmt='d', ax=axes, cmap='Blues',
     xticklabels=['low', 'medium', 'high'],
     yticklabels=['low', 'medium', 'high']
-    axes=axes
     )
 axes.set_xlabel('Prediksi')
 axes.set_ylabel('Asli')
